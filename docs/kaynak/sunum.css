@@ -1,0 +1,37 @@
+/* Sunum: 16:9, her slayt bir sayfa. Başlık = bulgu cümlesi (yönerge gereği). */
+@page { size: 1280px 720px; margin: 0; }
+body { font-family: var(--f-arayuz); }
+.slayt {
+  width: 1280px; height: 720px; position: relative; overflow: hidden; page-break-after: always;
+  padding: 46px 64px 40px; display: flex; flex-direction: column; gap: 18px;
+}
+.slayt:last-child { page-break-after: auto; }
+.ust { display: flex; justify-content: space-between; align-items: baseline;
+  font: 600 13px var(--f-arayuz); letter-spacing: .08em; text-transform: uppercase; color: var(--soluk); }
+.ust .no { font-family: var(--f-veri); letter-spacing: 0; }
+h1 { font: 700 44px/1.05 var(--f-baslik); margin: 0; text-wrap: balance; max-width: 1100px; }
+h1 em { font-style: normal; color: var(--vurgu); }
+.alt { font-size: 21px; line-height: 1.35; color: var(--soluk); max-width: 1050px; margin: 0; }
+.govde { flex: 1; min-height: 0; display: grid; gap: 28px; }
+.iki { grid-template-columns: 1.55fr 1fr; align-items: center; }
+.iki-esit { grid-template-columns: 1fr 1fr; align-items: center; }
+.govde img { max-height: 100%; object-fit: contain; margin: 0 auto; }
+.not { font-size: 19px; line-height: 1.4; display: grid; gap: 12px; }
+.not p { margin: 0; }
+.not b { color: var(--metin); }
+.sayi { font: 700 64px/1 var(--f-baslik); color: var(--vurgu); }
+.sayi small { font-size: 22px; color: var(--soluk); font-weight: 600; }
+.etiket { font-size: 15px; color: var(--soluk); margin-top: 2px; }
+.kaynakca { position: absolute; left: 64px; bottom: 18px; font-size: 12px; color: var(--soluk); }
+.kapak { background: var(--metin); color: #fff; justify-content: center; }
+.kapak h1 { font-size: 64px; color: #fff; max-width: 1050px; }
+.kapak .alt { color: #c9d2db; font-size: 24px; }
+.kapak .ust { color: #c9d2db; }
+.kapak .imza { margin-top: 30px; font-size: 18px; color: #c9d2db; line-height: 1.5; }
+.serit { position: absolute; left: 0; right: 0; bottom: 0; height: 10px;
+  background: linear-gradient(90deg, var(--vurgu) 0 55%, var(--kv154) 55% 85%, #9aa6b2 85%); }
+table.kucuk { font-size: 17px; }
+table.kucuk td, table.kucuk th { padding: 6px 8px; }
+.akis { display: flex; gap: 10px; flex-wrap: wrap; font-size: 18px; }
+.akis span { padding: 8px 14px; border: 1.5px solid var(--cizgi); border-radius: 6px; }
+.akis span.aktif { border-color: var(--vurgu); color: var(--vurgu); font-weight: 700; }

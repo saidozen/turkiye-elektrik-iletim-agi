@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<title>Türkiye İletim Şebekesi — Ağ Posteri (A3)</title>
+<link rel="stylesheet" href="ortak.css">
+<style>
+@page { size: 297mm 420mm; margin: 0; }
+body { width: 297mm; height: 419mm; font: 10.5pt/1.38 var(--f-arayuz); position: relative; overflow: hidden; }
+.bant { background: var(--metin); color: #fff; padding: 10mm 14mm 7mm; position: relative; }
+.bant .ust { font: 700 9pt var(--f-arayuz); letter-spacing: .14em; text-transform: uppercase; color: #aab6c2; }
+.bant h1 { font: 700 36pt/0.98 var(--f-baslik); margin: 3mm 0 3mm; max-width: 250mm; text-wrap: balance; }
+.bant h1 em { font-style: normal; color: #ff6b5e; }
+.bant .soru { font: 13pt/1.35 var(--f-govde); color: #dfe5ea; max-width: 235mm; margin: 0; }
+.serit { height: 3mm; background: linear-gradient(90deg, var(--vurgu) 0 55%, var(--kv154) 55% 85%, #9aa6b2 85%); }
+.sayilar { display: grid; grid-template-columns: repeat(5, 1fr); gap: 0; border-bottom: .6pt solid var(--cizgi); }
+.sayilar div { padding: 4mm 5mm 3.5mm 6mm; border-right: .6pt solid var(--cizgi); }
+.sayilar div:first-child { padding-left: 14mm; }
+.sayilar div:last-child { border-right: 0; }
+.sayilar b { display: block; font: 700 27pt/1 var(--f-baslik); color: var(--metin); }
+.sayilar b.k { color: var(--vurgu); }
+.sayilar span { font-size: 8.8pt; color: var(--soluk); line-height: 1.25; display: block; margin-top: 1.5mm; }
+.icerik { padding: 4.5mm 14mm 0; display: grid; gap: 3.5mm; }
+.blok h2 { font: 700 15pt/1.1 var(--f-baslik); margin: 0 0 1.5mm; text-wrap: balance; }
+.blok h2 .n { color: var(--vurgu); margin-right: 2mm; }
+.blok p { margin: 0 0 1.5mm; font-size: 9.8pt; }
+.blok img { width: 100%; }
+.uc img { max-height: 76mm; object-fit: contain; }
+.uc .grafik { max-height: 64mm; }
+.iki { display: grid; grid-template-columns: 1fr 1fr; gap: 7mm; align-items: start; }
+.uc { display: grid; grid-template-columns: 1.15fr 1fr; gap: 7mm; align-items: start; }
+.harita-blok { display: grid; grid-template-columns: 1fr 100mm; gap: 6mm; align-items: center; }
+.yan-not { font-size: 9.6pt; display: grid; gap: 2.2mm; }
+.yan-not ol { margin: 0; padding-left: 4.5mm; }
+.yan-not li { margin-bottom: 1mm; }
+table { font-size: 8.8pt; }
+.cevap { background: var(--zemin); border-left: 2.5mm solid var(--vurgu); padding: 4mm 6mm; }
+.cevap h2 { margin-bottom: 2mm; }
+.cevap p { font: 10.6pt/1.4 var(--f-govde); margin: 0 0 1.5mm; }
+.alt { position: absolute; left: 0; right: 0; bottom: 0; padding: 4mm 14mm 5mm; border-top: .6pt solid var(--cizgi);
+  font-size: 7.8pt; color: var(--soluk); display: grid; grid-template-columns: 1.4fr 1fr; gap: 8mm; }
+.alt b { color: var(--metin); }
+</style>
+</head>
+<body>
+<div class="bant">
+  <div class="ust">Sosyal Ağ Analizi · MCBÜ Büyük Veri Analistliği · Said Özen</div>
+  <h1>Türkiye şebekesi radyal uçlarda <em>bölünür</em>, Marmara–Anadolu koridorundan <em>çöker</em></h1>
+  <p class="soru">İletim ağında hangi trafo merkezleri tek hata noktası? Basit bir zincirleme arıza nasıl yayılır? OpenStreetMap'ten kurulan 1.193 trafo merkezli ağda eklem noktaları ve yük yeniden dağıtım modeliyle cevap.</p>
+</div>
+<div class="serit"></div>
+<div class="sayilar">
+  <div><b>1.193</b><span>trafo merkezi (düğüm)<br>1.543 iletim bağlantısı (kenar)</span></div>
+  <div><b class="k">326</b><span>eklem noktası (%30)<br>yalnızca 14'ü 10+ merkez koparır</span></div>
+  <div><b>0,89</b><span>modülerlik, 25 bölgesel topluluk<br>null modele göre z = 45</span></div>
+  <div><b class="k">%32</b><span>en yüklü merkez düşerse ayakta kalan en büyük parça (α = 0,25)</span></div>
+  <div><b>%97</b><span>rastgele bir merkez düşerse ayakta kalan en büyük parça</span></div>
+</div>
+
+<div class="icerik">
+  <div class="blok">
+    <h2><span class="n">1</span>Ağı bölen merkezler: radyal kolların başı</h2>
+    <div class="harita-blok">
+      <img src="../../figures/tek_hata_noktalari.png" alt="Tek hata noktaları haritası">
+      <div class="yan-not">
+        <p><b>Eklem noktası</b>, düştüğünde ağı parçalara ayıran merkezdir. Her biri tek tek kaldırılıp ana şebekeden kopan merkezler sayıldı.</p>
+        <ol>
+          <li>Kozan / Kozan Havza: 15 ve 14 merkez</li>
+          <li>Balıkesir-2: 12 (Çanakkale yönü)</li>
+          <li>Silivri, Küre, Bursa DGKÇ: 11'er</li>
+          <li>Aliağa-2, Osmanca, Yatağan, Varsak, Kars: 10'ar</li>
+        </ol>
+        <p>Bu merkezler bölgeyi karanlıkta bırakır ama ülke şebekesini bozmaz. Merkezlerin yalnızca %68'i bir halka üzerindedir; geri kalanlar ağaç gibi dallanan uçlardır.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="blok">
+    <h2><span class="n">2</span>Zincirleme arıza omurgadan başlar: Osmanca düşerse 102 merkez devre dışı</h2>
+    <div class="uc">
+      <img src="../../figures/kaskad_dalgalar.png" alt="Osmanca kaskadı">
+      <div>
+        <img class="grafik" src="../../figures/kaskad_alfa.png" alt="Kaskad sonuçları">
+        <p style="margin-top:2mm"><b>Model</b> (Motter–Lai, 2002): yük = merkezden geçen en kısa yol sayısı; kapasite = (1+α) × başlangıç yükü. Düşen merkezin yükü kalan ağa dağılır, kapasiteyi aşanlar da düşer. Osmanca düşünce batı–doğu yükü güney koridoruna (Muğla–Antalya–Konya–Adana) kayar; 1. dalgada 67, 2. dalgada 31 merkez düşer ve şebeke bölgesel adalara ayrılır.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="iki">
+    <div class="blok">
+      <h2><span class="n">3</span>Topluluklar coğrafyayı izler</h2>
+      <img src="../../figures/topluluklar.png" alt="Topluluk haritası">
+      <p>Louvain ve Leiden: 25 topluluk, Q = 0,890; iki yöntemin uyumu NMI = 0,92; 10 tohumla kararlılık NMI = 0,90. Hatların %94'ü topluluk içinde kalır.</p>
+    </div>
+    <div class="blok">
+      <h2><span class="n">4</span>Yapı rastlantı değil</h2>
+      <table>
+        <tr><th>Ölçü</th><th class="s">Ağ</th><th class="s">Rastgele</th><th class="s">z</th></tr>
+        <tr><td>Kümelenme</td><td class="s">0,204</td><td class="s">0,002</td><td class="s">142</td></tr>
+        <tr><td>Ortalama en kısa yol</td><td class="s">12,7</td><td class="s">6,9</td><td class="s">91</td></tr>
+        <tr><td>Modülerlik</td><td class="s">0,890</td><td class="s">0,716</td><td class="s">45</td></tr>
+        <tr><td>Derece benzeşimi</td><td class="s">−0,027</td><td class="s">−0,002</td><td class="s">−0,9</td></tr>
+      </table>
+      <p>100 configuration model ağıyla karşılaştırma. Şebeke halkalı ve uzun yolludur, "küçük dünya" değildir. Derece dağılımı üsteldir, kuvvet yasası değildir.</p>
+      <div class="cevap" style="margin-top:3mm">
+        <h2>Cevap</h2>
+        <p>Bölgeyi karanlıkta bırakan merkezler (eklem noktaları) ile ülke geneline yayılan arızayı başlatan merkezler farklıdır. İlki radyal kollardadır, ikincisi Osmanca–Kurşunlu–Kayabaşı 380 kV koridorundadır.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="alt">
+  <div><b>Veri:</b> © OpenStreetMap katkıcıları (ODbL), Overpass API, 28.10.2026. Düğüm: trafo merkezi (minor_distribution hariç); kenar: ≥66 kV ya da gerilimi etiketsiz iletim hattı; yönsüz, ağırlıksız. <b>Sınırlar:</b> OSM eksiktir (hatların %26'sı gerilimsiz, 38 kopuk parça); kaskad modeli elektriksel güç akışı değil, en kısa yol yaklaşımıdır.</div>
+  <div><b>Said Özen</b> · 2516016014 · Öğr. Gör. Osman Can Çetlenbik<br>Kod, veri ve rapor: GitHub deposu · Etkileşimli ağ: portfolyo<br>Python · NetworkX · powerlaw · Cytoscape.js · Yapay zekâ desteği README'de beyan edilmiştir.</div>
+</div>
+</body>
+</html>

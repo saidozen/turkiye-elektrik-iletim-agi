@@ -1,0 +1,11 @@
+# Python 3.11+ (geliştirme: Python 3.13)
+networkx>=3.4        # Leiden (nx.community.leiden_communities) için 3.4+
+pandas>=2.0
+numpy>=1.26
+scipy>=1.11
+scikit-learn>=1.3    # NMI / ARI
+matplotlib>=3.8
+requests>=2.31       # Overpass API
+powerlaw>=1.5
+mpmath>=1.3          # powerlaw bağımlılığı
+playwright>=1.40     # yalnızca PDF üretimi için (src/pdf_uret.py); ardından: playwright install chromium

@@ -1,0 +1,46 @@
+{
+  "ana_ag": {
+    "osm_trafo_merkezi": 4243,
+    "osm_hat_yolu": 4698,
+    "hat_gerilim_bilinmiyor": 1221,
+    "hat_dagitim_seviyesi_elenen": 28,
+    "hat_secilen": 4670,
+    "uc_nokta": 7168,
+    "uc_nokta_yapisan": 3986,
+    "sarkan_uc_nokta": 1719,
+    "kume_3ten_fazla_trafo": 99,
+    "kume_trafoya_degmeyen": 438,
+    "dugum": 1193,
+    "kenar": 1543,
+    "bilesen": 39,
+    "en_buyuk_bilesen": 1072,
+    "trafo_hatsiz_disarida": 3050
+  },
+  "siki_ag_sadece_bilinen_gerilim": {
+    "osm_trafo_merkezi": 4243,
+    "osm_hat_yolu": 4698,
+    "hat_gerilim_bilinmiyor": 1221,
+    "hat_dagitim_seviyesi_elenen": 28,
+    "hat_secilen": 3449,
+    "uc_nokta": 4978,
+    "uc_nokta_yapisan": 3247,
+    "sarkan_uc_nokta": 494,
+    "kume_3ten_fazla_trafo": 89,
+    "kume_trafoya_degmeyen": 46,
+    "dugum": 1084,
+    "kenar": 1401,
+    "bilesen": 29,
+    "en_buyuk_bilesen": 988,
+    "trafo_hatsiz_disarida": 3159
+  },
+  "parametreler": {
+    "min_gerilim_v": 66000,
+    "yapisma_m": 300,
+    "kutu_payi_m": 50,
+    "haric_trafo_turu": [
+      "minor_distribution"
+    ]
+  },
+  "indirme_zamani_utc": "2026-10-28T19:03:50+00:00",
+  "osm_veri_zamani": null
+}

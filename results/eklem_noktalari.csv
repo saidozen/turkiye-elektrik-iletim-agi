@@ -1,0 +1,327 @@
+id,ad,il,gerilim_kv,derece,parca_sayisi,kopan_dugum,kopan_iller
+w175488707,Kozan TM,Osmaniye,154,4,2,15,"Adana, Kahramanmaraş, Osmaniye"
+w849498996,Kozan Havza TM,Adana,154,4,4,14,"Adana, Kahramanmaraş, Osmaniye"
+w180552569,Balıkesir-2 TM,Balıkesir,400,12,3,12,"Balıkesir, Çanakkale"
+w188443258,Küre TM,Kastamonu,154,4,2,11,"Bartın, Karabük, Zonguldak, Çankırı"
+w173325168,Silivri TM,Tekirdağ,154,4,2,11,"Tekirdağ, İstanbul"
+w132022308,Bursa DGKÇ TM,Bursa,400,3,2,11,"Bursa, Yalova"
+w130576633,Aliağa-2 TM,İzmir,400,15,5,10,İzmir
+w174078394,Osmanca TM,Düzce,400,12,4,10,"Bartın, Düzce, Zonguldak"
+w127886746,Yatağan TES TM,Muğla,400,9,3,10,"Aydın, Muğla"
+w189674627,Orhangazi TM,Yalova,154,7,4,10,"Bursa, Yalova"
+w95171610,Varsak TM,Antalya,400,7,2,10,Antalya
+w178445983,Bozkurt TM,Denizli,154,4,2,10,"Afyonkarahisar, Burdur, Isparta"
+w235962227,Kars TM,Kars,154,4,2,10,"Ardahan, Artvin, Kars"
+w188488047,Cide TM,Bartın,154,3,2,10,"Bartın, Karabük, Zonguldak, Çankırı"
+w177511798,AKORSAN TM,Antalya,154,4,3,9,"Antalya, Isparta"
+w184420046,Gökdere Köprü HES TM,Adana,154,3,2,9,"Kahramanmaraş, Osmaniye"
+w235963957,Çıldır HES TM,Kars,154,3,2,9,"Ardahan, Artvin"
+w190633373,Kepez TM,Antalya,154,2,2,9,Antalya
+w182886094,ALOSBİ TM,Manisa,154,8,4,8,Manisa
+w176553394,Babaeski 154kV TM,Kırklareli,154,7,3,8,"Edirne, Kırklareli, Tekirdağ"
+w750023564,Çan Rıdvan Sert Havza Transformatör Merkezi,Çanakkale,400,4,3,8,Çanakkale
+w191406013,Bartın TM,Bartın,154,4,2,8,"Bartın, Karabük, Zonguldak, Çankırı"
+w176358448,Bozüyük 154 kV TM,Bilecik,154,4,3,8,"Bilecik, Kütahya"
+w190640097,Antalya Serbest Bölge TM,Antalya,154,3,2,8,Antalya
+w165974346,Tepeören TM,Yalova,400,11,5,7,"Kocaeli, Yalova, İstanbul"
+w731997887,Uludağ GİS Transformatör Merkezi,Bursa,400,8,2,7,Bursa
+w190730518,Keçiborlu TM,Burdur,154,5,3,7,"Afyonkarahisar, Burdur, Isparta"
+w120566671,Ardahan TM,Ardahan,154,5,3,7,"Ardahan, Artvin"
+w175582715,Karaman TM,Karaman,154,4,2,7,Karaman
+w177511800,AKSA DKÇS 154kV TM,Antalya,400,3,2,7,"Antalya, Isparta"
+w893192820,Ömerli RES Trafo Merkezi,Tekirdağ,154,3,2,7,"Tekirdağ, İstanbul"
+w172934516,Seydişehir TM,Konya,380,13,4,6,"Aksaray, Konya"
+w810318487,Trafo Merkezi,Kahramanmaraş,400,6,2,6,Kahramanmaraş
+w176986592,Yeni Çates TM,Zonguldak,154,6,3,6,"Karabük, Zonguldak, Çankırı"
+w789816011,Antalya Serbest Bölge TM,Antalya,400,5,2,6,Antalya
+w850602377,TM,Kocaeli,154,4,2,6,"Kocaeli, Yalova"
+n2778758017,n2778758017,Kütahya,154,3,3,6,Kütahya
+w1015847005,TM,Bursa,154,2,2,6,Bursa
+w402371166,Marmaris-1 Trafo Merkezi,Muğla,154,2,2,6,Muğla
+w131618584,Havsa Trafo Merkezi,Edirne,154,2,2,6,"Edirne, Kırklareli"
+w893192822,Seymen Çöp Gaz Trafo Merkezi,Tekirdağ,154,2,2,6,"Tekirdağ, İstanbul"
+w193000055,Göbel TM,Balıkesir,154,6,3,5,"Balıkesir, Bursa"
+w285630518,Feke Havza TM,Osmaniye,154,6,4,5,"Kahramanmaraş, Osmaniye"
+w166322004,Gezende HES TM,Karaman,154,5,4,5,Karaman
+w184960108,Bölücek TM,Zonguldak,400,5,4,5,"Bartın, Zonguldak"
+w177523126,Bucak TM,Isparta,154,4,3,5,"Antalya, Isparta"
+w854202599,Mersin380 TM,Mersin,154,4,2,5,Mersin
+w136070974,Erzurum 2 TM,Erzurum,154,4,2,5,"Erzurum, Rize"
+w175556432,Marmaris TM,Muğla,154,3,3,5,Muğla
+w336766454,TEİAŞ EDİRNE-2 TM,Edirne,154,3,3,5,"Edirne, Kırklareli"
+w726036485,Yamaçtepe-2 Rüzgar Enerji Santrali,İstanbul,154,3,3,5,Tekirdağ
+w184319040,İnegöl TM,Bursa,154,2,2,5,Bursa
+w1195616417,RES TM,Çanakkale,154,2,2,5,Çanakkale
+w130569382,Işıklar TM,İzmir,400,9,4,4,İzmir
+w274032226,Çankırı TM,Çankırı,154,7,3,4,"Ankara, Kırıkkale, Çankırı"
+w179583011,Paşalar TM,Bilecik,154,6,4,4,"Bilecik, Sakarya"
+w195003676,Çeşme TM,İzmir,400,6,4,4,İzmir
+w750426158,Ardahan 2 TM,Ardahan,154,5,4,4,Ardahan
+w1331400477,İkitelli TM,İstanbul,400,5,3,4,İstanbul
+w190236385,Malatya-2 TM,Malatya,154,4,2,4,"Adıyaman, Malatya"
+w883909074,Çanakkale Havza 1 TM,Çanakkale,154,4,3,4,Çanakkale
+w190898424,Çanakkale Çimento Transformatör Merkezi,Çanakkale,154,4,3,4,Çanakkale
+w757646616,Gebze Kimya TM,Yalova,154,4,2,4,Yalova
+w1314181225,Ulu Res TM,Bursa,154,3,2,4,Bursa
+w229978559,Dikmen TM,Mardin,154,3,2,4,Diyarbakır
+w172474595,Kuzgun HES TM,Erzurum,154,3,2,4,"Erzurum, Rize"
+w194297162,Hınıs TM,Erzurum,154,3,2,4,"Bitlis, Muş, Van"
+w1242377290,Sincan TM,Ankara,154,3,2,4,Ankara
+w190730386,Burdur TM,Burdur,154,2,2,4,Isparta
+w132128807,Adapazarı-2 TM,Sakarya,400,14,2,3,"Ankara, Eskişehir"
+w128190663,Afşin-Elbistan A TES TM,Kahramanmaraş,400,12,3,3,"Kahramanmaraş, Kayseri"
+w169679398,Kayabaşı 380kV TM,Amasya,400,11,3,3,"Amasya, Ankara"
+w176801181,Uzundere TM,İzmir,400,9,3,3,İzmir
+w117562956,Yeniköy TES TM,Muğla,400,8,4,3,Muğla
+w208086859,Bor TM,Niğde,154,6,3,3,"Aksaray, Niğde"
+w128612494,İncirlik TM,Adana,154,6,4,3,Adana
+w213202970,Tirebolu 154kV TM,Giresun,154,6,4,3,"Giresun, Trabzon"
+w189082303,Samsun-1 TM,Samsun,154,6,2,3,Amasya
+w131900283,Pınarhisar TM,Kırklareli,154,6,3,3,Kırklareli
+w784565450,w784565450,Aydın,154,5,3,3,Aydın
+w178546156,Çivril TM,Uşak,154,5,2,3,Afyonkarahisar
+w1017017963,Serik TM,Antalya,154,5,4,3,Antalya
+w129323779,Bahçe TM,Osmaniye,154,5,3,3,Osmaniye
+w184257288,Köseköy TM,Kocaeli,154,5,4,3,Kocaeli
+w127973572,Kütahya TM,Kütahya,154,4,3,3,Kütahya
+w185232739,Isparta TM,Isparta,154,4,4,3,Isparta
+w854344588,w854344588,Çanakkale,34,4,2,3,Çanakkale
+w182886022,Viking TM,Manisa,154,3,2,3,Manisa
+w130684457,Milas TM,Muğla,154,3,2,3,Muğla
+w366067124,Kaklık DGKÇS TM,Denizli,400,3,2,3,"Afyonkarahisar, Eskişehir, Kütahya"
+w235476443,Refahiye TM,Erzincan,154,3,2,3,"Giresun, Gümüşhane"
+w1441688500,TM,Diyarbakır,154,2,2,3,Diyarbakır
+w194541769,Alpaslan-1 HES TM,Muş,154,2,2,3,"Bitlis, Muş, Van"
+w819816556,Kazan Dgkç TM,Ankara,154,2,2,3,Ankara
+w893192839,Gaziosmanpaşa Res TM,Tekirdağ,154,2,2,3,Tekirdağ
+w988351678,Resadiye TM,Tokat,400,8,3,2,"Ordu, Yozgat"
+w130548582,Habibler TM,İstanbul,400,8,2,2,İstanbul
+w137028604,Erciş TM,Van,154,7,3,2,Van
+w188120318,Adıyaman Gölbaşı Trafo Merkezi,Adıyaman,154,7,3,2,"Adıyaman, Kahramanmaraş"
+w213128258,Çarşamba 154kV TM,Samsun,154,7,2,2,Samsun
+w81614443,19. Bölge Müdürlüğü Antalya Manavgat Trafo Merkezi,Antalya,154,6,3,2,Antalya
+w1280872891,Karatay Trafo Merkezi,Konya,154,6,2,2,Konya
+w1148687431,İkizler TM,Osmaniye,154,6,2,2,Osmaniye
+w87340251,ÇİNKUR TM,Kayseri,154,6,3,2,Kayseri
+w194160376,Gümüşhane TM,Gümüşhane,154,5,3,2,"Gümüşhane, Trabzon"
+w130304282,Malorsa TM,Malatya,154,5,3,2,Malatya
+w131978203,Bandırma-2 TM,Balıkesir,154,5,3,2,"Balıkesir, Tekirdağ"
+w139418770,MORSAN TM,Manisa,154,5,3,2,Manisa
+w190641364,Finike TM,Antalya,154,5,3,2,Antalya
+w188063821,Kılavuzlu TM,Kahramanmaraş,154,5,2,2,Kahramanmaraş
+w96580455,Borçka HES TM,Artvin,400,5,2,2,Artvin
+w996250899,Altınordu TM,Ordu,154,5,2,2,"Giresun, Ordu"
+w1317081305,w1317081305,İstanbul,34,5,2,2,İstanbul
+w123798015,Ambarlı DGKÇS TM,İstanbul,380,5,2,2,İstanbul
+w150785860,Orhaneli TES TM,Bursa,154,4,2,2,Bursa
+w173298048,Çayırhan TES TM,Bolu,400,4,2,2,Bolu
+w130134452,Suşehri TM,Giresun,154,4,2,2,Giresun
+w117562840,Kemerköy TM,Muğla,400,4,3,2,Muğla
+w130576642,Ulucak TM,İzmir,154,4,2,2,İzmir
+w176751230,Salihli TM,Manisa,154,4,3,2,Manisa
+w175080552,SEKA TM,Balıkesir,154,4,2,2,Balıkesir
+w127986149,Soma-B TES 154 kV TM,Balıkesir,154,4,2,2,Balıkesir
+w887908052,Aslanlar TM,İzmir,154,4,3,2,"Aydın, Manisa"
+w635732752,Urla-2 TM,İzmir,154,4,3,2,İzmir
+w152202929,Karapınar TM,Karaman,154,4,3,2,Karaman
+w208411501,Karaisalı TM,Adana,154,4,2,2,Adana
+w129323780,Fevzipaşa TM,Osmaniye,154,4,3,2,Osmaniye
+w191425875,Giresun TM,Giresun,154,4,2,2,Giresun
+w171741195,Çorum -2 TM,Çorum,154,4,2,2,Çorum
+w696654427,Artvin-2 TM,Artvin,154,4,3,2,Artvin
+w854989469,Siirt380 TM,Siirt,154,4,2,2,Siirt
+w787686600,TM,Erzurum,154,4,3,2,"Erzurum, Rize"
+w131402486,Büyükbakkalköy TM,İstanbul,154,4,2,2,İstanbul
+w656638961,TM,Kocaeli,380,4,2,2,Yalova
+w131875660,Lüleburgaz TM,Kırklareli,154,4,3,2,Kırklareli
+w129971795,Bağışlı TM,Hakkari,154,3,2,2,Hakkari
+w1549053036,w1549053036,Adıyaman,154,3,2,2,"Adıyaman, Malatya"
+w172934497,Karatay Trafo Merkezi,Konya,400,3,3,2,"Aksaray, Konya"
+w185089119,Kovada II HES TM,Isparta,154,3,3,2,Isparta
+w192994333,Görükle TM,Bursa,154,3,2,2,Bursa
+w782918566,Koru RES TM,Çanakkale,154,3,3,2,Çanakkale
+w173444191,Uşak Trafo Merkezi,Uşak,154,3,2,2,Uşak
+w176743576,Gediz TM,Uşak,154,3,2,2,Uşak
+w510786733,Bodrum TM,Muğla,154,3,3,2,Muğla
+w130740157,Afyon-2 380kV TM,Afyonkarahisar,400,3,2,2,"Eskişehir, Kütahya"
+w1019652187,DDY Karaman TM,Karaman,154,3,2,2,Karaman
+w331581117,Menge HES TM,Osmaniye,154,3,2,2,Osmaniye
+w184420050,Kavşakbendi HES TM,Adana,154,3,3,2,Adana
+w191406015,Karabük TM,Karabük,154,3,2,2,"Karabük, Çankırı"
+w1441657188,Düzlük Ges TM,Diyarbakır,154,3,2,2,Diyarbakır
+w179011058,TEİAŞ Kazan Trafo Merkezi,Ankara,154,3,3,2,Ankara
+w176223908,Şile (Teke)TM,Kocaeli,154,3,3,2,"Kocaeli, İstanbul"
+w422485664,Dilovası OSB Trafo Merkezi,Yalova,154,3,2,2,Yalova
+w179402850,154000 Volt Edirne Çimento Trafo Merkezi,Edirne,154,3,3,2,"Edirne, Kırklareli"
+w481697733,Kıyıköy RES Beşiktepe Enerji TM,Kırklareli,154,3,2,2,Kırklareli
+w131601637,Keşan TM,Tekirdağ,154,3,2,2,Çanakkale
+w131427853,Gelibolu Trafo Merkezi,Çanakkale,154,3,2,2,Çanakkale
+w489125787,w489125787,Tekirdağ,34,3,2,2,Tekirdağ
+w279086686,Datça RES TM,Muğla,154,2,2,2,Muğla
+w718802582,Bulanık TM,Muş,154,2,2,2,"Bitlis, Van"
+w287711589,Çamoluk Havza TM,Gümüşhane,154,2,2,2,Giresun
+w239316403,Eren TES TM,Zonguldak,400,2,2,2,"Bartın, Zonguldak"
+w130548575,Ambarlı F/O TM,İstanbul,154,2,2,2,İstanbul
+w888726754,Tayakadın Rüzgar Enerji Santrali Şalt Sahası,Tekirdağ,154,2,2,2,Tekirdağ
+w129553303,Diyarbakır-3 TM,Diyarbakır,400,12,2,1,Diyarbakır
+w229782457,Atatürk HES TM,Adıyaman,400,10,2,1,Şanlıurfa
+w177818606,Erzin TM,Osmaniye,400,9,2,1,Osmaniye
+w235475345,Keban 154kV TM,Elazığ,154,8,2,1,Elazığ
+w175453225,Van OSB TM,Van,400,7,2,1,Van
+w176441329,Gürağaç TM,Kütahya,400,7,2,1,Bursa
+w81614444,Oymapınar HES TM,Antalya,400,7,2,1,Antalya
+w233873985,Keban HES TM,Elazığ,400,7,2,1,Elazığ
+w687802661,Bağıştaş 380 TM,Erzincan,400,7,2,1,Erzincan
+w906233622,Kangal Tes TM,Sivas,154,7,2,1,Sivas
+w1149534302,Hamitabat DGKÇS 380 kV Trafo Merkezi,Kırklareli,400,7,2,1,Kırklareli
+w129305272,Demirdağ TM,Sivas,154,6,2,1,Sivas
+w127992955,Bergama Trafo Merkezi,Manisa,154,6,2,1,Balıkesir
+w192245192,Çumra TM,Konya,154,6,2,1,Karaman
+w184450514,Cihadiye TM,Adana,154,6,2,1,Adana
+w128629081,Karahan TM,Adana,154,6,2,1,Adana
+w128190664,Afşin-Elbistan B TES 154kV TM,Kahramanmaraş,154,6,2,1,Kahramanmaraş
+w655847650,BOTAŞ PS-4 TM,Mardin,154,6,2,1,Batman
+w172320373,Tatvan TM,Bitlis,154,6,2,1,Bitlis
+w181439744,Viranşehir TM,Mardin,154,5,2,1,Diyarbakır
+w230239501,Narlı TM,Kahramanmaraş,154,5,2,1,Kahramanmaraş
+w216496632,Bekirli TES TM,Çanakkale,400,5,2,1,Çanakkale
+w781767391,Teiaş 6. Bölge Müdürlüğü,Uşak,380,5,2,1,Aydın
+w787686599,İspir TM,Erzurum,400,5,2,1,Artvin
+w213128259,Çarşamba 380kV TM,Samsun,400,5,2,1,Samsun
+w193973159,Aşkale TM,Erzurum,154,5,2,1,Erzurum
+w180232970,Çerkezköy Transformatör Merkezi,Tekirdağ,154,5,2,1,Tekirdağ
+w468958984,380 KV Gelibolu Transformatör Merkezi,Çanakkale,400,5,2,1,Çanakkale
+w182061834,Lice TM,Bingöl,154,4,2,1,Muş
+w172188952,Kralkızı HES TM,Diyarbakır,154,4,2,1,Diyarbakır
+w130541271,Yalova TM,Yalova,154,4,2,1,Yalova
+w1030234973,Gemlik,Yalova,154,4,2,1,Yalova
+w127975935,Balıkesir-1 TM,Balıkesir,154,4,2,1,Balıkesir
+w1007297249,Ayvalık TM,Çanakkale,154,4,2,1,Manisa
+w753837958,Rafineri TM,İzmir,400,4,2,1,İzmir
+w178327425,Saruhanlı TM,Manisa,154,4,2,1,Manisa
+w178361571,Akhisar TM,Manisa,154,4,2,1,Balıkesir
+w131978207,Bandırma-3 TM,Balıkesir,154,4,2,1,Balıkesir
+w192994331,Akçalar TM,Bursa,154,4,2,1,Bursa
+w187177705,Kızıldere JTS TM,Denizli,154,4,2,1,Denizli
+w187921537,Ceyhan-I TM,Osmaniye,154,4,2,1,Adana
+w128605941,Misis TM,Adana,154,4,2,1,Adana
+w190478553,Zeytinli TM,Adana,154,4,2,1,Adana
+w785705114,Tosçelik TM,Osmaniye,400,4,2,1,Osmaniye
+w134563797,Adıyaman ÇİM TM,Adıyaman,154,4,2,1,Adıyaman
+w129786669,PS-3 TM,Şırnak,154,4,2,1,Şırnak
+w1305467208,Cizre TM,Şırnak,400,4,2,1,Şırnak
+w274975642,Başkale 380kV TM,Hakkari,400,4,2,1,Hakkari
+w129021712,Sivas TM,Sivas,154,4,2,1,Tokat
+w180284474,Zorlu Enerji TM,Tekirdağ,154,4,2,1,Tekirdağ
+w230833254,TEGESAN TM,Tekirdağ,154,4,2,1,Tekirdağ
+w57731431,w57731431,İstanbul,380,4,2,1,İstanbul
+w52613323,Alibeyköy TM,İstanbul,400,4,2,1,İstanbul
+w176441305,Gökçekaya HES TM,Eskişehir,400,3,2,1,Ankara
+w191392798,Bolu-2 TM,Bolu,154,3,2,1,Bolu
+w131238799,Bayburt TM,Bayburt,154,3,2,1,Bayburt
+w194678745,Özlüce TM,Tunceli,380,3,2,1,Bingöl
+w807759192,Kozluk Trafo Merkezi,Siirt,154,3,2,1,Siirt
+w195275150,Hazar-1 HES TM,Elazığ,154,3,2,1,Elazığ
+w1446915162,Kırlık TM,Şanlıurfa,154,3,2,1,Şanlıurfa
+w133432874,Belkis TM,Gaziantep,154,3,2,1,Kilis
+w124331314,Tatarhöyük TM,Şanlıurfa,154,3,2,1,Şanlıurfa
+w134555085,Gaziantep-4 TM,Gaziantep,154,3,2,1,Kilis
+w1270575336,Sarıseki Gis TM,Osmaniye,400,3,2,1,Hatay
+w175867656,Karaman OSB TM,Karaman,154,3,2,1,Karaman
+w127921249,Konya-1 GİS TM,Konya,154,3,2,1,Konya
+w1186669778,Manavgat 380kV TM,Antalya,400,3,2,1,Antalya
+w229811495,Tefenni TM,Burdur,154,3,2,1,Denizli
+w187043597,Denizli-3 TM,Denizli,154,3,2,1,Denizli
+w834180859,Pazaryeri OSB TM,Bilecik,154,3,2,1,Bilecik
+w236063306,Karamürsel TM,Yalova,154,3,2,1,Yalova
+w901713860,Armutlu TM,Yalova,154,3,2,1,Yalova
+w182895923,Yuntdağı RES TM,Manisa,154,3,2,1,Manisa
+w753902149,Berg RES substation,Manisa,154,3,2,1,Manisa
+w1196806004,Gök Res 2 TM,Manisa,154,3,2,1,Manisa
+w1003165505,Cenal Tes TM,Tekirdağ,400,3,2,1,Çanakkale
+w192999616,Mustafakemalpaşa TM,Balıkesir,154,3,2,1,Balıkesir
+w1009383597,TEİAŞ Ezine 154 kV Trafo Merkezi,Çanakkale,154,3,2,1,Çanakkale
+w190796560,TEİAŞ Uşak OSB Transformatör Merkezi,Uşak,154,3,2,1,Uşak
+w602866415,Alaşehir Havza TM,Aydın,154,3,2,1,Aydın
+w130669946,Çine TM,Aydın,154,3,2,1,Aydın
+w178690174,Sandıklı TM,Afyonkarahisar,154,3,2,1,Afyonkarahisar
+w492604039,Dinar OSB TM,Burdur,154,3,2,1,Burdur
+w394543683,Kazanlı Trafo Merkezi,Mersin,154,3,2,1,Mersin
+w1448199763,Andırın TM,Kahramanmaraş,154,3,2,1,Kahramanmaraş
+w128548272,Osmaniye TM,Osmaniye,154,3,2,1,Osmaniye
+w128629186,Seyhan HES 154kV TM,Adana,154,3,2,1,Adana
+w185282912,Toroslar TM,Niğde,154,3,2,1,Adana
+w187910559,Osmaniye OSB TM,Osmaniye,154,3,2,1,Osmaniye
+w230118808,TM,Gümüşhane,154,3,2,1,Gümüşhane
+w277026561,Boyabat HES TM,Sinop,400,3,2,1,Sinop
+w128998328,Sızır TM,Kayseri,154,3,2,1,Sivas
+w823254277,Kayseri Kapasitör TM,Kayseri,154,3,2,1,Kayseri
+w186285255,Tokat OSB TM,Tokat,154,3,2,1,Tokat
+w189174023,Ordu TM,Ordu,154,3,2,1,Giresun
+w213841337,Koyulhisar HES TM,Ordu,154,3,2,1,Sivas
+w186114095,Ladik ÇİM TM,Amasya,154,3,2,1,Amasya
+w171691584,Alaca TM,Yozgat,154,3,2,1,Yozgat
+w181153285,Kalecik TM,Kırıkkale,154,3,2,1,Ankara
+w188797478,Bafra TM,Samsun,154,3,2,1,Samsun
+w189067316,Ondokuzmayıs TM,Samsun,154,3,2,1,Samsun
+w186188503,Kayabaşı 154kV TM,Amasya,154,3,2,1,Amasya
+w854994732,Tortum TM,Artvin,154,3,2,1,Artvin
+w129366486,Şanlıurfa OSB TM,Şanlıurfa,154,3,2,1,Şanlıurfa
+w181724483,Karakeçi TM,Şanlıurfa,154,3,2,1,Diyarbakır
+w693406206,Dodan TM,Siirt,400,3,2,1,Siirt
+w175324357,Patnos TM,Ağrı,154,3,2,1,Ağrı
+w491812835,Narinkale TM,Kars,154,3,2,1,Ağrı
+w1536182950,w1536182950,Sakarya,154,3,2,1,Sakarya
+w1088872940,Kavacık TM,İstanbul,400,3,2,1,İstanbul
+w128631297,Ümraniye TM,İstanbul,400,3,2,1,İstanbul
+w1025850754,w1025850754,Kırklareli,34,3,2,1,Kırklareli
+w938644044,w938644044,Tekirdağ,34,3,2,1,Tekirdağ
+w180154003,Sarıkaya RES TM,Tekirdağ,154,3,2,1,Tekirdağ
+w454665970,Silivri RES TM,İstanbul,154,3,2,1,İstanbul
+w230880402,TEİAŞ 154KV Ulaş Trafo Merkezi,Tekirdağ,154,3,2,1,Tekirdağ
+w1137174185,Kümaş TM,Kütahya,154,2,2,1,Kütahya
+w191125554,Pamukova TM,Sakarya,154,2,2,1,Sakarya
+w188233410,Beypazarı TM,Bolu,154,2,2,1,Bolu
+w130134449,Kılıçkaya HES TM,Giresun,154,2,2,1,Giresun
+w129971796,Hakkari TM,Hakkari,154,2,2,1,Hakkari
+w274793324,Kahta TM,Adıyaman,154,2,2,1,Malatya
+w173780845,Karacaören-I HES TM,Isparta,154,2,2,1,Antalya
+w175288836,EBSO TM,İzmir,154,2,2,1,İzmir
+w190815173,Karabağlar TM,İzmir,154,2,2,1,İzmir
+w790159752,Karaburun Havza TM,İzmir,400,2,2,1,İzmir
+w1008833604,Hasanağa TM,Bursa,154,2,2,1,Bursa
+w215975071,Balıkesir Organize Sanayi Bölgesi Şalt Tesisi,Balıkesir,154,2,2,1,Balıkesir
+w212324460,Soma RES TM,Balıkesir,154,2,2,1,Balıkesir
+w193058932,ŞAH RES TM,Bursa,154,2,2,1,Bursa
+w1059531305,Çan TES TM,Çanakkale,154,2,2,1,Çanakkale
+w1418223962,Uşak Karma OSB Trafo Merkezi,Uşak,154,2,2,1,Uşak
+w187496624,Simav TM,Uşak,154,2,2,1,Uşak
+w882819383,Işıklar TM,İzmir,154,2,2,1,İzmir
+w139961582,Muğla TM,Muğla,154,2,2,1,Muğla
+w175556428,Datça TM,Muğla,154,2,2,1,Muğla
+w235868957,Kepezkaya Havsa TM,Karaman,154,2,2,1,Karaman
+w276224312,Birkapılı HES TM,Karaman,154,2,2,1,Karaman
+w854447157,TM,Karaman,154,2,2,1,Karaman
+w849185072,Kuşaklı Hes TM,Osmaniye,154,2,2,1,Osmaniye
+w128639319,Payas TM,Osmaniye,154,2,2,1,Osmaniye
+w121228950,Muratlı HES TM,Artvin,154,2,2,1,Artvin
+w184191733,Obruk HES TM,Çorum,154,2,2,1,Çorum
+w1154233362,w1154233362,Karabük,154,2,2,1,Çankırı
+w582608704,Ahlat 154kV Trafo Merkezi,Bitlis,154,2,2,1,Van
+w846762604,TM,Ardahan,154,2,2,1,Ardahan
+w375501548,Şebinkarahisar TM,Giresun,154,2,2,1,Giresun
+w233805046,Yenidere 150kV TM,Amasya,154,2,2,1,Amasya
+w783028600,Zetes3 TM,Zonguldak,400,2,2,1,Bartın
+w1240810039,Küçükbakkalköy TM,İstanbul,400,2,2,1,İstanbul
+w190970133,Kroman Çelik TM,Yalova,154,2,2,1,Yalova
+n5579528616,n5579528616,Yalova,34,2,2,1,Yalova
+w190976257,Çolakoğlu TM,Yalova,154,2,2,1,Yalova
+w130548571,Ambarlı TM,İstanbul,154,2,2,1,İstanbul
+w1317081304,TEİAŞ Büyükçekmece Trafo Merkezi,İstanbul,154,2,2,1,İstanbul
+w1385500914,DDY Edirne TM,Edirne,154,2,2,1,Edirne
+w131875659,TEİAŞ Kıyıköy Trafo Merkezi,Kırklareli,154,2,2,1,Kırklareli
+w972260897,Güriş Zeliha RES Trafo Merkezi,Kırklareli,154,2,2,1,Kırklareli
+w182738739,Enez TM,Çanakkale,154,2,2,1,Çanakkale
+w455581697,DM 3.1,Tekirdağ,34,2,2,1,Tekirdağ
+w1178797675,Kemerburgaz Rüzgar Enerji Santrali Transformatör Merkezi,Tekirdağ,154,2,2,1,Tekirdağ
+w1422576989,TEİAŞ Örnek Mobil Trafo Merkezi,İstanbul,154,2,2,1,İstanbul

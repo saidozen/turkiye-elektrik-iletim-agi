@@ -1,0 +1,1194 @@
+id,ad,isletmeci,tur,lat,lon,il,bolge,gerilim_kv,osm_url
+n12318836109,Sultanmurat GİS Transformatör Merkezi,TEİAŞ,transmission,41.007678,28.78599,İstanbul,Marmara,154,https://www.openstreetmap.org/node/12318836109
+n2778757730,,,,39.907049,30.077195,Bilecik,Marmara,154,https://www.openstreetmap.org/node/2778757730
+n2778758017,,,,39.573757,29.88322,Kütahya,Ege,154,https://www.openstreetmap.org/node/2778758017
+n2778758020,,,,39.574307,29.882523,Kütahya,Ege,380,https://www.openstreetmap.org/node/2778758020
+n2791266429,,,,36.671088,29.132753,Muğla,Ege,154,https://www.openstreetmap.org/node/2791266429
+n2791728033,,,,37.033362,27.900764,Muğla,Ege,-1,https://www.openstreetmap.org/node/2791728033
+n2791728035,Kemerköy Tes TM,TEİAŞ,,37.033598,27.901993,Muğla,Ege,154,https://www.openstreetmap.org/node/2791728035
+n2791734527,,,,37.141318,27.873615,Muğla,Ege,-1,https://www.openstreetmap.org/node/2791734527
+n2791734583,,,,37.140867,27.873902,Muğla,Ege,-1,https://www.openstreetmap.org/node/2791734583
+n2791747782,Denizli4 TM,TEİAŞ,,37.799566,29.238212,Denizli,Ege,154,https://www.openstreetmap.org/node/2791747782
+n2791747791,,,,37.799343,29.238013,Denizli,Ege,380,https://www.openstreetmap.org/node/2791747791
+n2791803325,,,,37.815938,29.595612,Denizli,Ege,154,https://www.openstreetmap.org/node/2791803325
+n2791810523,,,,40.232926,28.965696,Bursa,Marmara,380,https://www.openstreetmap.org/node/2791810523
+n2791810534,,,,40.232953,28.964403,Bursa,Marmara,380,https://www.openstreetmap.org/node/2791810534
+n4843232432,Karadağ RES TM,,,38.293233,26.292668,İzmir,Ege,-1,https://www.openstreetmap.org/node/4843232432
+n5579528616,,,distribution,40.891419,29.401577,Yalova,Marmara,34,https://www.openstreetmap.org/node/5579528616
+n656026084,,,,37.102049,27.314923,Muğla,Ege,-1,https://www.openstreetmap.org/node/656026084
+r14649821,İkitelli Ana İndirici Trafo Merkezi,TEİAŞ,transmission,41.069266,28.78976,İstanbul,Marmara,380,https://www.openstreetmap.org/relation/14649821
+r1728663,Ürgüp Seri Kapasitör,TEİAŞ,,38.643604,34.941103,Nevşehir,İç Anadolu,380,https://www.openstreetmap.org/relation/1728663
+r2342128,Atışalanı TM,,,41.053533,28.882861,İstanbul,Marmara,380,https://www.openstreetmap.org/relation/2342128
+w1000450739,TM,TEİAŞ,,39.939321,39.594775,Erzincan,Doğu Anadolu,154,https://www.openstreetmap.org/way/1000450739
+w1003165505,Cenal Tes TM,TEİAŞ,transmission,40.41968,27.318916,Tekirdağ,Marmara,400,https://www.openstreetmap.org/way/1003165505
+w1003843008,DDY Çumra TM,TEİAŞ,,37.618458,32.72306,Konya,İç Anadolu,154,https://www.openstreetmap.org/way/1003843008
+w1003843015,Alakova TM,TEİAŞ,,37.786932,32.535779,Konya,İç Anadolu,154,https://www.openstreetmap.org/way/1003843015
+w1004361182,TM,TEİAŞ,,37.547896,35.384069,Adana,Akdeniz,154,https://www.openstreetmap.org/way/1004361182
+w1005161417,TM,TEİAŞ,,41.025621,36.098228,Samsun,Karadeniz,154,https://www.openstreetmap.org/way/1005161417
+w1007297249,Ayvalık TM,TEİAŞ,,39.323007,26.727748,Çanakkale,Marmara,154,https://www.openstreetmap.org/way/1007297249
+w1008813895,TM,TEİAŞ,,38.722936,27.911327,Manisa,Ege,154,https://www.openstreetmap.org/way/1008813895
+w1008833604,Hasanağa TM,TEİAŞ,,40.19135,28.78651,Bursa,Marmara,154,https://www.openstreetmap.org/way/1008833604
+w1009383597,TEİAŞ Ezine 154 kV Trafo Merkezi,TEİAŞ,transmission,39.783179,26.346092,Çanakkale,Marmara,154,https://www.openstreetmap.org/way/1009383597
+w1009525787,TM,TEİAŞ,,41.506446,42.73961,Ardahan,Doğu Anadolu,154,https://www.openstreetmap.org/way/1009525787
+w1009557865,TM,TEİAŞ,,41.221444,43.10263,Ardahan,Doğu Anadolu,154,https://www.openstreetmap.org/way/1009557865
+w1015612418,Meryem RES substation,TEİAŞ,transmission,40.191112,30.041906,Bilecik,Marmara,154,https://www.openstreetmap.org/way/1015612418
+w1015612452,Habaş Bilecik TM,TEİAŞ,transmission,40.292336,30.029464,Bilecik,Marmara,154,https://www.openstreetmap.org/way/1015612452
+w1015847005,TM,TEİAŞ,,40.090051,29.43553,Bursa,Marmara,154,https://www.openstreetmap.org/way/1015847005
+w1017017963,Serik TM,TEİAŞ,transmission,36.929183,31.089555,Antalya,Akdeniz,154,https://www.openstreetmap.org/way/1017017963
+w1019652187,DDY Karaman TM,TEİAŞ,yes,37.227549,33.155464,Karaman,İç Anadolu,154,https://www.openstreetmap.org/way/1019652187
+w1020025596,Eşen 1 Hes TM,TEİAŞ,,36.803507,29.42392,Muğla,Ege,154,https://www.openstreetmap.org/way/1020025596
+w1025850734,154kV Vize-2 RES Trafo Merkezi,TEİAŞ,transmission,41.651365,27.744417,Kırklareli,Marmara,154,https://www.openstreetmap.org/way/1025850734
+w1025850752,Sergen RES TM,TEİAŞ,transmission,41.655213,27.682551,Kırklareli,Marmara,154,https://www.openstreetmap.org/way/1025850752
+w1025850754,,TREDAŞ,distribution,41.517499,27.755168,Kırklareli,Marmara,34,https://www.openstreetmap.org/way/1025850754
+w102946281,Alanya-2 TM,TEİAŞ,,36.500473,32.124696,Karaman,İç Anadolu,154,https://www.openstreetmap.org/way/102946281
+w1030234973,Gemlik,TEİAŞ,transmission,40.519348,29.143379,Yalova,Marmara,154,https://www.openstreetmap.org/way/1030234973
+w1034865288,Zeugma TM,TEİAŞ,,37.039186,37.897383,Gaziantep,Güneydoğu Anadolu,400,https://www.openstreetmap.org/way/1034865288
+w1044820495,Pamukkale TM,TEİAŞ,,37.877586,28.998258,Denizli,Ege,400,https://www.openstreetmap.org/way/1044820495
+w1046261611,Manisa OSB 2 TM,TEİAŞ,yes,38.633865,27.309966,Manisa,Ege,154,https://www.openstreetmap.org/way/1046261611
+w1049257428,Karapınar Güneş Enerjisi Santrali TM,TEİAŞ,,37.806548,33.585257,Aksaray,İç Anadolu,400,https://www.openstreetmap.org/way/1049257428
+w1049257431,TM,TEİAŞ,,37.754907,33.560204,Karaman,İç Anadolu,154,https://www.openstreetmap.org/way/1049257431
+w1052683938,Bağlama Res TM,TEİAŞ,,38.342697,42.790986,Van,Doğu Anadolu,154,https://www.openstreetmap.org/way/1052683938
+w1059531305,Çan TES TM,TEİAŞ,,40.021922,26.979332,Çanakkale,Marmara,154,https://www.openstreetmap.org/way/1059531305
+w1080290145,Düzce OSB TM,TEİAŞ,,40.789035,31.150485,Düzce,Karadeniz,154,https://www.openstreetmap.org/way/1080290145
+w1088872940,Kavacık TM,TEİAŞ,,41.08914,29.102367,İstanbul,Marmara,400,https://www.openstreetmap.org/way/1088872940
+w1088872945,,TEİAŞ,yes,41.089206,29.102234,İstanbul,Marmara,380,https://www.openstreetmap.org/way/1088872945
+w1090807554,Vaniköy Trafo Merkezi,TEİAŞ,transmission,41.070117,29.065578,İstanbul,Marmara,154,https://www.openstreetmap.org/way/1090807554
+w1090807559,,,distribution,41.069656,29.065927,İstanbul,Marmara,34,https://www.openstreetmap.org/way/1090807559
+w1095046693,Göynük TES TM,TEİAŞ,,40.254405,30.813571,Eskişehir,İç Anadolu,400,https://www.openstreetmap.org/way/1095046693
+w1098299097,Olur TM,TEİAŞ,,40.777759,42.117867,Artvin,Karadeniz,154,https://www.openstreetmap.org/way/1098299097
+w1102163787,Yeniköy Res TM,TEİAŞ,,40.215854,26.815166,Çanakkale,Marmara,154,https://www.openstreetmap.org/way/1102163787
+w111355082,Dalaman TM,TEİAŞ,,36.802699,28.80185,Muğla,Ege,154,https://www.openstreetmap.org/way/111355082
+w1120886174,İstanbul Rüzgâr Enerjisi Santrali Trafo Merkezi,TEİAŞ,transmission,41.43029,28.260486,İstanbul,Marmara,400,https://www.openstreetmap.org/way/1120886174
+w1121463331,Akyeniköy RES TM,TEİAŞ,,37.488573,27.317101,Aydın,Ege,154,https://www.openstreetmap.org/way/1121463331
+w1129094916,Köprübaşı HES TM,TEİAŞ,,40.993518,31.904608,Bolu,Karadeniz,154,https://www.openstreetmap.org/way/1129094916
+w1132584114,,,,41.069138,29.065617,İstanbul,Marmara,154,https://www.openstreetmap.org/way/1132584114
+w1135409245,Teksin Ges TM,TEİAŞ,,37.187209,33.324326,Karaman,İç Anadolu,154,https://www.openstreetmap.org/way/1135409245
+w1136286624,İstaç BES Trafo Merkezi ve Şalt Sahası,TEİAŞ,transmission,41.223874,28.814269,İstanbul,Marmara,154,https://www.openstreetmap.org/way/1136286624
+w1137174185,Kümaş TM,TEİAŞ,,39.481895,30.045445,Kütahya,Ege,154,https://www.openstreetmap.org/way/1137174185
+w1144517986,Şile Res Transformatör Merkezi,Şile RES (Çevrim Enerji Yatırım Üretim ve Ticaret A.Ş.,transmission,41.328594,28.21922,Tekirdağ,Marmara,154,https://www.openstreetmap.org/way/1144517986
+w1148182457,,,,38.819469,38.670455,Elazığ,Doğu Anadolu,380,https://www.openstreetmap.org/way/1148182457
+w1148687431,İkizler TM,TEİAŞ,,36.944417,36.096671,Osmaniye,Akdeniz,154,https://www.openstreetmap.org/way/1148687431
+w1149534302,Hamitabat DGKÇS 380 kV Trafo Merkezi,TEİAŞ,transmission,41.48222,27.338485,Kırklareli,Marmara,400,https://www.openstreetmap.org/way/1149534302
+w1149606444,,,,39.410416,38.104742,Sivas,İç Anadolu,-1,https://www.openstreetmap.org/way/1149606444
+w1150093285,Örlemiş Res TM,TEİAŞ,,38.936717,27.132235,Manisa,Ege,154,https://www.openstreetmap.org/way/1150093285
+w1150972164,Meydancık TM,TEİAŞ,,41.358821,42.28627,Artvin,Karadeniz,154,https://www.openstreetmap.org/way/1150972164
+w1152879546,Kahramanmaraş OSB TM,TEİAŞ,,37.605867,36.775555,Kahramanmaraş,Akdeniz,154,https://www.openstreetmap.org/way/1152879546
+w1154233362,,,,41.136387,32.642056,Karabük,Karadeniz,154,https://www.openstreetmap.org/way/1154233362
+w1154721181,Reyhanlı TM,TEİAŞ,,36.280163,36.544365,Hatay,Akdeniz,154,https://www.openstreetmap.org/way/1154721181
+w1154968192,,,,41.969644,34.009754,Kastamonu,Karadeniz,154,https://www.openstreetmap.org/way/1154968192
+w1156382257,,,,40.212985,39.657146,Gümüşhane,Karadeniz,-1,https://www.openstreetmap.org/way/1156382257
+w1157997480,Çaykara Havza TM,TEİAŞ,,40.668082,40.208368,Bayburt,Karadeniz,154,https://www.openstreetmap.org/way/1157997480
+w1159028164,,,,41.231079,42.853471,Ardahan,Doğu Anadolu,-1,https://www.openstreetmap.org/way/1159028164
+w1160634481,,,,41.118811,43.137491,Ardahan,Doğu Anadolu,-1,https://www.openstreetmap.org/way/1160634481
+w1169773818,TEİAŞ 154kV Çatalca Trafo Merkezi,TEİAŞ,transmission,41.131684,28.486881,İstanbul,Marmara,154,https://www.openstreetmap.org/way/1169773818
+w1169929828,Havza RES TM,TEİAŞ,,40.958537,35.558555,Amasya,Karadeniz,154,https://www.openstreetmap.org/way/1169929828
+w117562840,Kemerköy TM,TEİAŞ,,37.039252,27.904249,Muğla,Ege,400,https://www.openstreetmap.org/way/117562840
+w117562956,Yeniköy TES TM,TEİAŞ,,37.143264,27.879632,Muğla,Ege,400,https://www.openstreetmap.org/way/117562956
+w1178797675,Kemerburgaz Rüzgar Enerji Santrali Transformatör Merkezi,Lodos Elektrik Üretim Anonim Şirketi,transmission,41.371939,28.1194,Tekirdağ,Marmara,154,https://www.openstreetmap.org/way/1178797675
+w1179676174,Hasanoba Res TM,TEİAŞ,,40.004164,26.360536,Çanakkale,Marmara,154,https://www.openstreetmap.org/way/1179676174
+w1180396963,,,,39.262089,26.821605,Manisa,Ege,-1,https://www.openstreetmap.org/way/1180396963
+w1180929917,,,,38.29054,26.783181,İzmir,Ege,-1,https://www.openstreetmap.org/way/1180929917
+w1180929948,,,,38.221849,26.779309,İzmir,Ege,-1,https://www.openstreetmap.org/way/1180929948
+w1181169863,Kuşadası Res TM,TEİAŞ,,37.817298,27.411479,Aydın,Ege,154,https://www.openstreetmap.org/way/1181169863
+w1181170435,Maren TM,TEİAŞ,,37.767896,27.446469,Aydın,Ege,154,https://www.openstreetmap.org/way/1181170435
+w1182175650,Sultanhisar Jes TM,TEİAŞ,,37.896196,28.174402,Aydın,Ege,154,https://www.openstreetmap.org/way/1182175650
+w1183861436,Gökzirve Res TM,TEİAŞ,,37.321444,28.398389,Muğla,Ege,154,https://www.openstreetmap.org/way/1183861436
+w1185070411,Göksu TM,TEİAŞ,,36.903926,30.763103,Antalya,Akdeniz,154,https://www.openstreetmap.org/way/1185070411
+w1186669778,Manavgat 380kV TM,TEİAŞ,transmission,36.741478,31.566827,Antalya,Akdeniz,400,https://www.openstreetmap.org/way/1186669778
+w1192455611,Tayseb TM,TEİAŞ,,36.93534,36.02513,Osmaniye,Akdeniz,154,https://www.openstreetmap.org/way/1192455611
+w1193469849,Limak Çimento Kilis TM,TEİAŞ,,36.796381,37.018558,Kilis,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/1193469849
+w1195616417,RES TM,TEİAŞ,,39.900869,26.717805,Çanakkale,Marmara,154,https://www.openstreetmap.org/way/1195616417
+w1196021745,Eber RES TM,TEİAŞ,,38.473926,30.391169,Afyonkarahisar,Ege,154,https://www.openstreetmap.org/way/1196021745
+w1196806004,Gök Res 2 TM,TEİAŞ,,39.065419,27.777989,Manisa,Ege,154,https://www.openstreetmap.org/way/1196806004
+w1197271082,Karlıtepe RES substation,TEİAŞ,,36.448557,36.103303,Hatay,Akdeniz,154,https://www.openstreetmap.org/way/1197271082
+w1197275472,Kırkağaç RES substation,TEİAŞ,,39.071784,27.652085,Manisa,Ege,154,https://www.openstreetmap.org/way/1197275472
+w1204148283,TM,TEİAŞ,,40.575124,34.31824,Çorum,Karadeniz,154,https://www.openstreetmap.org/way/1204148283
+w1205045831,Eleşkirt TM,TEİAŞ,,39.79337,42.704571,Ağrı,Doğu Anadolu,154,https://www.openstreetmap.org/way/1205045831
+w1205344727,,,,40.44201,33.658598,Çankırı,İç Anadolu,-1,https://www.openstreetmap.org/way/1205344727
+w120566671,Ardahan TM,,,41.103364,42.68504,Ardahan,Doğu Anadolu,154,https://www.openstreetmap.org/way/120566671
+w1206783204,TM,TEİAŞ,,38.992572,38.50147,Elazığ,Doğu Anadolu,154,https://www.openstreetmap.org/way/1206783204
+w121228950,Muratlı HES TM,TEİAŞ,,41.468177,41.713787,Artvin,Karadeniz,154,https://www.openstreetmap.org/way/121228950
+w1214636977,,,,40.901372,29.367108,Yalova,Marmara,380,https://www.openstreetmap.org/way/1214636977
+w1214901508,TR1,TEİAŞ,distribution,40.992187,29.159762,İstanbul,Marmara,400,https://www.openstreetmap.org/way/1214901508
+w1223690259,Kuzeyşehir TM,TEİAŞ,,37.190336,37.391013,Gaziantep,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/1223690259
+w1223716789,Açs Payas TM,TEİAŞ,,36.734379,36.216539,Osmaniye,Akdeniz,154,https://www.openstreetmap.org/way/1223716789
+w1223735858,Kuzeytepe TM,TEİAŞ,,36.264132,36.162508,Hatay,Akdeniz,154,https://www.openstreetmap.org/way/1223735858
+w1225352570,Diyarbakır OSB TM,TEİAŞ,,38.099606,40.064695,Diyarbakır,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/1225352570
+w1228068933,,,,39.599953,41.764651,Erzurum,Doğu Anadolu,-1,https://www.openstreetmap.org/way/1228068933
+w1228284010,,,,38.982606,43.755474,Van,Doğu Anadolu,-1,https://www.openstreetmap.org/way/1228284010
+w1228375880,,,,39.538581,42.779649,Ağrı,Doğu Anadolu,-1,https://www.openstreetmap.org/way/1228375880
+w1228381748,,,,39.143973,43.11414,Ağrı,Doğu Anadolu,-1,https://www.openstreetmap.org/way/1228381748
+w1228394369,,,,39.648207,42.324522,Ağrı,Doğu Anadolu,-1,https://www.openstreetmap.org/way/1228394369
+w1237722036,Greeneco Jes 5 TM,TEİAŞ,,37.922548,28.80102,Denizli,Ege,154,https://www.openstreetmap.org/way/1237722036
+w123798012,Beylikdüzü Transformatör Merkezi,TEİAŞ,transmission,41.030969,28.624157,İstanbul,Marmara,154,https://www.openstreetmap.org/way/123798012
+w123798015,Ambarlı DGKÇS TM,,,40.983534,28.69167,İstanbul,Marmara,380,https://www.openstreetmap.org/way/123798015
+w123803394,Eskişehir-2 TM,TEİAŞ,,39.732268,30.648356,Eskişehir,İç Anadolu,154,https://www.openstreetmap.org/way/123803394
+w1240810039,Küçükbakkalköy TM,TEİAŞ,distribution,40.984319,29.105986,İstanbul,Marmara,400,https://www.openstreetmap.org/way/1240810039
+w124096248,PS-4A,TEİAŞ,,37.431104,39.873422,Diyarbakır,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/124096248
+w1242196021,DDY Uluçam TM,TEİAŞ,,39.575669,29.015962,Bursa,Marmara,154,https://www.openstreetmap.org/way/1242196021
+w1242377290,Sincan TM,TEİAŞ,,39.979075,32.538129,Ankara,İç Anadolu,154,https://www.openstreetmap.org/way/1242377290
+w124331314,Tatarhöyük TM,TEİAŞ,,37.398278,38.634493,Şanlıurfa,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/124331314
+w1262440505,TM,TEİAŞ,,41.204593,31.459079,Zonguldak,Karadeniz,154,https://www.openstreetmap.org/way/1262440505
+w1266640135,Cengiz Dgkç TM,TEİAŞ,generation,41.23917,36.481521,Samsun,Karadeniz,400,https://www.openstreetmap.org/way/1266640135
+w1270575336,Sarıseki Gis TM,TEİAŞ,,36.699967,36.207518,Osmaniye,Akdeniz,400,https://www.openstreetmap.org/way/1270575336
+w127711164,154 kV Avanos TM,TEİAŞ,,38.720289,34.859755,Nevşehir,İç Anadolu,154,https://www.openstreetmap.org/way/127711164
+w127790110,Sugözü TES TM,TEİAŞ,,36.832241,35.878517,Osmaniye,Akdeniz,400,https://www.openstreetmap.org/way/127790110
+w127795433,İsdemir TM,TEİAŞ,,36.740821,36.214334,Osmaniye,Akdeniz,400,https://www.openstreetmap.org/way/127795433
+w127805976,Karaca TM,TEİAŞ,,37.414406,38.683721,Şanlıurfa,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/127805976
+w127886746,Yatağan TES TM,TEİAŞ,,37.333261,28.100022,Muğla,Ege,400,https://www.openstreetmap.org/way/127886746
+w127921249,Konya-1 GİS TM,TEİAŞ,transmission,37.861234,32.468236,Konya,İç Anadolu,154,https://www.openstreetmap.org/way/127921249
+w127936765,DEÇEKO TM,TEİAŞ,,39.584802,37.072019,Sivas,İç Anadolu,400,https://www.openstreetmap.org/way/127936765
+w1279373012,TM,TEİAŞ,,37.876576,34.492645,Niğde,İç Anadolu,154,https://www.openstreetmap.org/way/1279373012
+w127968754,Bursa Sanayi 380kV TM,TEİAŞ,,40.232861,28.964767,Bursa,Marmara,400,https://www.openstreetmap.org/way/127968754
+w127968779,Bursa Sanayi 154kV TM,TEİAŞ,,40.233765,28.966996,Bursa,Marmara,154,https://www.openstreetmap.org/way/127968779
+w127973570,AZOT TM,TEİAŞ,,39.471921,30.02078,Kütahya,Ege,154,https://www.openstreetmap.org/way/127973570
+w127973572,Kütahya TM,TEİAŞ,,39.43054,29.97855,Kütahya,Ege,154,https://www.openstreetmap.org/way/127973572
+w127975935,Balıkesir-1 TM,TEİAŞ,transmission,39.632575,27.878426,Balıkesir,Marmara,154,https://www.openstreetmap.org/way/127975935
+w127986149,Soma-B TES 154 kV TM,TEİAŞ,,39.197701,27.638288,Balıkesir,Marmara,154,https://www.openstreetmap.org/way/127986149
+w127986151,Soma-B TES TM,TEİAŞ,,39.196443,27.637667,Balıkesir,Marmara,400,https://www.openstreetmap.org/way/127986151
+w127992955,Bergama Trafo Merkezi,TEİAŞ,,39.120508,27.20981,Manisa,Ege,154,https://www.openstreetmap.org/way/127992955
+w1280116348,TM,TEİAŞ,,36.955489,37.176365,Gaziantep,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/1280116348
+w128045081,Diyarbakır-2 TM,TEİAŞ,,37.939655,40.216667,Diyarbakır,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/128045081
+w128052121,Edirne 154 kV (GIS) Trafo Merkezi,TEİAŞ,transmission,41.663596,26.579078,Edirne,Marmara,154,https://www.openstreetmap.org/way/128052121
+w1280872888,TM,TEİAŞ,yes,37.901959,32.551335,Konya,İç Anadolu,154,https://www.openstreetmap.org/way/1280872888
+w1280872891,Karatay Trafo Merkezi,TEİAŞ,transmission,37.841821,32.748685,Konya,İç Anadolu,154,https://www.openstreetmap.org/way/1280872891
+w1280876352,380 kV Konya Kuzey Trafo Merkezi,TEİAŞ,transmission,38.115487,32.601849,Konya,İç Anadolu,400,https://www.openstreetmap.org/way/1280876352
+w1281442200,TM,TEİAŞ,,38.986683,40.019137,Tunceli,Doğu Anadolu,400,https://www.openstreetmap.org/way/1281442200
+w1281442201,Karakoçan TM,TEİAŞ,,38.984814,40.020631,Tunceli,Doğu Anadolu,154,https://www.openstreetmap.org/way/1281442201
+w128186930,Gaziantep-1 TM,TEİAŞ,,37.084566,37.397145,Gaziantep,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/128186930
+w128190663,Afşin-Elbistan A TES TM,TEİAŞ,,38.349767,37.025644,Kahramanmaraş,Akdeniz,400,https://www.openstreetmap.org/way/128190663
+w128190664,Afşin-Elbistan B TES 154kV TM,TEİAŞ,,38.356151,36.982894,Kahramanmaraş,Akdeniz,154,https://www.openstreetmap.org/way/128190664
+w128190689,Afşin-Elbistan B TES 380kV TM,TEİAŞ,transmission,38.354474,36.91181,Kahramanmaraş,Akdeniz,400,https://www.openstreetmap.org/way/128190689
+w128497236,Birecik TM,TEİAŞ,,37.033606,37.965139,Gaziantep,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/128497236
+w128497239,Karkamış HES TM,TEİAŞ,,36.870627,38.026595,Gaziantep,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/128497239
+w128531803,Andırın TM,TEİAŞ,transmission,37.598524,36.361317,Kahramanmaraş,Akdeniz,400,https://www.openstreetmap.org/way/128531803
+w128548272,Osmaniye TM,TEİAŞ,,37.067147,36.230598,Osmaniye,Akdeniz,154,https://www.openstreetmap.org/way/128548272
+w1285592583,Elgün TM,TEİAŞ,,37.155303,39.864762,Mardin,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/1285592583
+w128567799,,,,38.363105,37.041324,Kahramanmaraş,Akdeniz,154,https://www.openstreetmap.org/way/128567799
+w128605938,Ceyhan-II TM,TEİAŞ,,37.074401,35.781838,Osmaniye,Akdeniz,154,https://www.openstreetmap.org/way/128605938
+w128605941,Misis TM,TEİAŞ,,36.993054,35.61967,Adana,Akdeniz,154,https://www.openstreetmap.org/way/128605941
+w128612494,İncirlik TM,TEİAŞ,transmission,36.976112,35.441015,Adana,Akdeniz,154,https://www.openstreetmap.org/way/128612494
+w128612504,Açs İncirlik TM,TEİAŞ,,36.965033,35.455441,Adana,Akdeniz,154,https://www.openstreetmap.org/way/128612504
+w128629081,Karahan TM,TEİAŞ,,37.052731,35.1909,Adana,Akdeniz,154,https://www.openstreetmap.org/way/128629081
+w128629083,Mihmandar TM,TEİAŞ,,36.952908,35.346843,Adana,Akdeniz,154,https://www.openstreetmap.org/way/128629083
+w128629186,Seyhan HES 154kV TM,TEİAŞ,,37.033251,35.344117,Adana,Akdeniz,154,https://www.openstreetmap.org/way/128629186
+w128631297,Ümraniye TM,TEİAŞ,,41.020422,29.086547,İstanbul,Marmara,400,https://www.openstreetmap.org/way/128631297
+w128631298,Bornova TM,TEİAŞ,,38.446203,27.189522,İzmir,Ege,154,https://www.openstreetmap.org/way/128631298
+w128639319,Payas TM,TEİAŞ,,36.745836,36.217274,Osmaniye,Akdeniz,154,https://www.openstreetmap.org/way/128639319
+w128998325,Akdağmadeni TM,TEİAŞ,,39.674645,35.887601,Tokat,Karadeniz,154,https://www.openstreetmap.org/way/128998325
+w128998328,Sızır TM,TEİAŞ,converter,39.310925,35.935348,Kayseri,İç Anadolu,154,https://www.openstreetmap.org/way/128998328
+w129002225,Şarkışla,TEİAŞ,,39.371379,36.409292,Sivas,İç Anadolu,154,https://www.openstreetmap.org/way/129002225
+w129021712,Sivas TM,TEİAŞ,,39.746482,37.037883,Sivas,İç Anadolu,154,https://www.openstreetmap.org/way/129021712
+w1292022835,Armutlu TM,UEDAŞ,transmission,40.516061,28.834487,Yalova,Marmara,154,https://www.openstreetmap.org/way/1292022835
+w1292444314,Keban TM TM,TEİAŞ,,38.799319,38.753675,Elazığ,Doğu Anadolu,154,https://www.openstreetmap.org/way/1292444314
+w1292850489,Kiğı Hes TM,TEİAŞ,,39.299005,40.372996,Bingöl,Doğu Anadolu,154,https://www.openstreetmap.org/way/1292850489
+w1292997776,,,,39.110709,40.838302,Bingöl,Doğu Anadolu,-1,https://www.openstreetmap.org/way/1292997776
+w1293000427,,,,39.124662,40.845415,Bingöl,Doğu Anadolu,-1,https://www.openstreetmap.org/way/1293000427
+w1293016753,,,,39.669033,41.486927,Erzurum,Doğu Anadolu,-1,https://www.openstreetmap.org/way/1293016753
+w129305272,Demirdağ TM,TEİAŞ,,39.401349,38.094475,Sivas,İç Anadolu,154,https://www.openstreetmap.org/way/129305272
+w129310313,Hasançelebi TM,TEİAŞ,,38.985132,37.863248,Malatya,Doğu Anadolu,154,https://www.openstreetmap.org/way/129310313
+w129319599,Şanlıurfa-2 TM,TEİAŞ,,37.159404,38.850814,Şanlıurfa,Güneydoğu Anadolu,400,https://www.openstreetmap.org/way/129319599
+w129323779,Bahçe TM,TEİAŞ,,37.186355,36.531376,Osmaniye,Akdeniz,154,https://www.openstreetmap.org/way/129323779
+w129323780,Fevzipaşa TM,TEİAŞ,,37.102534,36.656455,Osmaniye,Akdeniz,154,https://www.openstreetmap.org/way/129323780
+w129324366,TCDD Fevzipasa TM,Türkiye Cumhuriyeti Devlet Demiryolları,traction,37.138116,36.697499,Osmaniye,Akdeniz,154,https://www.openstreetmap.org/way/129324366
+w1293368308,Göktepe Res TM,TEDAŞ,,40.524835,28.877822,Yalova,Marmara,154,https://www.openstreetmap.org/way/1293368308
+w1293565615,,,,38.82256,42.932604,Van,Doğu Anadolu,-1,https://www.openstreetmap.org/way/1293565615
+w129366484,Suruç TM,TEİAŞ,,36.985304,38.437899,Şanlıurfa,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/129366484
+w129366486,Şanlıurfa OSB TM,TEİAŞ,,37.118677,38.653815,Şanlıurfa,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/129366486
+w129366487,Şanlıurfa-1 TM,TEİAŞ,,37.159555,38.77134,Şanlıurfa,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/129366487
+w129406297,Şanlıurfa ÇİM TM,TEİAŞ,,37.275008,38.746946,Şanlıurfa,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/129406297
+w129553303,Diyarbakır-3 TM,TEİAŞ,yes,38.023736,40.14248,Diyarbakır,Güneydoğu Anadolu,400,https://www.openstreetmap.org/way/129553303
+w129625166,Bismil TM,TEİAŞ,,37.862063,40.650916,Diyarbakır,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/129625166
+w129693128,Batman-1 TM,TEİAŞ,,37.868521,41.140701,Batman,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/129693128
+w129693131,Batman-2 TM,TEİAŞ,transmission,37.852221,41.14612,Batman,Güneydoğu Anadolu,380,https://www.openstreetmap.org/way/129693131
+w129786667,Cizre TM,TEİAŞ,,37.339065,42.14565,Şırnak,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/129786667
+w129786668,DODAN TM,TEİAŞ,,38.078526,41.799332,Siirt,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/129786668
+w129786669,PS-3 TM,TEİAŞ,transmission,37.243328,42.414261,Şırnak,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/129786669
+w129821195,Uludere TM,TEİAŞ,,37.440836,42.762003,Şırnak,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/129821195
+w129842421,PS-3A TM,TEİAŞ,,37.318836,41.780029,Şırnak,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/129842421
+w1298603760,Aksa Trafo merkezi,TEİAŞ,transmission,40.686924,29.403064,Yalova,Marmara,154,https://www.openstreetmap.org/way/1298603760
+w129870380,Çağ Çağ TM,TEİAŞ,,37.109837,41.239187,Mardin,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/129870380
+w129933368,Siirt TM,TEİAŞ,,37.941629,41.919102,Siirt,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/129933368
+w129971795,Bağışlı TM,TEİAŞ,distribution,37.721588,44.038712,Hakkari,Doğu Anadolu,154,https://www.openstreetmap.org/way/129971795
+w129971796,Hakkari TM,TEİAŞ,transmission,37.596246,43.713392,Hakkari,Doğu Anadolu,154,https://www.openstreetmap.org/way/129971796
+w130008262,Van TM,TEİAŞ,,38.531214,43.349919,Van,Doğu Anadolu,154,https://www.openstreetmap.org/way/130008262
+w130052332,Doğubayazıt TM,TEİAŞ,,39.557724,44.066879,Iğdır,Doğu Anadolu,154,https://www.openstreetmap.org/way/130052332
+w1301292094,TM,TEİAŞ,,37.080893,37.417742,Gaziantep,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/1301292094
+w130134449,Kılıçkaya HES TM,TEİAŞ,,40.244352,38.186702,Giresun,Karadeniz,154,https://www.openstreetmap.org/way/130134449
+w130134452,Suşehri TM,TEİAŞ,,40.171123,38.107439,Giresun,Karadeniz,154,https://www.openstreetmap.org/way/130134452
+w130134455,Çamlıgöze HES TM,,,40.230147,38.074835,Giresun,Karadeniz,154,https://www.openstreetmap.org/way/130134455
+w130304282,Malorsa TM,TEİAŞ,,38.336081,38.161883,Malatya,Doğu Anadolu,154,https://www.openstreetmap.org/way/130304282
+w130304296,TCDD Yazlak TM,Türkiye Cumhuriyeti Devlet Demiryolları,traction,38.330621,38.174221,Malatya,Doğu Anadolu,154,https://www.openstreetmap.org/way/130304296
+w130323251,TCDD Doğanşehir TM,Türkiye Cumhuriyeti Devlet Demiryolları,traction,38.083553,37.873737,Malatya,Doğu Anadolu,154,https://www.openstreetmap.org/way/130323251
+w130444135,Sincan TM,TEİAŞ,,39.976429,32.538241,Ankara,İç Anadolu,400,https://www.openstreetmap.org/way/130444135
+w130513966,Bağlum TM,TEİAŞ,transmission,40.050249,32.813615,Ankara,İç Anadolu,400,https://www.openstreetmap.org/way/130513966
+w130513967,Esenboğa TM,TEİAŞ,,40.058551,32.960883,Ankara,İç Anadolu,154,https://www.openstreetmap.org/way/130513967
+w130541271,Yalova TM,TEİAŞ,transmission,40.654097,29.326011,Yalova,Marmara,154,https://www.openstreetmap.org/way/130541271
+w1305467208,Cizre TM,TEİAŞ,transmission,37.339124,42.143274,Şırnak,Güneydoğu Anadolu,400,https://www.openstreetmap.org/way/1305467208
+w130548551,Kurtköy TM,TEİAŞ,,40.919856,29.302169,Yalova,Marmara,154,https://www.openstreetmap.org/way/130548551
+w130548552,Küçükbakkalköy TM,TEİAŞ,,40.983713,29.104889,İstanbul,Marmara,154,https://www.openstreetmap.org/way/130548552
+w130548554,Yenibosna TM,TEİAŞ,,40.997041,28.828247,İstanbul,Marmara,400,https://www.openstreetmap.org/way/130548554
+w130548569,Bahçeşehir TM,TEİAŞ,,41.088366,28.691362,İstanbul,Marmara,154,https://www.openstreetmap.org/way/130548569
+w130548571,Ambarlı TM,TEİAŞ,,40.982279,28.700346,İstanbul,Marmara,154,https://www.openstreetmap.org/way/130548571
+w130548575,Ambarlı F/O TM,,,40.979067,28.701196,İstanbul,Marmara,154,https://www.openstreetmap.org/way/130548575
+w130548582,Habibler TM,TEİAŞ,transmission,41.124976,28.85245,İstanbul,Marmara,400,https://www.openstreetmap.org/way/130548582
+w130559467,Tekirdağ TM,TEİAŞ,,40.999123,27.511062,Tekirdağ,Marmara,154,https://www.openstreetmap.org/way/130559467
+w130569382,Işıklar TM,TEİAŞ,,38.418628,27.24236,İzmir,Ege,400,https://www.openstreetmap.org/way/130569382
+w130569393,Üniversite TM,TEİAŞ,transmission,38.458001,27.241536,İzmir,Ege,154,https://www.openstreetmap.org/way/130569393
+w130576633,Aliağa-2 TM,TEİAŞ,,38.755845,26.960216,İzmir,Ege,400,https://www.openstreetmap.org/way/130576633
+w130576642,Ulucak TM,TEİAŞ,,38.553497,27.040719,İzmir,Ege,154,https://www.openstreetmap.org/way/130576642
+w130576649,Çakmaktepe TES TM,TEİAŞ,,38.748086,26.956471,İzmir,Ege,400,https://www.openstreetmap.org/way/130576649
+w130663470,Germencik 380kV TM,TEİAŞ,,37.856751,27.602492,Aydın,Ege,400,https://www.openstreetmap.org/way/130663470
+w130663472,Germencik 154kV TM,TEİAŞ,,37.858031,27.60491,Aydın,Ege,154,https://www.openstreetmap.org/way/130663472
+w130669946,Çine TM,TEİAŞ,,37.64499,27.972725,Aydın,Ege,154,https://www.openstreetmap.org/way/130669946
+w130681486,Tire TM,TEİAŞ,,38.109238,27.714479,Aydın,Ege,154,https://www.openstreetmap.org/way/130681486
+w130684457,Milas TM,TEİAŞ,,37.298416,27.782991,Muğla,Ege,154,https://www.openstreetmap.org/way/130684457
+w130734249,Afyon-1 TM,TEİAŞ,,38.765466,30.548957,Afyonkarahisar,Ege,154,https://www.openstreetmap.org/way/130734249
+w130740157,Afyon-2 380kV TM,TEİAŞ,transmission,38.791844,30.580946,Afyonkarahisar,Ege,400,https://www.openstreetmap.org/way/130740157
+w130740163,Afyon-2 154kV TM,TEİAŞ,,38.790669,30.578961,Afyonkarahisar,Ege,154,https://www.openstreetmap.org/way/130740163
+w130983028,Pülümür TM,TEİAŞ,,39.489387,39.894544,Erzincan,Doğu Anadolu,154,https://www.openstreetmap.org/way/130983028
+w1311966184,Buharkent OSB TM,TEİAŞ,,37.959368,28.702681,Denizli,Ege,154,https://www.openstreetmap.org/way/1311966184
+w131231635,Erzincan-1 TM,TEİAŞ,,39.737338,39.523058,Erzincan,Doğu Anadolu,154,https://www.openstreetmap.org/way/131231635
+w131238799,Bayburt TM,TEİAŞ,,40.252291,40.211652,Bayburt,Karadeniz,154,https://www.openstreetmap.org/way/131238799
+w1312560605,Karaman Bes TM,TEİAŞ,,37.307661,33.514657,Karaman,İç Anadolu,154,https://www.openstreetmap.org/way/1312560605
+w131402486,Büyükbakkalköy TM,TEİAŞ,,40.968644,29.193664,İstanbul,Marmara,154,https://www.openstreetmap.org/way/131402486
+w131402488,Dudullu TM,TEİAŞ,,41.003868,29.171838,İstanbul,Marmara,154,https://www.openstreetmap.org/way/131402488
+w131402489,Kartal TM,TEİAŞ,,40.895013,29.236695,İstanbul,Marmara,154,https://www.openstreetmap.org/way/131402489
+w131402490,İçmeler TM,TEİAŞ,,40.851719,29.306124,Yalova,Marmara,154,https://www.openstreetmap.org/way/131402490
+w1314181225,Ulu Res TM,TEİAŞ,transmission,39.927662,29.369599,Bursa,Marmara,154,https://www.openstreetmap.org/way/1314181225
+w131427853,Gelibolu Trafo Merkezi,TEİAŞ,distribution,40.42577,26.666886,Çanakkale,Marmara,154,https://www.openstreetmap.org/way/131427853
+w131427860,Burgaz RES TM,TEİAŞ,transmission,40.384145,26.583487,Çanakkale,Marmara,154,https://www.openstreetmap.org/way/131427860
+w131427862,TEİAŞ Kumlimanı Trafo Merkezi,TEİAŞ,transmission,40.148263,26.244631,Çanakkale,Marmara,154,https://www.openstreetmap.org/way/131427862
+w131519045,Malkara TM,TEİAŞ,transmission,40.883412,26.932684,Tekirdağ,Marmara,154,https://www.openstreetmap.org/way/131519045
+w131563084,Uzunköprü TM,TEİAŞ,,41.269829,26.715676,Edirne,Marmara,154,https://www.openstreetmap.org/way/131563084
+w131601637,Keşan TM,TEİAŞ,,40.877864,26.637388,Tekirdağ,Marmara,154,https://www.openstreetmap.org/way/131601637
+w131618584,Havsa Trafo Merkezi,TEİAŞ,distribution,41.569926,26.829665,Edirne,Marmara,154,https://www.openstreetmap.org/way/131618584
+w1317081304,TEİAŞ Büyükçekmece Trafo Merkezi,TEİAŞ,,41.028773,28.535708,İstanbul,Marmara,154,https://www.openstreetmap.org/way/1317081304
+w1317081305,,,distribution,41.132934,28.474469,İstanbul,Marmara,34,https://www.openstreetmap.org/way/1317081305
+w1317649205,Hotamış TM,TEİAŞ,transmission,37.623614,33.274369,Karaman,İç Anadolu,154,https://www.openstreetmap.org/way/1317649205
+w1317649303,Erenköy GİS Trafo Merkezi,TEİAŞ,transmission,37.90764,32.465222,Konya,İç Anadolu,154,https://www.openstreetmap.org/way/1317649303
+w131875657,Hamitabat DGKÇS 154 kV Trafo Merkezi,TEİAŞ,transmission,41.479637,27.33719,Kırklareli,Marmara,154,https://www.openstreetmap.org/way/131875657
+w131875659,TEİAŞ Kıyıköy Trafo Merkezi,TEİAŞ,distribution,41.629734,28.071655,Kırklareli,Marmara,154,https://www.openstreetmap.org/way/131875659
+w131875660,Lüleburgaz TM,TEİAŞ,distribution,41.408473,27.336741,Kırklareli,Marmara,154,https://www.openstreetmap.org/way/131875660
+w131875661,TEİAŞ 154KV Lüleburgaz Trafo Merkezi,TEİAŞ,,41.40828,27.33644,Kırklareli,Marmara,154,https://www.openstreetmap.org/way/131875661
+w131900283,Pınarhisar TM,TEİAŞ,,41.626966,27.499861,Kırklareli,Marmara,154,https://www.openstreetmap.org/way/131900283
+w131942495,Hadimköy TM,TEİAŞ,,41.159542,28.612099,İstanbul,Marmara,154,https://www.openstreetmap.org/way/131942495
+w131978203,Bandırma-2 TM,TEİAŞ,,40.350656,27.934698,Balıkesir,Marmara,154,https://www.openstreetmap.org/way/131978203
+w131978207,Bandırma-3 TM,TEİAŞ,,40.320755,28.008946,Balıkesir,Marmara,154,https://www.openstreetmap.org/way/131978207
+w132022308,Bursa DGKÇ TM,TEİAŞ,,40.294161,29.073576,Bursa,Marmara,400,https://www.openstreetmap.org/way/132022308
+w132022312,TEİAŞ Gemlik TM,TEİAŞ,,40.413789,29.119084,Bursa,Marmara,154,https://www.openstreetmap.org/way/132022312
+w132128807,Adapazarı-2 TM,TEİAŞ,,40.742708,30.384249,Sakarya,Marmara,400,https://www.openstreetmap.org/way/132128807
+w132139318,Adapazarı-1 DGKÇ,TEİAŞ,,40.863633,30.393211,Sakarya,Marmara,400,https://www.openstreetmap.org/way/132139318
+w132139320,Adapazarı-2 DGKÇ,TEİAŞ,,40.865749,30.386995,Sakarya,Marmara,400,https://www.openstreetmap.org/way/132139320
+w1325095895,İSKUR TM,TEİAŞ,transmission,37.521715,36.974419,Kahramanmaraş,Akdeniz,154,https://www.openstreetmap.org/way/1325095895
+w1328072200,Mav Biyokütle TM,TEİAŞ,,40.467835,30.927193,Düzce,Karadeniz,154,https://www.openstreetmap.org/way/1328072200
+w133036376,Arsin TM,TEİAŞ,,40.949802,39.920047,Trabzon,Karadeniz,154,https://www.openstreetmap.org/way/133036376
+w1331400477,İkitelli TM,TEİAŞ,distribution,41.066596,28.790501,İstanbul,Marmara,400,https://www.openstreetmap.org/way/1331400477
+w133432874,Belkis TM,TEİAŞ,,37.032847,37.859803,Gaziantep,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/133432874
+w1339955574,,,,36.804062,28.801204,Muğla,Ege,154,https://www.openstreetmap.org/way/1339955574
+w134555084,Gaziantep-3 TM,TEİAŞ,,37.06612,37.314853,Gaziantep,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/134555084
+w134555085,Gaziantep-4 TM,TEİAŞ,,37.016951,37.428592,Gaziantep,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/134555085
+w134555086,PS-5 TM,TEİAŞ,,37.431944,37.501901,Gaziantep,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/134555086
+w134563797,Adıyaman ÇİM TM,TEİAŞ,,37.687021,38.097534,Adıyaman,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/134563797
+w1346435921,,,,41.036663,28.844855,İstanbul,Marmara,154,https://www.openstreetmap.org/way/1346435921
+w1346915818,Kocapınar RES TM,TEİAŞ,,38.333343,30.285081,Afyonkarahisar,Ege,154,https://www.openstreetmap.org/way/1346915818
+w1348909651,Arısu GES TM,TEİAŞ,,38.625385,43.213547,Van,Doğu Anadolu,154,https://www.openstreetmap.org/way/1348909651
+w135701415,Sinop TM,TEİAŞ,,42.006459,35.092586,Sinop,Karadeniz,154,https://www.openstreetmap.org/way/135701415
+w136070974,Erzurum 2 TM,TEİAŞ,,39.929433,41.108799,Erzurum,Doğu Anadolu,154,https://www.openstreetmap.org/way/136070974
+w1361504301,,,,37.832541,30.527615,Isparta,Akdeniz,154,https://www.openstreetmap.org/way/1361504301
+w1365374667,,,,40.215228,28.984275,Bursa,Marmara,154,https://www.openstreetmap.org/way/1365374667
+w1365374668,,,,40.216024,28.987308,Bursa,Marmara,154,https://www.openstreetmap.org/way/1365374668
+w136571994,Zonguldak-1 TM,TEİAŞ,,41.427238,31.810611,Zonguldak,Karadeniz,154,https://www.openstreetmap.org/way/136571994
+w137028604,Erciş TM,TEİAŞ,yes,39.050236,43.341534,Van,Doğu Anadolu,154,https://www.openstreetmap.org/way/137028604
+w1382376691,TCDD Trafo Merkezi,Türkiye Cumhuriyeti Devlet Demiryolları,traction,41.28315,27.778863,Tekirdağ,Marmara,154,https://www.openstreetmap.org/way/1382376691
+w1383969794,Soğanlık TM,TEİAŞ,,40.93094,29.217626,İstanbul,Marmara,154,https://www.openstreetmap.org/way/1383969794
+w1384583920,Genç TM,TEİAŞ,,38.718318,40.542658,Bingöl,Doğu Anadolu,154,https://www.openstreetmap.org/way/1384583920
+w1385500914,DDY Edirne TM,Türkiye Cumhuriyeti Devlet Demiryolları,traction,41.646099,26.592875,Edirne,Marmara,154,https://www.openstreetmap.org/way/1385500914
+w1390677179,,TEİAŞ,,40.340105,27.937116,Balıkesir,Marmara,-1,https://www.openstreetmap.org/way/1390677179
+w1390677180,,TEİAŞ,,40.376243,27.893358,Tekirdağ,Marmara,-1,https://www.openstreetmap.org/way/1390677180
+w139418679,Manisa OSB TM,TEİAŞ,,38.613616,27.35053,Manisa,Ege,400,https://www.openstreetmap.org/way/139418679
+w139418770,MORSAN TM,TEİAŞ,,38.61294,27.352535,Manisa,Ege,154,https://www.openstreetmap.org/way/139418770
+w139961582,Muğla TM,TEİAŞ,,37.217259,28.34837,Muğla,Ege,154,https://www.openstreetmap.org/way/139961582
+w1410852945,TEİAŞ Şile Trafo Merkezi,TEİAŞ,transmission,41.147389,29.563295,İstanbul,Marmara,154,https://www.openstreetmap.org/way/1410852945
+w1413986381,Sibel Res TM,TEİAŞ,,38.543412,27.303412,Manisa,Ege,154,https://www.openstreetmap.org/way/1413986381
+w1416023798,TCDD Alpullu Trafo Merkezi,Türkiye Cumhuriyeti Devlet Demiryolları,traction,41.382602,27.154919,Kırklareli,Marmara,154,https://www.openstreetmap.org/way/1416023798
+w1418223962,Uşak Karma OSB Trafo Merkezi,TEİAŞ,transmission,38.622234,29.465348,Uşak,Ege,154,https://www.openstreetmap.org/way/1418223962
+w1418942802,Kızılcahamam TM,TEİAŞ,,40.420268,32.673696,Ankara,İç Anadolu,154,https://www.openstreetmap.org/way/1418942802
+w1422576985,TEİAŞ Selimpaşa Mobil Trafo Merkezi,TEİAŞ,transmission,41.09822,28.333312,İstanbul,Marmara,154,https://www.openstreetmap.org/way/1422576985
+w1422576989,TEİAŞ Örnek Mobil Trafo Merkezi,TEİAŞ,transmission,41.028513,28.660456,İstanbul,Marmara,154,https://www.openstreetmap.org/way/1422576989
+w1422976439,Baran Hes TM,TEİAŞ,,37.772571,42.259497,Siirt,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/1422976439
+w1423999783,,,,41.117301,28.810597,İstanbul,Marmara,380,https://www.openstreetmap.org/way/1423999783
+w1426573027,TM,TEİAŞ,,39.619273,26.364481,Çanakkale,Marmara,154,https://www.openstreetmap.org/way/1426573027
+w1431555137,3s Kale Jes TM,TEİAŞ,,37.805656,27.77575,Aydın,Ege,154,https://www.openstreetmap.org/way/1431555137
+w1441657188,Düzlük Ges TM,TEİAŞ,,37.405857,39.934869,Diyarbakır,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/1441657188
+w1441688500,TM,TEİAŞ,,37.393463,39.93109,Diyarbakır,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/1441688500
+w1443354581,Salihli OSB Trafo Merkezi,TEİAŞ,transmission,38.505542,28.314246,Manisa,Ege,154,https://www.openstreetmap.org/way/1443354581
+w1446915162,Kırlık TM,TEİAŞ,yes,37.211408,39.538683,Şanlıurfa,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/1446915162
+w1446915168,TM,TEİAŞ,,37.026986,39.663175,Şanlıurfa,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/1446915168
+w1448199763,Andırın TM,TEİAŞ,,37.596428,36.361297,Kahramanmaraş,Akdeniz,154,https://www.openstreetmap.org/way/1448199763
+w1449998901,,TEİAŞ,,40.866966,29.347236,Yalova,Marmara,400,https://www.openstreetmap.org/way/1449998901
+w1450354822,Merzifon TM,TEİAŞ,,40.898115,35.437427,Amasya,Karadeniz,154,https://www.openstreetmap.org/way/1450354822
+w1451800001,Yeni Res TM,TEİAŞ,transmission,41.940383,27.455328,Kırklareli,Marmara,154,https://www.openstreetmap.org/way/1451800001
+w1456941201,,TEİAŞ,,40.814922,32.926186,Karabük,Karadeniz,154,https://www.openstreetmap.org/way/1456941201
+w1459837431,TM,TEİAŞ,,41.562158,32.074783,Bartın,Karadeniz,154,https://www.openstreetmap.org/way/1459837431
+w1460430366,TM,TEİAŞ,,40.549962,30.39428,Sakarya,Marmara,154,https://www.openstreetmap.org/way/1460430366
+w1463238860,Kadıköy Ges TM,TEİAŞ,,37.415966,39.920005,Diyarbakır,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/1463238860
+w1463238862,Amr Ges TM,TEİAŞ,,37.424711,39.921709,Diyarbakır,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/1463238862
+w1464242985,,TREDAŞ,distribution,41.154533,27.827619,Tekirdağ,Marmara,34,https://www.openstreetmap.org/way/1464242985
+w1465059656,TM,TEİAŞ,,39.279865,37.768319,Sivas,İç Anadolu,154,https://www.openstreetmap.org/way/1465059656
+w1466991655,,,,36.210636,33.554712,Karaman,İç Anadolu,154,https://www.openstreetmap.org/way/1466991655
+w1467293820,DDY Hoşumlu TM,TEİAŞ,,39.817092,35.487647,Yozgat,İç Anadolu,154,https://www.openstreetmap.org/way/1467293820
+w1476988958,TEİAŞ Tarsus Organize Sanayi Bölgesi Transformatör Merkezi,TEİAŞ,transmission,36.995465,34.922506,Mersin,Akdeniz,154,https://www.openstreetmap.org/way/1476988958
+w1479697984,Güney-1 Res TM,TEİAŞ,,40.288945,28.581275,Bursa,Marmara,154,https://www.openstreetmap.org/way/1479697984
+w1491097213,TEİAŞ Demirköy Trafo Merkezi,TEİAŞ,distribution,41.81882,27.790902,Kırklareli,Marmara,154,https://www.openstreetmap.org/way/1491097213
+w1498626255,TM,TEİAŞ,,37.970348,35.463264,Niğde,İç Anadolu,154,https://www.openstreetmap.org/way/1498626255
+w149996303,Seyitömer TES TM,TEİAŞ,,39.574143,29.883911,Kütahya,Ege,400,https://www.openstreetmap.org/way/149996303
+w150203516,Çatalan HES TM,TEİAŞ,,37.195784,35.278183,Adana,Akdeniz,154,https://www.openstreetmap.org/way/150203516
+w150665477,Yenişehir-2 TM,TEİAŞ,,40.271543,29.623678,Bilecik,Marmara,154,https://www.openstreetmap.org/way/150665477
+w150785860,Orhaneli TES TM,TEİAŞ,,39.952585,28.872764,Bursa,Marmara,154,https://www.openstreetmap.org/way/150785860
+w150928378,Demirci TM,TEİAŞ,,39.053419,28.669801,Uşak,Ege,154,https://www.openstreetmap.org/way/150928378
+w152097760,Ereğli TM,TEİAŞ,transmission,37.540495,34.087841,Niğde,İç Anadolu,400,https://www.openstreetmap.org/way/152097760
+w152202929,Karapınar TM,TEİAŞ,transmission,37.731286,33.551136,Karaman,İç Anadolu,154,https://www.openstreetmap.org/way/152202929
+w1525014310,,TREDAŞ,distribution,41.426474,27.11379,Kırklareli,Marmara,34,https://www.openstreetmap.org/way/1525014310
+w1525208836,,,,37.23428,38.774741,Şanlıurfa,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/1525208836
+w1527627949,Avrupa Serbest Bögesi Trafo Merkezi,TEİAŞ,transmission,41.274023,27.818711,Tekirdağ,Marmara,154,https://www.openstreetmap.org/way/1527627949
+w1536182950,,Sakarya Elektrik Dağıtım A.Ş.,,40.847417,30.331049,Sakarya,Marmara,154,https://www.openstreetmap.org/way/1536182950
+w1539416950,,TREDAŞ,distribution,41.293946,27.609602,Tekirdağ,Marmara,34,https://www.openstreetmap.org/way/1539416950
+w1540250127,,,,36.806984,31.431734,Antalya,Akdeniz,-1,https://www.openstreetmap.org/way/1540250127
+w1549053036,,,,37.772342,38.362688,Adıyaman,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/1549053036
+w1555018296,,,,37.572116,43.904492,Hakkari,Doğu Anadolu,-1,https://www.openstreetmap.org/way/1555018296
+w1559099149,,,,36.968388,30.626292,Antalya,Akdeniz,154,https://www.openstreetmap.org/way/1559099149
+w1562940390,,,,38.807802,42.760976,Van,Doğu Anadolu,-1,https://www.openstreetmap.org/way/1562940390
+w1569830824,,,,40.773077,30.024189,Kocaeli,Marmara,154,https://www.openstreetmap.org/way/1569830824
+w1571311364,ATA RES-1 TM,TEİAŞ,yes,40.367363,28.264691,Bursa,Marmara,154,https://www.openstreetmap.org/way/1571311364
+w165974346,Tepeören TM,TEİAŞ,,40.893034,29.399607,Yalova,Marmara,400,https://www.openstreetmap.org/way/165974346
+w166322004,Gezende HES TM,TEİAŞ,transmission,36.560978,33.273147,Karaman,İç Anadolu,154,https://www.openstreetmap.org/way/166322004
+w168713709,TAKSAN TM,TEİAŞ,,38.560462,35.186603,Kayseri,İç Anadolu,154,https://www.openstreetmap.org/way/168713709
+w168749163,Yeşilhisar TM,TEİAŞ,,38.243397,35.133939,Niğde,İç Anadolu,400,https://www.openstreetmap.org/way/168749163
+w168912340,Yamula HES TM,TEİAŞ,,38.904338,35.26769,Kayseri,İç Anadolu,154,https://www.openstreetmap.org/way/168912340
+w169361002,TCDD Çetinkaya,Türkiye Cumhuriyeti Devlet Demiryolları,traction,39.250782,37.622856,Sivas,İç Anadolu,154,https://www.openstreetmap.org/way/169361002
+w169414306,Artova ÇİM TM,TEİAŞ,industrial,40.103313,36.294677,Tokat,Karadeniz,154,https://www.openstreetmap.org/way/169414306
+w169679398,Kayabaşı 380kV TM,TEİAŞ,transmission,40.571312,35.737513,Amasya,Karadeniz,400,https://www.openstreetmap.org/way/169679398
+w169932529,İsmetpaşa TM,TEİAŞ,,40.869336,32.632064,Karabük,Karadeniz,154,https://www.openstreetmap.org/way/169932529
+w170137728,Kulp HES TM,TEİAŞ,,38.546846,41.071255,Muş,Doğu Anadolu,154,https://www.openstreetmap.org/way/170137728
+w170575200,Silvan TM,TEİAŞ,,38.132532,41.041108,Batman,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/170575200
+w170655124,Kangal TES TM,TEİAŞ,,39.080033,37.295535,Sivas,İç Anadolu,400,https://www.openstreetmap.org/way/170655124
+w171078718,Doğanköy TM,TEİAŞ,,38.301714,37.167915,Kahramanmaraş,Akdeniz,154,https://www.openstreetmap.org/way/171078718
+w171263413,Göksun SKM,TEİAŞ,compensation,38.090631,36.605141,Kahramanmaraş,Akdeniz,380,https://www.openstreetmap.org/way/171263413
+w171383023,Kayseri-3 OSB TM,TEİAŞ,,38.737596,35.375745,Kayseri,İç Anadolu,154,https://www.openstreetmap.org/way/171383023
+w171691584,Alaca TM,TEİAŞ,,40.16951,34.818135,Yozgat,İç Anadolu,154,https://www.openstreetmap.org/way/171691584
+w171741195,Çorum -2 TM,TEİAŞ,,40.479255,34.865789,Çorum,Karadeniz,154,https://www.openstreetmap.org/way/171741195
+w171823579,Darende TM,TEİAŞ,,38.573801,37.485501,Malatya,Doğu Anadolu,154,https://www.openstreetmap.org/way/171823579
+w171940544,TCDD Hekimhan,Türkiye Cumhuriyeti Devlet Demiryolları,traction,38.846115,37.912374,Malatya,Doğu Anadolu,154,https://www.openstreetmap.org/way/171940544
+w172173196,DSİ Kuzova TM,TEİAŞ,,38.856705,38.907712,Elazığ,Doğu Anadolu,154,https://www.openstreetmap.org/way/172173196
+w172188952,Kralkızı HES TM,TEİAŞ,,38.346169,40.025728,Diyarbakır,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/172188952
+w172195915,Ergani ÇİM TM,TEİAŞ,,38.286488,39.741888,Diyarbakır,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/172195915
+w172277775,Kızıltepe 380kV TM,TEİAŞ,,37.2428,40.638165,Mardin,Güneydoğu Anadolu,400,https://www.openstreetmap.org/way/172277775
+w172277777,Kızıltepe TM,TEİAŞ,,37.241262,40.639813,Mardin,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/172277777
+w172283314,Mardin-2 TM,TEİAŞ,,37.310037,40.72558,Mardin,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/172283314
+w172320373,Tatvan TM,TEİAŞ,,38.514805,42.274061,Bitlis,Doğu Anadolu,154,https://www.openstreetmap.org/way/172320373
+w172474595,Kuzgun HES TM,TEİAŞ,,40.183654,41.063586,Erzurum,Doğu Anadolu,154,https://www.openstreetmap.org/way/172474595
+w172539667,Tercan TM,TEİAŞ,,39.771782,40.40239,Bayburt,Karadeniz,154,https://www.openstreetmap.org/way/172539667
+w172662466,Muratlı Arma Hes TM,TEİAŞ,,40.154471,38.503476,Giresun,Karadeniz,154,https://www.openstreetmap.org/way/172662466
+w172782786,Yağlıdere HES TM,TEİAŞ,,40.690632,38.624301,Giresun,Karadeniz,154,https://www.openstreetmap.org/way/172782786
+w172824820,Kürtün HES TM,TEİAŞ,,40.682518,39.125102,Gümüşhane,Karadeniz,154,https://www.openstreetmap.org/way/172824820
+w172934497,Karatay Trafo Merkezi,TEİAŞ,transmission,37.841516,32.751523,Konya,İç Anadolu,400,https://www.openstreetmap.org/way/172934497
+w172934516,Seydişehir TM,TEİAŞ,transmission,37.459439,31.86248,Konya,İç Anadolu,380,https://www.openstreetmap.org/way/172934516
+w172934546,Seydişehir TS TM,TEİAŞ,,37.44096,31.85249,Konya,İç Anadolu,400,https://www.openstreetmap.org/way/172934546
+w173270033,Altıntaş TM,TEİAŞ,,39.072418,30.116527,Kütahya,Ege,154,https://www.openstreetmap.org/way/173270033
+w173298048,Çayırhan TES TM,TEİAŞ,,40.099064,31.694305,Bolu,Karadeniz,400,https://www.openstreetmap.org/way/173298048
+w173325168,Silivri TM,TEİAŞ,,41.097365,28.231677,Tekirdağ,Marmara,154,https://www.openstreetmap.org/way/173325168
+w173338519,TRAÇİM TM,TEİAŞ,,41.628757,27.685002,Kırklareli,Marmara,154,https://www.openstreetmap.org/way/173338519
+w173348127,Tekirdağ-A DG TM,TEİAŞ,transmission,41.008422,27.972594,Tekirdağ,Marmara,400,https://www.openstreetmap.org/way/173348127
+w173350416,Trakya Elektrik TM,TEİAŞ,transmission,40.997228,27.9781,Tekirdağ,Marmara,154,https://www.openstreetmap.org/way/173350416
+w173350421,Kaptan DÇ TM,TEİAŞ,industrial,41.017471,27.962327,Tekirdağ,Marmara,400,https://www.openstreetmap.org/way/173350421
+w173444191,Uşak Trafo Merkezi,TEİAŞ,transmission,38.682133,29.42409,Uşak,Ege,154,https://www.openstreetmap.org/way/173444191
+w173780829,Lara-1 TM,TEİAŞ,,36.9442,30.796634,Antalya,Akdeniz,154,https://www.openstreetmap.org/way/173780829
+w173780845,Karacaören-I HES TM,TEİAŞ,,37.366961,30.829883,Isparta,Akdeniz,154,https://www.openstreetmap.org/way/173780845
+w173780847,Karacaören II HES TM,TEİAŞ,,37.264254,30.796319,Antalya,Akdeniz,154,https://www.openstreetmap.org/way/173780847
+w173780938,Gündoğdu TM,TEİAŞ,,36.855721,31.301642,Antalya,Akdeniz,154,https://www.openstreetmap.org/way/173780938
+w174078393,Kaynaşlı TM,TEİAŞ,transmission,40.780476,31.302361,Düzce,Karadeniz,154,https://www.openstreetmap.org/way/174078393
+w174078394,Osmanca TM,TEİAŞ,,40.916385,31.138028,Düzce,Karadeniz,400,https://www.openstreetmap.org/way/174078394
+w174135777,Uzunçayır HES TM,TEİAŞ,,38.981616,39.531711,Tunceli,Doğu Anadolu,154,https://www.openstreetmap.org/way/174135777
+w174169795,Tunceli TM,TEİAŞ,,39.096668,39.534988,Tunceli,Doğu Anadolu,154,https://www.openstreetmap.org/way/174169795
+w174270971,Elazığ TM,TEİAŞ,,38.634372,39.264998,Elazığ,Doğu Anadolu,154,https://www.openstreetmap.org/way/174270971
+w174339141,Ferrokrom TM,TEİAŞ,,38.655043,39.76919,Elazığ,Doğu Anadolu,154,https://www.openstreetmap.org/way/174339141
+w174910604,Kilis TM,TEİAŞ,,36.723364,37.21967,Kilis,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/174910604
+w175080552,SEKA TM,TEİAŞ,,39.560138,27.967417,Balıkesir,Marmara,154,https://www.openstreetmap.org/way/175080552
+w175080669,Soma-A TES TM,,,39.19321,27.630629,Balıkesir,Marmara,154,https://www.openstreetmap.org/way/175080669
+w175080670,Şamlı RES TM,TEİAŞ,,39.924339,27.884479,Balıkesir,Marmara,154,https://www.openstreetmap.org/way/175080670
+w175096830,Çan TES TM,,,40.022369,26.979636,Çanakkale,Marmara,154,https://www.openstreetmap.org/way/175096830
+w175096848,İÇDAŞ TES TM,TEİAŞ,,40.440969,27.128726,Tekirdağ,Marmara,400,https://www.openstreetmap.org/way/175096848
+w175275388,Manisa OSB TES TM,,,38.616423,27.342348,Manisa,Ege,380,https://www.openstreetmap.org/way/175275388
+w175275590,,,,38.616587,27.31404,Manisa,Ege,154,https://www.openstreetmap.org/way/175275590
+w175288836,EBSO TM,TEİAŞ,,38.508671,27.036378,İzmir,Ege,154,https://www.openstreetmap.org/way/175288836
+w175288838,Kemalpaşa TM,TEİAŞ,,38.467239,27.387524,Manisa,Ege,154,https://www.openstreetmap.org/way/175288838
+w175288894,TEİAŞ 154KV Çorlu Transformatör Merkezi,TEİAŞ,transmission,41.15483,27.828722,Tekirdağ,Marmara,154,https://www.openstreetmap.org/way/175288894
+w175288904,Kemalpaşa TM,TEİAŞ,,38.467098,27.387109,Manisa,Ege,154,https://www.openstreetmap.org/way/175288904
+w175307295,Küçükköy TM,TEİAŞ,,41.083983,28.920688,İstanbul,Marmara,154,https://www.openstreetmap.org/way/175307295
+w175316684,Konya-3 TM,TEİAŞ,transmission,37.960006,32.612458,Konya,İç Anadolu,154,https://www.openstreetmap.org/way/175316684
+w175324357,Patnos TM,TEİAŞ,,39.234804,42.893633,Ağrı,Doğu Anadolu,154,https://www.openstreetmap.org/way/175324357
+w175453225,Van OSB TM,TEİAŞ,,38.583342,43.320043,Van,Doğu Anadolu,400,https://www.openstreetmap.org/way/175453225
+w175453467,Van2 TM,TEİAŞ,,38.573457,43.312759,Van,Doğu Anadolu,154,https://www.openstreetmap.org/way/175453467
+w175488701,Buca TM,TEİAŞ,,38.380848,27.192047,İzmir,Ege,154,https://www.openstreetmap.org/way/175488701
+w175488704,Bozyaka TM,TEİAŞ,,38.393473,27.130062,İzmir,Ege,154,https://www.openstreetmap.org/way/175488704
+w175488707,Kozan TM,TEİAŞ,,37.422331,35.783394,Osmaniye,Akdeniz,154,https://www.openstreetmap.org/way/175488707
+w175488858,Çorum-1 TM,TEİAŞ,,40.570158,34.987387,Çorum,Karadeniz,154,https://www.openstreetmap.org/way/175488858
+w175556428,Datça TM,TEİAŞ,,36.756946,27.681856,Muğla,Ege,154,https://www.openstreetmap.org/way/175556428
+w175556432,Marmaris TM,TEİAŞ,,36.853595,28.205438,Muğla,Ege,154,https://www.openstreetmap.org/way/175556432
+w175558545,Lara-2 TM,TEİAŞ,,36.878156,30.851404,Antalya,Akdeniz,154,https://www.openstreetmap.org/way/175558545
+w175582715,Karaman TM,TEİAŞ,transmission,37.186733,33.19426,Karaman,İç Anadolu,154,https://www.openstreetmap.org/way/175582715
+w175867656,Karaman OSB TM,TEİAŞ,transmission,37.217174,33.322564,Karaman,İç Anadolu,154,https://www.openstreetmap.org/way/175867656
+w176009144,Temelli TM,TEİAŞ,,39.776027,32.407527,Ankara,İç Anadolu,400,https://www.openstreetmap.org/way/176009144
+w176223908,Şile (Teke)TM,TEİAŞ,transmission,41.069064,29.670163,Kocaeli,Marmara,154,https://www.openstreetmap.org/way/176223908
+w176223940,İsaköy TM,TEİAŞ,,41.110077,29.82591,Kocaeli,Marmara,154,https://www.openstreetmap.org/way/176223940
+w176290257,Etiler TM,TEİAŞ,,41.073398,29.027275,İstanbul,Marmara,154,https://www.openstreetmap.org/way/176290257
+w176290258,,,,41.0699,29.064769,İstanbul,Marmara,154,https://www.openstreetmap.org/way/176290258
+w176290266,Beykoz TM,TEİAŞ,,41.127907,29.149685,İstanbul,Marmara,400,https://www.openstreetmap.org/way/176290266
+w176324590,Kırka TM,TEİAŞ,,39.291353,30.526552,Kütahya,Ege,154,https://www.openstreetmap.org/way/176324590
+w176358448,Bozüyük 154 kV TM,TEİAŞ,transmission,39.90727,30.076987,Bilecik,Marmara,154,https://www.openstreetmap.org/way/176358448
+w176441305,Gökçekaya HES TM,TEİAŞ,,40.035038,31.021764,Eskişehir,İç Anadolu,400,https://www.openstreetmap.org/way/176441305
+w176441327,TUTES ŞALT TM,TEİAŞ,,39.627696,29.463215,Kütahya,Ege,400,https://www.openstreetmap.org/way/176441327
+w176441329,Gürağaç TM,TEİAŞ,transmission,39.618316,29.446488,Kütahya,Ege,400,https://www.openstreetmap.org/way/176441329
+w176441437,TCDD Karagözler TM,Türkiye Cumhuriyeti Devlet Demiryolları,traction,39.782887,30.400508,Eskişehir,İç Anadolu,154,https://www.openstreetmap.org/way/176441437
+w176517634,Alaşehir TM,TEİAŞ,,38.339298,28.549897,Denizli,Ege,154,https://www.openstreetmap.org/way/176517634
+w176553393,Babaeski 380kV TM,TEİAŞ,transmission,41.423639,27.115772,Kırklareli,Marmara,400,https://www.openstreetmap.org/way/176553393
+w176553394,Babaeski 154kV TM,TEİAŞ,distribution,41.424537,27.114882,Kırklareli,Marmara,154,https://www.openstreetmap.org/way/176553394
+w176622355,Emet TM,TEİAŞ,,39.333608,29.269075,Kütahya,Ege,154,https://www.openstreetmap.org/way/176622355
+w176743576,Gediz TM,TEİAŞ,,39.005085,29.393876,Uşak,Ege,154,https://www.openstreetmap.org/way/176743576
+w176751230,Salihli TM,TEİAŞ,,38.514313,28.140362,Manisa,Ege,154,https://www.openstreetmap.org/way/176751230
+w176767352,Demirköprü HES TM,TEİAŞ,,38.603806,28.291135,Manisa,Ege,154,https://www.openstreetmap.org/way/176767352
+w176767354,Derbent TM,TEİAŞ,,38.489526,27.792891,Manisa,Ege,154,https://www.openstreetmap.org/way/176767354
+w176767360,Manisa TM,TEİAŞ,,38.622042,27.425302,Manisa,Ege,154,https://www.openstreetmap.org/way/176767360
+w176801181,Uzundere TM,TEİAŞ,transmission,38.350637,27.103289,İzmir,Ege,400,https://www.openstreetmap.org/way/176801181
+w176986592,Yeni Çates TM,TEİAŞ,,41.515817,31.903749,Zonguldak,Karadeniz,154,https://www.openstreetmap.org/way/176986592
+w176990411,Safranbolu TM,TEİAŞ,,41.2434,32.700652,Karabük,Karadeniz,154,https://www.openstreetmap.org/way/176990411
+w177511798,AKORSAN TM,TEİAŞ,,37.070926,30.618348,Antalya,Akdeniz,154,https://www.openstreetmap.org/way/177511798
+w177511800,AKSA DKÇS 154kV TM,TEİAŞ,,37.120261,30.601568,Antalya,Akdeniz,400,https://www.openstreetmap.org/way/177511800
+w177511801,AKSA DKÇS 380kV TM,TEİAŞ,,37.123992,30.599307,Antalya,Akdeniz,180,https://www.openstreetmap.org/way/177511801
+w177523126,Bucak TM,TEİAŞ,transmission,37.447656,30.572666,Isparta,Akdeniz,154,https://www.openstreetmap.org/way/177523126
+w177681715,Kahramanmaraş-II TM,TEİAŞ,,37.566215,36.943128,Kahramanmaraş,Akdeniz,154,https://www.openstreetmap.org/way/177681715
+w177681728,Kılılı TM,TEİAŞ,,37.417512,36.876055,Kahramanmaraş,Akdeniz,154,https://www.openstreetmap.org/way/177681728
+w177786840,İkizdere TM,TEİAŞ,,40.8978,40.428739,Rize,Karadeniz,154,https://www.openstreetmap.org/way/177786840
+w177818606,Erzin TM,TEİAŞ,,36.990599,36.19172,Osmaniye,Akdeniz,400,https://www.openstreetmap.org/way/177818606
+w177818607,MMK Atakaş TM,TEİAŞ,,36.778724,36.209971,Osmaniye,Akdeniz,400,https://www.openstreetmap.org/way/177818607
+w177893369,Antakya-II TM,TEİAŞ,,36.414747,36.273807,Hatay,Akdeniz,154,https://www.openstreetmap.org/way/177893369
+w177893531,İskenderun-I TM,TEİAŞ,,36.605432,36.198625,Hatay,Akdeniz,154,https://www.openstreetmap.org/way/177893531
+w177959584,Samandağ RES TM,TEİAŞ,,36.104908,36.042492,Hatay,Akdeniz,154,https://www.openstreetmap.org/way/177959584
+w178019492,Antakya-III TM,TEİAŞ,,36.205137,36.112928,Hatay,Akdeniz,154,https://www.openstreetmap.org/way/178019492
+w178035038,Nacarlı TM,TEİAŞ,,36.898166,34.80928,Mersin,Akdeniz,154,https://www.openstreetmap.org/way/178035038
+w178129913,Tarsus TM,TEİAŞ,,36.926299,34.897395,Mersin,Akdeniz,154,https://www.openstreetmap.org/way/178129913
+w178198475,Berke HES TM,TEİAŞ,,37.354811,36.435358,Osmaniye,Akdeniz,154,https://www.openstreetmap.org/way/178198475
+w178198489,ENOVA TM,TEİAŞ,,37.223669,36.253473,Osmaniye,Akdeniz,154,https://www.openstreetmap.org/way/178198489
+w178198490,Batı Adana TM,TEİAŞ,,37.005264,35.307833,Adana,Akdeniz,66,https://www.openstreetmap.org/way/178198490
+w178327425,Saruhanlı TM,TEİAŞ,,38.728443,27.55016,Manisa,Ege,154,https://www.openstreetmap.org/way/178327425
+w178361571,Akhisar TM,TEİAŞ,,38.949298,27.832942,Manisa,Ege,154,https://www.openstreetmap.org/way/178361571
+w178445983,Bozkurt TM,TEİAŞ,,37.815981,29.595303,Denizli,Ege,154,https://www.openstreetmap.org/way/178445983
+w178546156,Çivril TM,TEİAŞ,,38.21859,29.721845,Uşak,Ege,154,https://www.openstreetmap.org/way/178546156
+w178610393,Adıgüzel HES TM,TEİAŞ,,38.154672,29.206279,Denizli,Ege,154,https://www.openstreetmap.org/way/178610393
+w178690174,Sandıklı TM,TEİAŞ,,38.456782,30.240915,Afyonkarahisar,Ege,154,https://www.openstreetmap.org/way/178690174
+w178831841,Mudurnu TM,TEİAŞ,,40.488475,31.199568,Düzce,Karadeniz,154,https://www.openstreetmap.org/way/178831841
+w178958442,Toyota TM,TEİAŞ,,40.709832,30.394372,Sakarya,Marmara,154,https://www.openstreetmap.org/way/178958442
+w179011058,TEİAŞ Kazan Trafo Merkezi,TEİAŞ,transmission,40.132891,32.64662,Ankara,İç Anadolu,154,https://www.openstreetmap.org/way/179011058
+w179170027,Zara TM,TEİAŞ,,39.886386,37.732831,Sivas,İç Anadolu,154,https://www.openstreetmap.org/way/179170027
+w179295347,Almus HES Trafo Merkezi,TEİAŞ,generation,40.406164,36.899426,Tokat,Karadeniz,154,https://www.openstreetmap.org/way/179295347
+w179402850,154000 Volt Edirne Çimento Trafo Merkezi,TEİAŞ,,41.798706,26.689279,Edirne,Marmara,154,https://www.openstreetmap.org/way/179402850
+w179435948,Taşoluk İhsan Öztürk GİS TM,TEİAŞ,transmission,41.211711,28.711262,İstanbul,Marmara,154,https://www.openstreetmap.org/way/179435948
+w179441497,Yıldıztepe TM,TEİAŞ,,41.060061,28.95501,İstanbul,Marmara,154,https://www.openstreetmap.org/way/179441497
+w179462874,Beşevler TM,TEİAŞ,,40.20821,28.951987,Bursa,Marmara,154,https://www.openstreetmap.org/way/179462874
+w179583011,Paşalar TM,TEİAŞ,,40.301623,30.047579,Bilecik,Marmara,154,https://www.openstreetmap.org/way/179583011
+w179583012,Söğüt TM,TEİAŞ,,40.027505,30.159828,Bilecik,Marmara,154,https://www.openstreetmap.org/way/179583012
+w179758261,Acıpayam TM,TEİAŞ,,37.412888,29.363669,Denizli,Ege,154,https://www.openstreetmap.org/way/179758261
+w179821388,Kemer HES TM,TEİAŞ,,37.573409,28.522641,Muğla,Ege,154,https://www.openstreetmap.org/way/179821388
+w180154003,Sarıkaya RES TM,TEİAŞ,,40.621055,26.992225,Tekirdağ,Marmara,154,https://www.openstreetmap.org/way/180154003
+w180166213,Akkocalı RES TM,TEİAŞ,,39.197968,27.962699,Balıkesir,Marmara,154,https://www.openstreetmap.org/way/180166213
+w180232828,BOTAŞ TM,TEİAŞ,,40.994074,27.974463,Tekirdağ,Marmara,154,https://www.openstreetmap.org/way/180232828
+w180232970,Çerkezköy Transformatör Merkezi,TEİAŞ,distribution,41.291722,27.954799,Tekirdağ,Marmara,154,https://www.openstreetmap.org/way/180232970
+w180232996,154 kV Çerkezköy Enerji Trafo Merkezi,Ç.O.S.B.,transmission,41.292173,27.956246,Tekirdağ,Marmara,154,https://www.openstreetmap.org/way/180232996
+w180233000,Marmara Pamuklu TM,TEİAŞ,,41.205032,27.737878,Tekirdağ,Marmara,154,https://www.openstreetmap.org/way/180233000
+w180284474,Zorlu Enerji TM,TEİAŞ,transmission,41.274928,27.58661,Tekirdağ,Marmara,154,https://www.openstreetmap.org/way/180284474
+w180392261,Biga TM,TEİAŞ,,40.234502,27.260543,Çanakkale,Marmara,154,https://www.openstreetmap.org/way/180392261
+w180431765,Bandırma DGKÇS TM,TEİAŞ,,40.302112,27.766822,Balıkesir,Marmara,400,https://www.openstreetmap.org/way/180431765
+w180444897,Gönen TM,TEİAŞ,,40.136409,27.643158,Balıkesir,Marmara,154,https://www.openstreetmap.org/way/180444897
+w180485592,Fatsa TM,TEİAŞ,,41.029499,37.481765,Ordu,Karadeniz,154,https://www.openstreetmap.org/way/180485592
+w180552569,Balıkesir-2 TM,TEİAŞ,,39.647491,28.019696,Balıkesir,Marmara,400,https://www.openstreetmap.org/way/180552569
+w180604270,Susurluk RES TM,TEİAŞ,transmission,39.792394,28.028474,Balıkesir,Marmara,154,https://www.openstreetmap.org/way/180604270
+w180673011,TCDD Velimeşe TM,Türkiye Cumhuriyeti Devlet Demiryolları,traction,41.247346,27.886654,Tekirdağ,Marmara,154,https://www.openstreetmap.org/way/180673011
+w180723999,Sendiremeke TM,TEİAŞ,yes,38.419827,35.299113,Kayseri,İç Anadolu,154,https://www.openstreetmap.org/way/180723999
+w181153285,Kalecik TM,TEİAŞ,,40.120514,33.420911,Kırıkkale,İç Anadolu,154,https://www.openstreetmap.org/way/181153285
+w181319925,Beyşehir TM,TEİAŞ,transmission,37.744457,31.69599,Konya,İç Anadolu,154,https://www.openstreetmap.org/way/181319925
+w181385259,TCDD Cürek TM,Türkiye Cumhuriyeti Devlet Demiryolları,traction,39.417627,37.971847,Sivas,İç Anadolu,154,https://www.openstreetmap.org/way/181385259
+w181439736,Elgün TM,TEİAŞ,,37.157362,39.864731,Mardin,Güneydoğu Anadolu,400,https://www.openstreetmap.org/way/181439736
+w181439744,Viranşehir TM,TEİAŞ,,37.228676,39.78545,Mardin,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/181439744
+w181485081,Yardımcı TM,TEİAŞ,,37.01797,38.997148,Şanlıurfa,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/181485081
+w181724474,Hilvan TM,TEİAŞ,,37.566128,38.976656,Şanlıurfa,Güneydoğu Anadolu,400,https://www.openstreetmap.org/way/181724474
+w181724483,Karakeçi TM,TEİAŞ,,37.458632,39.450175,Şanlıurfa,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/181724483
+w181724485,Siverek TM,TEİAŞ,,37.748509,39.346115,Diyarbakır,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/181724485
+w181826099,Şırnak TM,TEİAŞ,,37.508704,42.421249,Şırnak,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/181826099
+w182061834,Lice TM,TEİAŞ,,38.452324,40.636412,Bingöl,Doğu Anadolu,154,https://www.openstreetmap.org/way/182061834
+w182180458,Dicle HES TM,TEİAŞ,,38.22934,40.175434,Diyarbakır,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/182180458
+w182391220,Elazığ III TM,TEİAŞ,,38.639679,39.140458,Elazığ,Doğu Anadolu,154,https://www.openstreetmap.org/way/182391220
+w182432279,Bingöl TM,TEİAŞ,,38.897717,40.505767,Bingöl,Doğu Anadolu,154,https://www.openstreetmap.org/way/182432279
+w182731034,İntepe RES TM,TEİAŞ,,40.030825,26.403916,Çanakkale,Marmara,154,https://www.openstreetmap.org/way/182731034
+w182738736,Boreas-1 RES TM,TEİAŞ,,40.719393,26.194536,Çanakkale,Marmara,154,https://www.openstreetmap.org/way/182738736
+w182738739,Enez TM,TEİAŞ,,40.658663,26.223466,Çanakkale,Marmara,154,https://www.openstreetmap.org/way/182738739
+w182823728,,,,40.356866,27.893383,Tekirdağ,Marmara,-1,https://www.openstreetmap.org/way/182823728
+w182836220,Bergama Düzova RES TM,TEİAŞ,,39.046726,27.021542,Manisa,Ege,154,https://www.openstreetmap.org/way/182836220
+w182886019,ALOSBİ TM,TEİAŞ,,38.814785,27.037679,Manisa,Ege,154,https://www.openstreetmap.org/way/182886019
+w182886022,Viking TM,TEİAŞ,,38.83098,26.991792,Manisa,Ege,154,https://www.openstreetmap.org/way/182886022
+w182886094,ALOSBİ TM,TEİAŞ,,38.814626,27.034599,Manisa,Ege,154,https://www.openstreetmap.org/way/182886094
+w182895922,Seyitali RES TM,TEİAŞ,,38.896505,27.169102,Manisa,Ege,154,https://www.openstreetmap.org/way/182895922
+w182895923,Yuntdağı RES TM,TEİAŞ,,38.905272,27.189191,Manisa,Ege,154,https://www.openstreetmap.org/way/182895923
+w182916734,ALMAK,TEİAŞ,,38.738529,26.923123,İzmir,Ege,154,https://www.openstreetmap.org/way/182916734
+w182994135,Adilcevaz TM,TEİAŞ,,38.808907,42.761159,Van,Doğu Anadolu,154,https://www.openstreetmap.org/way/182994135
+w183041551,Muş TM,TEİAŞ,,38.743394,41.523021,Muş,Doğu Anadolu,154,https://www.openstreetmap.org/way/183041551
+w183428190,Samsun-2 TM,TEİAŞ,,41.236312,36.461738,Samsun,Karadeniz,154,https://www.openstreetmap.org/way/183428190
+w183428191,Mobil-2 TES TM,TEİAŞ,,41.240029,36.476457,Samsun,Karadeniz,154,https://www.openstreetmap.org/way/183428191
+w183451807,Malatya-1 TM,TEİAŞ,,38.367597,38.347523,Malatya,Doğu Anadolu,154,https://www.openstreetmap.org/way/183451807
+w183858798,Aksu HES TM,TEİAŞ,,40.590878,41.123061,Rize,Karadeniz,154,https://www.openstreetmap.org/way/183858798
+w184165482,Ağrı TM,TEİAŞ,,39.734752,43.045284,Ağrı,Doğu Anadolu,154,https://www.openstreetmap.org/way/184165482
+w184178822,İspir Havza TM,TEİAŞ,,40.544091,41.046521,Rize,Karadeniz,154,https://www.openstreetmap.org/way/184178822
+w184191733,Obruk HES TM,TEİAŞ,,40.770211,34.791374,Çorum,Karadeniz,154,https://www.openstreetmap.org/way/184191733
+w184257288,Köseköy TM,TEİAŞ,transmission,40.74818,30.048314,Kocaeli,Marmara,154,https://www.openstreetmap.org/way/184257288
+w184319040,İnegöl TM,TEİAŞ,,40.104903,29.49344,Bursa,Marmara,154,https://www.openstreetmap.org/way/184319040
+w184420046,Gökdere Köprü HES TM,TEİAŞ,,37.617444,35.613072,Adana,Akdeniz,154,https://www.openstreetmap.org/way/184420046
+w184420050,Kavşakbendi HES TM,TEİAŞ,,37.54103,35.525264,Adana,Akdeniz,154,https://www.openstreetmap.org/way/184420050
+w184424032,Akdam TM,TEİAŞ,,37.47006,35.663804,Adana,Akdeniz,400,https://www.openstreetmap.org/way/184424032
+w184450507,Adana TM,TEİAŞ,,37.106167,35.51119,Adana,Akdeniz,400,https://www.openstreetmap.org/way/184450507
+w184450514,Cihadiye TM,TEİAŞ,,37.099602,35.507284,Adana,Akdeniz,154,https://www.openstreetmap.org/way/184450514
+w184758229,TEİAŞ Bolu- 1 Trafo Merkezi,TEİAŞ,,40.738822,31.586945,Bolu,Karadeniz,154,https://www.openstreetmap.org/way/184758229
+w184758230,Bolu ÇİM TM,TEİAŞ,,40.758257,31.783014,Bolu,Karadeniz,154,https://www.openstreetmap.org/way/184758230
+w184758233,Gerkonsan TM,TEİAŞ,,40.760358,32.214468,Bolu,Karadeniz,154,https://www.openstreetmap.org/way/184758233
+w184960108,Bölücek TM,TEİAŞ,,41.233339,31.448554,Zonguldak,Karadeniz,400,https://www.openstreetmap.org/way/184960108
+w185089117,Kovada I HES TM,TEİAŞ,,37.625958,30.860221,Isparta,Akdeniz,66,https://www.openstreetmap.org/way/185089117
+w185089119,Kovada II HES TM,TEİAŞ,generation,37.600559,30.83062,Isparta,Akdeniz,154,https://www.openstreetmap.org/way/185089119
+w185232735,Göltaş ÇİM TM,TEİAŞ,,37.899938,30.493138,Isparta,Akdeniz,154,https://www.openstreetmap.org/way/185232735
+w185232739,Isparta TM,TEİAŞ,,37.878778,30.508431,Isparta,Akdeniz,154,https://www.openstreetmap.org/way/185232739
+w185232741,Kuleönü TM,TEİAŞ,,37.870329,30.62455,Isparta,Akdeniz,154,https://www.openstreetmap.org/way/185232741
+w185282912,Toroslar TM,TEİAŞ,,37.462422,34.868142,Niğde,İç Anadolu,154,https://www.openstreetmap.org/way/185282912
+w185321755,Taşucu TM,TEİAŞ,,36.332314,33.894394,Mersin,Akdeniz,154,https://www.openstreetmap.org/way/185321755
+w185420982,Akbelen TM,TEİAŞ,,36.826139,34.594877,Mersin,Akdeniz,154,https://www.openstreetmap.org/way/185420982
+w185440866,Anamur TM,TEİAŞ,,36.092713,32.866828,Karaman,İç Anadolu,154,https://www.openstreetmap.org/way/185440866
+w185504292,Yakaköy TM,TEİAŞ,,36.870723,34.766572,Mersin,Akdeniz,154,https://www.openstreetmap.org/way/185504292
+w185996013,TCDD Akgedik TM,Türkiye Cumhuriyeti Devlet Demiryolları,traction,39.103856,37.732036,Sivas,İç Anadolu,154,https://www.openstreetmap.org/way/185996013
+w186114095,Ladik ÇİM TM,TEİAŞ,distribution,40.934532,35.902642,Amasya,Karadeniz,154,https://www.openstreetmap.org/way/186114095
+w186188503,Kayabaşı 154kV TM,TEİAŞ,distribution,40.571565,35.745958,Amasya,Karadeniz,154,https://www.openstreetmap.org/way/186188503
+w186285255,Tokat OSB TM,TEİAŞ,,40.334451,36.493104,Tokat,Karadeniz,154,https://www.openstreetmap.org/way/186285255
+w186285256,Tokat TM,TEİAŞ,,40.337144,36.560017,Tokat,Karadeniz,154,https://www.openstreetmap.org/way/186285256
+w186285382,,,,40.337049,36.559965,Tokat,Karadeniz,154,https://www.openstreetmap.org/way/186285382
+w186304989,Erbaa TM,TEİAŞ,,40.685427,36.535971,Tokat,Karadeniz,154,https://www.openstreetmap.org/way/186304989
+w186316611,Köklüce HES TM,TEİAŞ,,40.494161,36.926959,Tokat,Karadeniz,154,https://www.openstreetmap.org/way/186316611
+w186329940,Reşadiye-2 HES TM,TEİAŞ,,40.348328,37.4814,Sivas,İç Anadolu,154,https://www.openstreetmap.org/way/186329940
+w186330558,Hasan Uğurlu HES TM,TEİAŞ,,40.939187,36.647126,Samsun,Karadeniz,400,https://www.openstreetmap.org/way/186330558
+w186460022,Şükrüpaşa İTM,TEİAŞ,transmission,39.935788,41.277606,Erzurum,Doğu Anadolu,154,https://www.openstreetmap.org/way/186460022
+w186482628,Akköy-II HES TM,,,40.737839,38.990897,Gümüşhane,Karadeniz,154,https://www.openstreetmap.org/way/186482628
+w186517068,Gölköy TM,TEİAŞ,,40.69443,37.623524,Ordu,Karadeniz,154,https://www.openstreetmap.org/way/186517068
+w186532288,Darıca HES TM,TEİAŞ,,40.707116,37.846434,Ordu,Karadeniz,154,https://www.openstreetmap.org/way/186532288
+w186532416,Topçam HES TM,TEİAŞ,,40.656169,37.796029,Ordu,Karadeniz,154,https://www.openstreetmap.org/way/186532416
+w186554239,Akköprü HES TM,TEİAŞ,,36.899449,28.897432,Muğla,Ege,154,https://www.openstreetmap.org/way/186554239
+w186752052,Eşen-2 HES TM,TEİAŞ,,36.767588,29.39947,Muğla,Ege,154,https://www.openstreetmap.org/way/186752052
+w186797389,Korkuteli TM,TEİAŞ,,37.083464,30.20363,Antalya,Akdeniz,154,https://www.openstreetmap.org/way/186797389
+w186911919,Söke TM,TEİAŞ,,37.766303,27.436769,Aydın,Ege,154,https://www.openstreetmap.org/way/186911919
+w186928147,Kuşadası GIS TM,TEİAŞ,,37.843958,27.263908,Aydın,Ege,154,https://www.openstreetmap.org/way/186928147
+w186931354,Söke RES TM,TEİAŞ,,37.713087,27.396703,Aydın,Ege,154,https://www.openstreetmap.org/way/186931354
+w186933891,Germencik JTS TM,TEİAŞ,,37.884151,27.630591,Aydın,Ege,154,https://www.openstreetmap.org/way/186933891
+w187043596,Denizli-2 TM,TEİAŞ,,37.815688,29.063734,Denizli,Ege,154,https://www.openstreetmap.org/way/187043596
+w187043597,Denizli-3 TM,TEİAŞ,,37.777106,29.022031,Denizli,Ege,154,https://www.openstreetmap.org/way/187043597
+w187043599,Sarayköy TM,TEİAŞ,,37.915079,28.914668,Denizli,Ege,154,https://www.openstreetmap.org/way/187043599
+w187078921,Denizli ÇİM TM,TEİAŞ,,37.839207,29.416388,Denizli,Ege,154,https://www.openstreetmap.org/way/187078921
+w187177705,Kızıldere JTS TM,TEİAŞ,,37.956589,28.843801,Denizli,Ege,154,https://www.openstreetmap.org/way/187177705
+w187212772,Nazilli TM,TEİAŞ,,37.910586,28.303398,Aydın,Ege,154,https://www.openstreetmap.org/way/187212772
+w187231353,Ödemiş TM,TEİAŞ,,38.220044,27.928964,Aydın,Ege,154,https://www.openstreetmap.org/way/187231353
+w187397680,TCDD Hilal TM,Türkiye Cumhuriyeti Devlet Demiryolları,traction,38.42706,27.154602,İzmir,Ege,154,https://www.openstreetmap.org/way/187397680
+w187397681,Hilal TM,TEİAŞ,,38.428706,27.156628,İzmir,Ege,154,https://www.openstreetmap.org/way/187397681
+w187437822,ALÇUK,TEİAŞ,,38.728469,26.936614,İzmir,Ege,154,https://www.openstreetmap.org/way/187437822
+w187437825,Alçuk TM,TEİAŞ,,38.728913,26.934899,İzmir,Ege,154,https://www.openstreetmap.org/way/187437825
+w187437901,Erege Metal TM,TEİAŞ,,38.740118,26.955133,İzmir,Ege,154,https://www.openstreetmap.org/way/187437901
+w187437902,Habaş DGKÇS TM,TEİAŞ,,38.739203,26.945703,İzmir,Ege,154,https://www.openstreetmap.org/way/187437902
+w187496624,Simav TM,TEİAŞ,,39.106185,28.977,Uşak,Ege,154,https://www.openstreetmap.org/way/187496624
+w187631990,PETKİM TM,TEİAŞ,,38.787273,26.937889,İzmir,Ege,154,https://www.openstreetmap.org/way/187631990
+w187632000,Aliağa-1 TM,TEİAŞ,,38.800686,26.947782,İzmir,Ege,154,https://www.openstreetmap.org/way/187632000
+w187664513,Pancar TM,TEİAŞ,,38.219659,27.24967,İzmir,Ege,154,https://www.openstreetmap.org/way/187664513
+w187700832,TCDD Menemen TM,Türkiye Cumhuriyeti Devlet Demiryolları,traction,38.606786,27.082517,İzmir,Ege,154,https://www.openstreetmap.org/way/187700832
+w187706596,Ataer TM,TEİAŞ,,38.478862,27.033136,İzmir,Ege,154,https://www.openstreetmap.org/way/187706596
+w187910559,Osmaniye OSB TM,TEİAŞ,,37.022956,36.115123,Osmaniye,Akdeniz,154,https://www.openstreetmap.org/way/187910559
+w187910561,Yumurtalık TM,TEİAŞ,,36.88555,35.910168,Osmaniye,Akdeniz,154,https://www.openstreetmap.org/way/187910561
+w187921537,Ceyhan-I TM,TEİAŞ,,37.017846,35.800337,Osmaniye,Akdeniz,154,https://www.openstreetmap.org/way/187921537
+w188014760,Kadirli TM,TEİAŞ,,37.335963,36.09226,Osmaniye,Akdeniz,154,https://www.openstreetmap.org/way/188014760
+w188049372,TCDD Nohut TM,Türkiye Cumhuriyeti Devlet Demiryolları,traction,37.178936,36.509145,Osmaniye,Akdeniz,154,https://www.openstreetmap.org/way/188049372
+w188049470,Berkman Hes TM,TEİAŞ,,37.169134,36.234255,Osmaniye,Akdeniz,154,https://www.openstreetmap.org/way/188049470
+w188063821,Kılavuzlu TM,TEİAŞ,yes,37.600702,36.812681,Kahramanmaraş,Akdeniz,154,https://www.openstreetmap.org/way/188063821
+w188101919,Kalealtı HES TM,TEİAŞ,,37.549448,36.152066,Osmaniye,Akdeniz,154,https://www.openstreetmap.org/way/188101919
+w188115803,Çöllolar TM,TEİAŞ,,38.305343,37.004817,Kahramanmaraş,Akdeniz,154,https://www.openstreetmap.org/way/188115803
+w188115805,Kışlaköy TM,TEİAŞ,,38.34624,37.058662,Kahramanmaraş,Akdeniz,154,https://www.openstreetmap.org/way/188115805
+w188120318,Adıyaman Gölbaşı Trafo Merkezi,TEİAŞ,,37.778132,37.661986,Adıyaman,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/188120318
+w188120319,TCDD Gölbaşı TM,Türkiye Cumhuriyeti Devlet Demiryolları,traction,37.776717,37.619571,Adıyaman,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/188120319
+w188233410,Beypazarı TM,TEİAŞ,,40.172966,31.949672,Bolu,Karadeniz,154,https://www.openstreetmap.org/way/188233410
+w188346020,Tosya TM,,,41.010647,34.049801,Kastamonu,Karadeniz,154,https://www.openstreetmap.org/way/188346020
+w188388387,Kastamonu OSB TM,TEİAŞ,,41.519047,33.742775,Kastamonu,Karadeniz,154,https://www.openstreetmap.org/way/188388387
+w188388392,Kastamonu TM,TEİAŞ,,41.382529,33.800717,Kastamonu,Karadeniz,154,https://www.openstreetmap.org/way/188388392
+w188388405,Taşköprü TM,TEİAŞ,,41.5207,34.206111,Kastamonu,Karadeniz,154,https://www.openstreetmap.org/way/188388405
+w188443258,Küre TM,TEİAŞ,,41.795284,33.70019,Kastamonu,Karadeniz,154,https://www.openstreetmap.org/way/188443258
+w188487340,İnebolu TM,TEİAŞ,,41.956979,33.750043,Kastamonu,Karadeniz,154,https://www.openstreetmap.org/way/188487340
+w188488047,Cide TM,TEİAŞ,,41.883682,32.953055,Bartın,Karadeniz,154,https://www.openstreetmap.org/way/188488047
+w188646193,Boyabat TM,TEİAŞ,,41.455731,34.78235,Sinop,Karadeniz,154,https://www.openstreetmap.org/way/188646193
+w188797478,Bafra TM,TEİAŞ,,41.548809,35.923096,Samsun,Karadeniz,154,https://www.openstreetmap.org/way/188797478
+w188797590,Derbent HES TM,TEİAŞ,,41.465829,35.843639,Samsun,Karadeniz,154,https://www.openstreetmap.org/way/188797590
+w189067316,Ondokuzmayıs TM,TEİAŞ,,41.365672,36.19338,Samsun,Karadeniz,154,https://www.openstreetmap.org/way/189067316
+w189082303,Samsun-1 TM,TEİAŞ,distribution,41.267783,36.32488,Samsun,Karadeniz,154,https://www.openstreetmap.org/way/189082303
+w189174023,Ordu TM,TEİAŞ,,40.974518,37.903292,Ordu,Karadeniz,154,https://www.openstreetmap.org/way/189174023
+w189248643,Tirebolu 380kV TM,TEİAŞ,,41.005962,38.871313,Giresun,Karadeniz,400,https://www.openstreetmap.org/way/189248643
+w189372840,Bigadiç TM,TEİAŞ,,39.437397,28.139156,Balıkesir,Marmara,154,https://www.openstreetmap.org/way/189372840
+w189387144,Dursunbey TM,TEİAŞ,,39.573212,28.601522,Balıkesir,Marmara,154,https://www.openstreetmap.org/way/189387144
+w189652050,Keles TM,,,39.908029,29.199806,Bursa,Marmara,154,https://www.openstreetmap.org/way/189652050
+w189667571,Kestel TM,TEİAŞ,,40.187992,29.217912,Bursa,Marmara,154,https://www.openstreetmap.org/way/189667571
+w189674627,Orhangazi TM,TEİAŞ,transmission,40.46612,29.323842,Yalova,Marmara,154,https://www.openstreetmap.org/way/189674627
+w189682272,Asil Çelik TM,TEİAŞ,,40.42526,29.266553,Yalova,Marmara,154,https://www.openstreetmap.org/way/189682272
+w189718513,Bursa-3 TM,TEİAŞ,,40.20532,29.114662,Bursa,Marmara,154,https://www.openstreetmap.org/way/189718513
+w189726633,Ford Otosan TM,TEİAŞ,,40.714761,29.85339,Kocaeli,Marmara,154,https://www.openstreetmap.org/way/189726633
+w189729587,Hayrat Havza HES TM,TEİAŞ,,40.804045,40.419499,Rize,Karadeniz,154,https://www.openstreetmap.org/way/189729587
+w189731169,Çaycuma-II TM,TEİAŞ,,41.40898,32.103747,Zonguldak,Karadeniz,154,https://www.openstreetmap.org/way/189731169
+w189837773,Dereli HES TM,TEİAŞ,,40.732284,38.454886,Giresun,Karadeniz,154,https://www.openstreetmap.org/way/189837773
+w189867736,Diyarbakır-4 TM,TEİAŞ,,37.919046,40.105709,Diyarbakır,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/189867736
+w189998180,,,,40.981726,28.694974,İstanbul,Marmara,154,https://www.openstreetmap.org/way/189998180
+w190083323,Trabzon TM,TEİAŞ,,40.993052,39.748751,Trabzon,Karadeniz,154,https://www.openstreetmap.org/way/190083323
+w190236385,Malatya-2 TM,TEİAŞ,,38.336264,38.424834,Malatya,Doğu Anadolu,154,https://www.openstreetmap.org/way/190236385
+w190266588,Adıyaman TM,TEİAŞ,,37.750454,38.241643,Adıyaman,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/190266588
+w190391204,Hatay TM,TEİAŞ,,36.203759,36.110849,Hatay,Akdeniz,400,https://www.openstreetmap.org/way/190391204
+w190391259,İskenderun-III TM,TEİAŞ,,36.537354,36.168228,Hatay,Akdeniz,154,https://www.openstreetmap.org/way/190391259
+w190452052,Güney Adana TM,TEİAŞ,,36.917469,35.307181,Adana,Akdeniz,154,https://www.openstreetmap.org/way/190452052
+w190472759,Yenişehitlik TM,TEİAŞ,,37.005103,35.220668,Adana,Akdeniz,154,https://www.openstreetmap.org/way/190472759
+w190478550,SASA TM,TEİAŞ,,36.988027,35.201933,Adana,Akdeniz,154,https://www.openstreetmap.org/way/190478550
+w190478553,Zeytinli TM,TEİAŞ,,36.981254,35.126641,Adana,Akdeniz,154,https://www.openstreetmap.org/way/190478553
+w190547611,Sebenoba RES TM,TEİAŞ,,36.052813,36.012273,Hatay,Akdeniz,154,https://www.openstreetmap.org/way/190547611
+w190548584,Mersin II TM,TEİAŞ,,36.807182,34.549264,Mersin,Akdeniz,154,https://www.openstreetmap.org/way/190548584
+w190555261,Erdemli TM,TEİAŞ,,36.690502,34.381601,Mersin,Akdeniz,154,https://www.openstreetmap.org/way/190555261
+w190555262,Mersin 380kV TM,TEİAŞ,,36.91259,34.702863,Mersin,Akdeniz,400,https://www.openstreetmap.org/way/190555262
+w190574761,Gazipaşa TM,TEİAŞ,,36.306919,32.274992,Karaman,İç Anadolu,154,https://www.openstreetmap.org/way/190574761
+w190601747,ETİ Soda TM,TEİAŞ,,40.180286,31.85535,Bolu,Karadeniz,154,https://www.openstreetmap.org/way/190601747
+w190633373,Kepez TM,TEİAŞ,,36.940897,30.624684,Antalya,Akdeniz,154,https://www.openstreetmap.org/way/190633373
+w190640097,Antalya Serbest Bölge TM,TEİAŞ,,36.849608,30.592843,Antalya,Akdeniz,154,https://www.openstreetmap.org/way/190640097
+w190640101,Ovacık TM,TEİAŞ,,36.659862,30.430354,Antalya,Akdeniz,154,https://www.openstreetmap.org/way/190640101
+w190640228,Kemer TM,TEİAŞ,,36.580875,30.550468,Antalya,Akdeniz,154,https://www.openstreetmap.org/way/190640228
+w190641364,Finike TM,TEİAŞ,,36.317812,30.144406,Antalya,Akdeniz,154,https://www.openstreetmap.org/way/190641364
+w190702390,ASÇİM TM,TEİAŞ,,37.255188,30.447342,Antalya,Akdeniz,154,https://www.openstreetmap.org/way/190702390
+w190730386,Burdur TM,TEİAŞ,transmission,37.755858,30.335473,Burdur,Akdeniz,154,https://www.openstreetmap.org/way/190730386
+w190730518,Keçiborlu TM,TEİAŞ,,37.957219,30.297604,Burdur,Akdeniz,154,https://www.openstreetmap.org/way/190730518
+w190740666,Eğirdir TM,TEİAŞ,transmission,37.84721,30.899719,Isparta,Akdeniz,154,https://www.openstreetmap.org/way/190740666
+w190796502,Uşak OSB TM,TEİAŞ,,38.685993,29.228192,Uşak,Ege,154,https://www.openstreetmap.org/way/190796502
+w190796560,TEİAŞ Uşak OSB Transformatör Merkezi,TEİAŞ,,38.685929,29.228443,Uşak,Ege,154,https://www.openstreetmap.org/way/190796560
+w190815173,Karabağlar TM,TEİAŞ,,38.373432,27.122652,İzmir,Ege,154,https://www.openstreetmap.org/way/190815173
+w190896295,Edremit TM,TEİAŞ,,39.555011,27.025158,Balıkesir,Marmara,154,https://www.openstreetmap.org/way/190896295
+w190897007,TEİAŞ 154 KV Akçay Trafo Merkezi,TEİAŞ,transmission,39.574992,26.764589,Çanakkale,Marmara,154,https://www.openstreetmap.org/way/190897007
+w190898422,Çanakkale RES Trafo Merkezi,TEİAŞ,transmission,39.869781,26.242518,Çanakkale,Marmara,154,https://www.openstreetmap.org/way/190898422
+w190898424,Çanakkale Çimento Transformatör Merkezi,TEİAŞ,transmission,39.874532,26.250048,Çanakkale,Marmara,154,https://www.openstreetmap.org/way/190898424
+w190900800,Çanakkale TM,TEİAŞ,,40.12597,26.416567,Çanakkale,Marmara,154,https://www.openstreetmap.org/way/190900800
+w190970133,Kroman Çelik TM,TEİAŞ,,40.804061,29.371057,Yalova,Marmara,154,https://www.openstreetmap.org/way/190970133
+w190970134,Tuzla TM,TEİAŞ,,40.799766,29.355346,Yalova,Marmara,154,https://www.openstreetmap.org/way/190970134
+w190976250,Diliskelesi TM,TEİAŞ,,40.790947,29.524894,Yalova,Marmara,154,https://www.openstreetmap.org/way/190976250
+w190976251,Nuh Çimento TM,TEİAŞ,,40.795062,29.603103,Kocaeli,Marmara,154,https://www.openstreetmap.org/way/190976251
+w190976257,Çolakoğlu TM,TEİAŞ,,40.777451,29.532073,Yalova,Marmara,154,https://www.openstreetmap.org/way/190976257
+w191118467,Hendek TM,TEİAŞ,,40.779565,30.682742,Sakarya,Marmara,154,https://www.openstreetmap.org/way/191118467
+w191125554,Pamukova TM,TEİAŞ,,40.521122,30.249259,Sakarya,Marmara,154,https://www.openstreetmap.org/way/191125554
+w191171801,Demirtaş Trafo Merkezi,TEİAŞ,,40.27076,29.052845,Bursa,Marmara,154,https://www.openstreetmap.org/way/191171801
+w191172829,Erdek Trafo Merkezi,TEİAŞ,transmission,40.488762,27.689537,Tekirdağ,Marmara,154,https://www.openstreetmap.org/way/191172829
+w191217555,TCDD Karaköy TM,Türkiye Cumhuriyeti Devlet Demiryolları,traction,39.994785,30.005934,Bilecik,Marmara,154,https://www.openstreetmap.org/way/191217555
+w191266968,ETİ Gümüş TM,TEİAŞ,,39.479179,29.739564,Kütahya,Ege,154,https://www.openstreetmap.org/way/191266968
+w191271368,TEİAŞ Karasu Trafo Merkezi,TEİAŞ,,41.093866,30.722086,Sakarya,Marmara,154,https://www.openstreetmap.org/way/191271368
+w191392798,Bolu-2 TM,TEİAŞ,,40.745876,31.738018,Bolu,Karadeniz,154,https://www.openstreetmap.org/way/191392798
+w191406013,Bartın TM,TEİAŞ,,41.647296,32.330973,Bartın,Karadeniz,154,https://www.openstreetmap.org/way/191406013
+w191406015,Karabük TM,TEİAŞ,,41.184784,32.630983,Karabük,Karadeniz,154,https://www.openstreetmap.org/way/191406015
+w191420141,Ünye TM,TEİAŞ,,41.113141,37.322082,Ordu,Karadeniz,154,https://www.openstreetmap.org/way/191420141
+w191425875,Giresun TM,TEİAŞ,,40.897053,38.436673,Giresun,Karadeniz,154,https://www.openstreetmap.org/way/191425875
+w191439767,Kalkandere 154kV TM,TEİAŞ,,40.938607,40.411735,Rize,Karadeniz,154,https://www.openstreetmap.org/way/191439767
+w191439806,İyidere TM,TEİAŞ,,40.970619,40.355942,Rize,Karadeniz,154,https://www.openstreetmap.org/way/191439806
+w191446765,Rize TM,TEİAŞ,,41.034356,40.58288,Rize,Karadeniz,154,https://www.openstreetmap.org/way/191446765
+w191457220,Çayeli TM,TEİAŞ,,41.061038,40.741633,Rize,Karadeniz,154,https://www.openstreetmap.org/way/191457220
+w191524561,Hopa TM,EÜAŞ,,41.419858,41.439755,Artvin,Karadeniz,154,https://www.openstreetmap.org/way/191524561
+w191526950,Artvin TM,TEİAŞ,,41.185291,41.831193,Artvin,Karadeniz,154,https://www.openstreetmap.org/way/191526950
+w191530942,Ağrı II TM,TEİAŞ,,39.735949,42.986076,Ağrı,Doğu Anadolu,400,https://www.openstreetmap.org/way/191530942
+w191530943,Iğdır TM,TEİAŞ,,39.906306,43.989505,Iğdır,Doğu Anadolu,154,https://www.openstreetmap.org/way/191530943
+w191550546,Engil TM,TEİAŞ,,38.38939,43.189011,Van,Doğu Anadolu,154,https://www.openstreetmap.org/way/191550546
+w191731811,Gaziantep-5 TM,TEİAŞ,,37.161149,37.403651,Gaziantep,Güneydoğu Anadolu,400,https://www.openstreetmap.org/way/191731811
+w191791229,Turhal TM,TEİAŞ,distribution,40.382434,36.056596,Amasya,Karadeniz,154,https://www.openstreetmap.org/way/191791229
+w191793771,Amasya TM,TEİAŞ,distribution,40.648155,35.793969,Amasya,Karadeniz,154,https://www.openstreetmap.org/way/191793771
+w191903478,TCDD Osmaneli TM,Türkiye Cumhuriyeti Devlet Demiryolları,traction,40.359613,30.033051,Bilecik,Marmara,154,https://www.openstreetmap.org/way/191903478
+w191927822,Bilorsa TM,TEİAŞ,,40.1744,29.974684,Bilecik,Marmara,154,https://www.openstreetmap.org/way/191927822
+w191955175,Vitra Karo 154 kV TM,TEİAŞ,,39.899964,30.09417,Bilecik,Marmara,154,https://www.openstreetmap.org/way/191955175
+w191955190,Yenişehir-1 TM,TEİAŞ,,40.271673,29.636715,Bilecik,Marmara,154,https://www.openstreetmap.org/way/191955190
+w191973581,Pınarbaşı TM,TEİAŞ,,38.696914,36.364018,Kayseri,İç Anadolu,154,https://www.openstreetmap.org/way/191973581
+w192122056,Tavas TM,TEİAŞ,,37.62474,28.950257,Denizli,Ege,154,https://www.openstreetmap.org/way/192122056
+w192245192,Çumra TM,TEİAŞ,transmission,37.575069,32.751037,Konya,İç Anadolu,154,https://www.openstreetmap.org/way/192245192
+w192273637,Alibeyhüyüğü 66kV TM,TEİAŞ,,37.519974,32.649277,Konya,İç Anadolu,66,https://www.openstreetmap.org/way/192273637
+w192902252,Karacabey TM,TEİAŞ,distribution,40.180223,28.36012,Bursa,Marmara,154,https://www.openstreetmap.org/way/192902252
+w192994331,Akçalar TM,TEİAŞ,,40.230428,28.62583,Bursa,Marmara,154,https://www.openstreetmap.org/way/192994331
+w192994333,Görükle TM,TEİAŞ,,40.22746,28.814485,Bursa,Marmara,154,https://www.openstreetmap.org/way/192994333
+w192999616,Mustafakemalpaşa TM,TEİAŞ,,40.030665,28.372079,Balıkesir,Marmara,154,https://www.openstreetmap.org/way/192999616
+w193000055,Göbel TM,TEİAŞ,,40.026196,28.140662,Balıkesir,Marmara,154,https://www.openstreetmap.org/way/193000055
+w193058932,ŞAH RES TM,TEİAŞ,yes,40.370621,28.225702,Bursa,Marmara,154,https://www.openstreetmap.org/way/193058932
+w193058933,Bandirma RES TM,TEİAŞ,,40.36462,28.157276,Bursa,Marmara,154,https://www.openstreetmap.org/way/193058933
+w193058975,Bandırma RES TM,TEİAŞ,,40.366766,28.080244,Balıkesir,Marmara,154,https://www.openstreetmap.org/way/193058975
+w193131622,Akçalar TM,TEİAŞ,,40.153249,28.724643,Bursa,Marmara,154,https://www.openstreetmap.org/way/193131622
+w193973159,Aşkale TM,TEİAŞ,,39.929281,40.665327,Erzurum,Doğu Anadolu,154,https://www.openstreetmap.org/way/193973159
+w193973161,Aşkale ÇİM TM,TEİAŞ,,39.92652,40.669797,Erzurum,Doğu Anadolu,154,https://www.openstreetmap.org/way/193973161
+w194082258,Erzurum 3 TM,TEİAŞ,,39.928682,41.106226,Erzurum,Doğu Anadolu,400,https://www.openstreetmap.org/way/194082258
+w194160376,Gümüşhane TM,TEİAŞ,,40.415452,39.5973,Gümüşhane,Karadeniz,154,https://www.openstreetmap.org/way/194160376
+w194297162,Hınıs TM,TEİAŞ,,39.358689,41.714206,Erzurum,Doğu Anadolu,154,https://www.openstreetmap.org/way/194297162
+w194508536,Karakaya HES 154kV TM,TEİAŞ,,38.202421,39.160561,Elazığ,Doğu Anadolu,154,https://www.openstreetmap.org/way/194508536
+w194508537,Karakaya HES 380kV TM,TEİAŞ,,38.201116,39.139585,Elazığ,Doğu Anadolu,400,https://www.openstreetmap.org/way/194508537
+w194541769,Alpaslan-1 HES TM,TEİAŞ,,39.045964,41.812279,Muş,Doğu Anadolu,154,https://www.openstreetmap.org/way/194541769
+w194678745,Özlüce TM,,transmission,39.136195,40.079313,Tunceli,Doğu Anadolu,380,https://www.openstreetmap.org/way/194678745
+w194678749,Özlüce HES TM,TEİAŞ,,39.127811,40.085433,Bingöl,Doğu Anadolu,154,https://www.openstreetmap.org/way/194678749
+w194954320,Alanya-1 TM,TEİAŞ,,36.569525,31.916997,Antalya,Akdeniz,154,https://www.openstreetmap.org/way/194954320
+w194972965,Akbük TM,TEİAŞ,,37.429021,27.371392,Aydın,Ege,154,https://www.openstreetmap.org/way/194972965
+w194974114,Alaçatı TM,TEİAŞ,,38.297278,26.372626,İzmir,Ege,154,https://www.openstreetmap.org/way/194974114
+w194982320,Mare RES TM,TEİAŞ,generation,38.288417,26.485518,İzmir,Ege,154,https://www.openstreetmap.org/way/194982320
+w194982321,Urla TM,TEİAŞ,transmission,38.313185,26.763535,İzmir,Ege,154,https://www.openstreetmap.org/way/194982321
+w195003634,Maze-3 RES TM,TEİAŞ,,38.240014,26.454532,İzmir,Ege,154,https://www.openstreetmap.org/way/195003634
+w195003676,Çeşme TM,TEİAŞ,generation,38.286084,26.458674,İzmir,Ege,400,https://www.openstreetmap.org/way/195003676
+w195015320,TCDD Osmaniye TM,Türkiye Cumhuriyeti Devlet Demiryolları,traction,37.069733,36.223539,Osmaniye,Akdeniz,154,https://www.openstreetmap.org/way/195015320
+w195079379,Kırklareli DGKÇS TM,TEİAŞ,,41.778102,27.196156,Kırklareli,Marmara,154,https://www.openstreetmap.org/way/195079379
+w195079381,Kırklareli TM,TEİAŞ,,41.686573,27.198215,Kırklareli,Marmara,154,https://www.openstreetmap.org/way/195079381
+w195275150,Hazar-1 HES TM,,,38.545625,39.366273,Elazığ,Doğu Anadolu,154,https://www.openstreetmap.org/way/195275150
+w195275154,Hazar-2 HES TM,TEİAŞ,,38.572491,39.371414,Elazığ,Doğu Anadolu,154,https://www.openstreetmap.org/way/195275154
+w195275155,Maden-2 TM,TEİAŞ,,38.395677,39.685029,Elazığ,Doğu Anadolu,154,https://www.openstreetmap.org/way/195275155
+w198380030,TCDD Narli TM,Türkiye Cumhuriyeti Devlet Demiryolları,traction,37.391483,37.135872,Kahramanmaraş,Akdeniz,154,https://www.openstreetmap.org/way/198380030
+w202173293,Telhamut TM,TEİAŞ,,36.807967,39.920306,Mardin,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/202173293
+w204556009,Yedigöze HES TM,TEİAŞ,,37.399762,35.444272,Adana,Akdeniz,400,https://www.openstreetmap.org/way/204556009
+w208086859,Bor TM,TEİAŞ,,37.87373,34.558618,Niğde,İç Anadolu,154,https://www.openstreetmap.org/way/208086859
+w208126743,Niğde OSB TM,TEİAŞ,,37.94783,34.600864,Niğde,İç Anadolu,154,https://www.openstreetmap.org/way/208126743
+w208411501,Karaisalı TM,TEİAŞ,,37.302962,35.02591,Adana,Akdeniz,154,https://www.openstreetmap.org/way/208411501
+w208431337,Çamlıca III HES TM,TEİAŞ,,37.86129,35.497844,Niğde,İç Anadolu,154,https://www.openstreetmap.org/way/208431337
+w208431340,Çamlıca TM,TEİAŞ,,37.920995,35.494682,Niğde,İç Anadolu,154,https://www.openstreetmap.org/way/208431340
+w208433697,Yahyalı RES TM,TEİAŞ,,38.003823,35.550899,Niğde,İç Anadolu,154,https://www.openstreetmap.org/way/208433697
+w208957626,Ceyhan HES TM,TEİAŞ,,37.829019,36.97051,Kahramanmaraş,Akdeniz,154,https://www.openstreetmap.org/way/208957626
+w209304005,Siirt ÇİM TM,TEİAŞ,,37.95657,41.713698,Siirt,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/209304005
+w209325266,Alkumru HES TM,TEİAŞ,,37.954882,42.091239,Siirt,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/209325266
+w210360366,Sarıyar HES TM,TEİAŞ,,40.051839,31.413272,Bolu,Karadeniz,154,https://www.openstreetmap.org/way/210360366
+w211959918,Mersin RES TM,TEİAŞ,,36.727285,33.247934,Karaman,İç Anadolu,154,https://www.openstreetmap.org/way/211959918
+w212041533,Sares RES Trafo Merkezi,TEİAŞ,transmission,39.709996,26.296301,Çanakkale,Marmara,154,https://www.openstreetmap.org/way/212041533
+w212324457,Soma RES 380kV TM,TEİAŞ,,39.300718,27.794657,Balıkesir,Marmara,400,https://www.openstreetmap.org/way/212324457
+w212324460,Soma RES TM,TEİAŞ,,39.293237,27.652584,Balıkesir,Marmara,154,https://www.openstreetmap.org/way/212324460
+w213128258,Çarşamba 154kV TM,TEİAŞ,,41.096745,36.671321,Samsun,Karadeniz,154,https://www.openstreetmap.org/way/213128258
+w213128259,Çarşamba 380kV TM,TEİAŞ,,41.095609,36.670381,Samsun,Karadeniz,400,https://www.openstreetmap.org/way/213128259
+w213160212,Suat Uğurlu HES TM,TEİAŞ,,41.077477,36.675927,Samsun,Karadeniz,154,https://www.openstreetmap.org/way/213160212
+w213194675,,,,41.075181,36.673113,Samsun,Karadeniz,154,https://www.openstreetmap.org/way/213194675
+w213202970,Tirebolu 154kV TM,TEİAŞ,,41.00657,38.873669,Giresun,Karadeniz,154,https://www.openstreetmap.org/way/213202970
+w213841337,Koyulhisar HES TM,TEİAŞ,,40.291383,37.781308,Ordu,Karadeniz,154,https://www.openstreetmap.org/way/213841337
+w213841341,Yeşil HES TM,TEİAŞ,,40.182715,37.658934,Sivas,İç Anadolu,154,https://www.openstreetmap.org/way/213841341
+w213855694,Sivas OSB TM,TEİAŞ,,39.770477,37.077225,Sivas,İç Anadolu,154,https://www.openstreetmap.org/way/213855694
+w215378314,Akbük RES TM,TEİAŞ,,37.450273,27.387492,Aydın,Ege,154,https://www.openstreetmap.org/way/215378314
+w215443324,Sakarya TM,TEİAŞ,,40.845562,30.337358,Sakarya,Marmara,154,https://www.openstreetmap.org/way/215443324
+w215975071,Balıkesir Organize Sanayi Bölgesi Şalt Tesisi,TEİAŞ,yes,39.578424,27.851892,Balıkesir,Marmara,154,https://www.openstreetmap.org/way/215975071
+w215975602,İncirlik Havaalanı TM,,,36.996163,35.441796,Adana,Akdeniz,154,https://www.openstreetmap.org/way/215975602
+w215992301,Mentaş HES TM,TEİAŞ,,37.355929,35.489298,Adana,Akdeniz,154,https://www.openstreetmap.org/way/215992301
+w216072557,TCDD Kabakça TM,Türkiye Cumhuriyeti Devlet Demiryolları,traction,41.211549,28.369643,İstanbul,Marmara,154,https://www.openstreetmap.org/way/216072557
+w216121845,TCDD Mandıra TM,Türkiye Cumhuriyeti Devlet Demiryolları,traction,41.354245,27.070908,Kırklareli,Marmara,154,https://www.openstreetmap.org/way/216121845
+w216141576,Büyükkarıştıran TM,TEİAŞ,transmission,41.279129,27.59898,Tekirdağ,Marmara,154,https://www.openstreetmap.org/way/216141576
+w216141585,TCDD Muratlı Trafo Merkezi,Türkiye Cumhuriyeti Devlet Demiryolları,traction,41.218008,27.496113,Tekirdağ,Marmara,154,https://www.openstreetmap.org/way/216141585
+w216425171,Kaynarca TM,TEİAŞ,,41.024843,30.288856,Sakarya,Marmara,154,https://www.openstreetmap.org/way/216425171
+w216462911,Kuzuluk TM,TEİAŞ,,40.634353,30.624529,Sakarya,Marmara,154,https://www.openstreetmap.org/way/216462911
+w216496632,Bekirli TES TM,TEİAŞ,,40.39658,27.051142,Çanakkale,Marmara,400,https://www.openstreetmap.org/way/216496632
+w220557876,Ayrancılar HES TM,TEİAŞ,,39.063753,43.758372,Van,Doğu Anadolu,154,https://www.openstreetmap.org/way/220557876
+w222136808,Çırçıp TM,TEİAŞ,,36.965491,40.093842,Mardin,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/222136808
+w222378519,Erzincan OSB TM,TEİAŞ,,39.770761,39.382075,Erzincan,Doğu Anadolu,154,https://www.openstreetmap.org/way/222378519
+w227830389,Ceytaş TES TM,TEİAŞ,transmission,37.3116,42.592797,Şırnak,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/227830389
+w229709993,TCDD Yazıhan TM,Türkiye Cumhuriyeti Devlet Demiryolları,traction,38.603244,38.178336,Malatya,Doğu Anadolu,154,https://www.openstreetmap.org/way/229709993
+w229782457,Atatürk HES TM,TEİAŞ,transmission,37.456891,38.308462,Adıyaman,Güneydoğu Anadolu,400,https://www.openstreetmap.org/way/229782457
+w229811495,Tefenni TM,TEİAŞ,,37.301399,29.782396,Burdur,Akdeniz,154,https://www.openstreetmap.org/way/229811495
+w229912028,Kargı TM,TEİAŞ,,41.124107,34.498118,Kastamonu,Karadeniz,154,https://www.openstreetmap.org/way/229912028
+w229978559,Dikmen TM,TEİAŞ,,37.206454,40.254284,Mardin,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/229978559
+w230001452,ETİ Fosfat TM,TEİAŞ,,37.467073,40.422797,Mardin,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/230001452
+w230013591,Pekmezli TM,TEİAŞ,,36.761022,39.44448,Şanlıurfa,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/230013591
+w230103256,Vakfıkebir TM,TEİAŞ,,41.06153,39.335599,Trabzon,Karadeniz,154,https://www.openstreetmap.org/way/230103256
+w230118786,Büyükdüz HES TM,TEİAŞ,,40.633735,39.112843,Gümüşhane,Karadeniz,154,https://www.openstreetmap.org/way/230118786
+w230118789,Torul HES TM,TEİAŞ,,40.644767,39.185854,Gümüşhane,Karadeniz,154,https://www.openstreetmap.org/way/230118789
+w230118808,TM,TEİAŞ,,40.637694,39.114855,Gümüşhane,Karadeniz,154,https://www.openstreetmap.org/way/230118808
+w230234778,Menzelet HES TM,TEİAŞ,,37.672548,36.848407,Kahramanmaraş,Akdeniz,154,https://www.openstreetmap.org/way/230234778
+w230239501,Narlı TM,TEİAŞ,,37.382501,37.136681,Kahramanmaraş,Akdeniz,154,https://www.openstreetmap.org/way/230239501
+w230370252,TÜMOSAN TM,TEİAŞ,transmission,38.341973,33.950959,Aksaray,İç Anadolu,154,https://www.openstreetmap.org/way/230370252
+w230833254,TEGESAN TM,TEİAŞ,distribution,41.022313,27.742784,Tekirdağ,Marmara,154,https://www.openstreetmap.org/way/230833254
+w230840990,Çatalca RES TM,TEİAŞ,,41.136951,28.446463,İstanbul,Marmara,154,https://www.openstreetmap.org/way/230840990
+w230853536,AKÇANSA TM,TEİAŞ,,41.022402,28.548922,İstanbul,Marmara,154,https://www.openstreetmap.org/way/230853536
+w230880402,TEİAŞ 154KV Ulaş Trafo Merkezi,TEİAŞ,,41.261875,27.748581,Tekirdağ,Marmara,154,https://www.openstreetmap.org/way/230880402
+w230998929,ENTEK TM,TEİAŞ,,40.749644,30.00162,Kocaeli,Marmara,154,https://www.openstreetmap.org/way/230998929
+w232137249,Karaburun RES TM,TEİAŞ,transmission,38.562164,26.441999,İzmir,Ege,400,https://www.openstreetmap.org/way/232137249
+w232160028,Kurşunlu TM,TEİAŞ,,40.78473,33.335272,Çankırı,İç Anadolu,400,https://www.openstreetmap.org/way/232160028
+w233127593,TEİAŞ 154 KV Samsun 3 Trafo Merkezi,TEİAŞ,,41.231066,36.410115,Samsun,Karadeniz,154,https://www.openstreetmap.org/way/233127593
+w233805046,Yenidere 150kV TM,TEİAŞ,,40.740441,36.150922,Amasya,Karadeniz,154,https://www.openstreetmap.org/way/233805046
+w233873984,Keban ŞALT TM,TEİAŞ,generation,38.807354,38.753641,Elazığ,Doğu Anadolu,400,https://www.openstreetmap.org/way/233873984
+w233873985,Keban HES TM,TEİAŞ,transmission,38.815527,38.67764,Elazığ,Doğu Anadolu,400,https://www.openstreetmap.org/way/233873985
+w234853103,Balcı HES TM,TEİAŞ,,41.303685,41.83168,Artvin,Karadeniz,154,https://www.openstreetmap.org/way/234853103
+w235475345,Keban 154kV TM,TEİAŞ,,38.813805,38.679186,Elazığ,Doğu Anadolu,154,https://www.openstreetmap.org/way/235475345
+w235476443,Refahiye TM,TEİAŞ,,39.905255,38.782422,Erzincan,Doğu Anadolu,154,https://www.openstreetmap.org/way/235476443
+w235868957,Kepezkaya Havsa TM,TEİAŞ,transmission,36.956909,33.021918,Karaman,İç Anadolu,154,https://www.openstreetmap.org/way/235868957
+w235962227,Kars TM,TEİAŞ,,40.58045,43.038372,Kars,Doğu Anadolu,154,https://www.openstreetmap.org/way/235962227
+w235963957,Çıldır HES TM,TEİAŞ,,40.90136,43.327699,Kars,Doğu Anadolu,154,https://www.openstreetmap.org/way/235963957
+w236063306,Karamürsel TM,TEİAŞ,transmission,40.685179,29.601002,Yalova,Marmara,154,https://www.openstreetmap.org/way/236063306
+w239316403,Eren TES TM,TEİAŞ,,41.502221,31.885552,Zonguldak,Karadeniz,400,https://www.openstreetmap.org/way/239316403
+w239341319,Yokuşlu Kalkandere TM,TEİAŞ,,40.83869,40.483808,Rize,Karadeniz,154,https://www.openstreetmap.org/way/239341319
+w242687478,Burçbendi HES TM,TEİAŞ,,37.616482,38.094928,Adıyaman,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/242687478
+w242718907,Tahtalı TM,TEİAŞ,,38.148237,27.076696,İzmir,Ege,154,https://www.openstreetmap.org/way/242718907
+w258940063,Kadıncık-1 HES TM,TEİAŞ,,37.087635,34.788917,Mersin,Akdeniz,154,https://www.openstreetmap.org/way/258940063
+w259052265,Metristepe RES TM,TEİAŞ,,39.92424,30.181307,Bilecik,Marmara,154,https://www.openstreetmap.org/way/259052265
+w263110136,Çine HES TM,TEİAŞ,,37.511153,28.107394,Muğla,Ege,154,https://www.openstreetmap.org/way/263110136
+w268307792,,,,37.051013,35.768406,Adana,Akdeniz,-1,https://www.openstreetmap.org/way/268307792
+w270327381,Hacınınoğlu HES TM,TEİAŞ,,37.892792,36.964271,Kahramanmaraş,Akdeniz,154,https://www.openstreetmap.org/way/270327381
+w271669616,Delta Enerji TM,TEİAŞ,transmission,41.290672,27.559693,Tekirdağ,Marmara,154,https://www.openstreetmap.org/way/271669616
+w273522784,,,distribution,41.40888,27.339266,Kırklareli,Marmara,-1,https://www.openstreetmap.org/way/273522784
+w273645553,Akseki TM,TEİAŞ,,37.039162,31.787468,Antalya,Akdeniz,154,https://www.openstreetmap.org/way/273645553
+w273716858,Horasan TM,TEİAŞ,,40.051222,42.182684,Erzurum,Doğu Anadolu,154,https://www.openstreetmap.org/way/273716858
+w274032226,Çankırı TM,TEİAŞ,,40.561664,33.576613,Çankırı,İç Anadolu,154,https://www.openstreetmap.org/way/274032226
+w274295758,Batman HES TM,TEİAŞ,,38.157927,41.203471,Batman,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/274295758
+w274793324,Kahta TM,TEİAŞ,,37.860575,38.563092,Adıyaman,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/274793324
+w274975642,Başkale 380kV TM,TEİAŞ,,38.084725,44.104899,Hakkari,Doğu Anadolu,400,https://www.openstreetmap.org/way/274975642
+w274986132,Çolakoğlu 380 TM,,,40.781177,29.528587,Yalova,Marmara,-1,https://www.openstreetmap.org/way/274986132
+w274986133,Çolakoğlu 380 TM,TEİAŞ,,40.781355,29.527979,Yalova,Marmara,400,https://www.openstreetmap.org/way/274986133
+w275003099,Akçakale TM,TEİAŞ,,36.740682,38.948366,Şanlıurfa,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/275003099
+w275166192,Pompa 3 TM,TEİAŞ,,37.278171,37.17091,Gaziantep,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/275166192
+w275174504,ÇİMKO TM,TEİAŞ,,37.351058,37.159325,Kahramanmaraş,Akdeniz,154,https://www.openstreetmap.org/way/275174504
+w276162446,Akçakoca TM,TEİAŞ,,41.078693,31.149796,Düzce,Karadeniz,154,https://www.openstreetmap.org/way/276162446
+w276224312,Birkapılı HES TM,TEİAŞ,,36.720073,33.443211,Karaman,İç Anadolu,154,https://www.openstreetmap.org/way/276224312
+w276981294,Ayancık TM,TEİAŞ,,41.933903,34.597965,Sinop,Karadeniz,154,https://www.openstreetmap.org/way/276981294
+w277026561,Boyabat HES TM,TEİAŞ,,41.343451,34.995686,Sinop,Karadeniz,400,https://www.openstreetmap.org/way/277026561
+w277036705,Yaprak Hes TM,TEİAŞ,,40.877282,36.378834,Samsun,Karadeniz,154,https://www.openstreetmap.org/way/277036705
+w277105091,Sungurlu TM,TEİAŞ,,40.139523,34.24577,Yozgat,İç Anadolu,154,https://www.openstreetmap.org/way/277105091
+w277215870,Güzelyalı Gis TM,TEİAŞ,,38.391103,27.083143,İzmir,Ege,154,https://www.openstreetmap.org/way/277215870
+w277236191,Soma RES TM,TEİAŞ,transmission,39.306968,27.866064,Balıkesir,Marmara,154,https://www.openstreetmap.org/way/277236191
+w277263800,Doğankent HES TM,TEİAŞ,,40.804422,38.916251,Giresun,Karadeniz,154,https://www.openstreetmap.org/way/277263800
+w277884805,Ermenek HES TM,TEİAŞ,,36.577552,33.05641,Karaman,İç Anadolu,400,https://www.openstreetmap.org/way/277884805
+w279086686,Datça RES TM,TEİAŞ,,36.775842,27.738863,Muğla,Ege,154,https://www.openstreetmap.org/way/279086686
+w279359975,Naksan2 TM,TEİAŞ,,37.159674,37.365702,Gaziantep,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/279359975
+w285630518,Feke Havza TM,TEİAŞ,,37.746737,35.960125,Osmaniye,Akdeniz,154,https://www.openstreetmap.org/way/285630518
+w287711589,Çamoluk Havza TM,TEİAŞ,,40.139606,38.785351,Gümüşhane,Karadeniz,154,https://www.openstreetmap.org/way/287711589
+w288298837,İspir Havza TM,TEİAŞ,,40.502336,41.029186,Erzurum,Doğu Anadolu,154,https://www.openstreetmap.org/way/288298837
+w297167500,Akocak HES TM,TEİAŞ,,40.669312,39.90296,Trabzon,Karadeniz,154,https://www.openstreetmap.org/way/297167500
+w301302398,AKRES TM,TEİAŞ,,38.914275,27.760379,Manisa,Ege,154,https://www.openstreetmap.org/way/301302398
+w301650092,Melen TM,TEİAŞ,industrial,41.011714,30.97405,Düzce,Karadeniz,154,https://www.openstreetmap.org/way/301650092
+w304956393,Arslanbey OSB TM,TEİAŞ,,40.7194,30.039744,Kocaeli,Marmara,154,https://www.openstreetmap.org/way/304956393
+w307074870,Atatürk Hes TM,TEİAŞ,,37.461942,38.304064,Adıyaman,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/307074870
+w308525291,İzdemir Tes TM,TEİAŞ,,38.741999,26.926319,İzmir,Ege,400,https://www.openstreetmap.org/way/308525291
+w310145578,154 kV Çerkezköy OSB Trafo Merkezi,TEİAŞ,transmission,41.304127,27.974102,Tekirdağ,Marmara,154,https://www.openstreetmap.org/way/310145578
+w31431196,Paşaköy TM,TEİAŞ,,40.996358,29.242094,İstanbul,Marmara,400,https://www.openstreetmap.org/way/31431196
+w315376893,,,,36.975861,35.650686,Adana,Akdeniz,154,https://www.openstreetmap.org/way/315376893
+w318494840,Gölyaka HES TM,TEİAŞ,,40.761133,30.995097,Düzce,Karadeniz,154,https://www.openstreetmap.org/way/318494840
+w331581117,Menge HES TM,TEİAŞ,,37.702629,35.72279,Osmaniye,Akdeniz,154,https://www.openstreetmap.org/way/331581117
+w336766454,TEİAŞ EDİRNE-2 TM,TEİAŞ,distribution,41.66393,26.63508,Edirne,Marmara,154,https://www.openstreetmap.org/way/336766454
+w338373525,Söğütsen TM,TEİAŞ,,40.84134,33.227437,Çankırı,İç Anadolu,154,https://www.openstreetmap.org/way/338373525
+w341920975,Balabanlı RES TM,TEİAŞ,transmission,41.070641,27.646117,Tekirdağ,Marmara,154,https://www.openstreetmap.org/way/341920975
+w346121954,TEİAŞ Yüksekova 154kV Trafo Merkezi,TEİAŞ,transmission,37.540627,44.345643,Hakkari,Doğu Anadolu,154,https://www.openstreetmap.org/way/346121954
+w346404078,TEİAŞ Eskişehir 3 Trafo Merkezi,TEİAŞ,transmission,39.822505,30.432819,Eskişehir,İç Anadolu,154,https://www.openstreetmap.org/way/346404078
+w346404079,TEİAŞ Eskişehir 3 Trafo Merkezi,TEİAŞ,transmission,39.820221,30.432897,Eskişehir,İç Anadolu,400,https://www.openstreetmap.org/way/346404079
+w346587888,Poyraz Res Balıkesir TM,TEİAŞ,,39.748241,28.129002,Balıkesir,Marmara,154,https://www.openstreetmap.org/way/346587888
+w346588088,Balıkesir Res TM,TEİAŞ,,39.735623,28.036732,Balıkesir,Marmara,154,https://www.openstreetmap.org/way/346588088
+w346957106,Feke II HES TM,TEİAŞ,,37.744366,35.864926,Osmaniye,Akdeniz,154,https://www.openstreetmap.org/way/346957106
+w347258628,Alara TM,TEİAŞ,,36.66831,31.679566,Antalya,Akdeniz,154,https://www.openstreetmap.org/way/347258628
+w347293907,Maçka Havza TM,TEİAŞ,,40.75264,39.564847,Trabzon,Karadeniz,154,https://www.openstreetmap.org/way/347293907
+w348777404,Bursa DGKÇS TM,TEİAŞ,,40.293028,29.074417,Bursa,Marmara,154,https://www.openstreetmap.org/way/348777404
+w348777405,,,,40.293387,29.073515,Bursa,Marmara,380,https://www.openstreetmap.org/way/348777405
+w350353629,Karabük TM,TEİAŞ,,41.185127,32.631884,Karabük,Karadeniz,154,https://www.openstreetmap.org/way/350353629
+w364864965,Zekeriyaköy GIS TM,TEİAŞ,,41.189899,29.038123,İstanbul,Marmara,380,https://www.openstreetmap.org/way/364864965
+w366067124,Kaklık DGKÇS TM,TEİAŞ,,37.851352,29.41444,Denizli,Ege,400,https://www.openstreetmap.org/way/366067124
+w371852217,OKURCALAR DM,,,36.658835,31.667677,Antalya,Akdeniz,-1,https://www.openstreetmap.org/way/371852217
+w371966805,Silopi Termik Santrali TM,TEİAŞ,transmission,37.312904,42.595503,Şırnak,Güneydoğu Anadolu,400,https://www.openstreetmap.org/way/371966805
+w375389532,Kadıncık-2 HES TM,TEİAŞ,,37.032379,34.840797,Mersin,Akdeniz,154,https://www.openstreetmap.org/way/375389532
+w375501548,Şebinkarahisar TM,TEİAŞ,,40.317734,38.472871,Giresun,Karadeniz,154,https://www.openstreetmap.org/way/375501548
+w376557559,Bağıştaş HES TM,TEİAŞ,,39.428122,38.410279,Erzincan,Doğu Anadolu,154,https://www.openstreetmap.org/way/376557559
+w376767986,Trakya Döküm TM,TEİAŞ,industrial,41.287864,27.552482,Tekirdağ,Marmara,154,https://www.openstreetmap.org/way/376767986
+w377366584,Şemikler Gis TM,TEİAŞ,,38.483502,27.089566,İzmir,Ege,154,https://www.openstreetmap.org/way/377366584
+w385475389,Sincik Havza TM,TEİAŞ,,38.050167,38.593896,Malatya,Doğu Anadolu,154,https://www.openstreetmap.org/way/385475389
+w394543683,Kazanlı Trafo Merkezi,TEİAŞ,,36.810451,34.704396,Mersin,Akdeniz,154,https://www.openstreetmap.org/way/394543683
+w395495812,Dinar RES TM,TEİAŞ,,38.122181,30.154077,Burdur,Akdeniz,154,https://www.openstreetmap.org/way/395495812
+w396662883,Trafo Merkezi,TEİAŞ,,36.926862,33.220175,Karaman,İç Anadolu,154,https://www.openstreetmap.org/way/396662883
+w397420970,TM,TEİAŞ,,40.3723,37.401078,Tokat,Karadeniz,154,https://www.openstreetmap.org/way/397420970
+w397423682,TM,TEİAŞ,,40.492523,36.974421,Tokat,Karadeniz,154,https://www.openstreetmap.org/way/397423682
+w398461573,Oymapınar Hes TM,TEİAŞ,,36.90792,31.529949,Antalya,Akdeniz,400,https://www.openstreetmap.org/way/398461573
+w399837518,TM,TEİAŞ,,37.875502,35.996405,Kahramanmaraş,Akdeniz,154,https://www.openstreetmap.org/way/399837518
+w400981737,Trafo,,,37.195551,38.889439,Şanlıurfa,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/400981737
+w401529092,TM,TEİAŞ,,37.280447,34.999171,Adana,Akdeniz,154,https://www.openstreetmap.org/way/401529092
+w402145928,Şenbük RES TM,TEİAŞ,,36.449012,36.236038,Hatay,Akdeniz,154,https://www.openstreetmap.org/way/402145928
+w402371166,Marmaris-1 Trafo Merkezi,TEİAŞ,distribution,36.859607,28.247085,Muğla,Ege,154,https://www.openstreetmap.org/way/402371166
+w406274111,Trafo,,,38.484622,27.060356,İzmir,Ege,-1,https://www.openstreetmap.org/way/406274111
+w422485664,Dilovası OSB Trafo Merkezi,TEİAŞ,transmission,40.790178,29.525289,Yalova,Marmara,154,https://www.openstreetmap.org/way/422485664
+w426785758,Ilısu Barajı 380 KW Trafo Merkezi,TEİAŞ,,37.530227,41.826732,Siirt,Güneydoğu Anadolu,400,https://www.openstreetmap.org/way/426785758
+w429407174,Türkgücü TM,TEİAŞ,transmission,41.104697,27.754862,Tekirdağ,Marmara,400,https://www.openstreetmap.org/way/429407174
+w450511817,DM 4.4,Ç.O.S.B.,distribution,41.310574,27.987784,Tekirdağ,Marmara,34,https://www.openstreetmap.org/way/450511817
+w454665970,Silivri RES TM,TEİAŞ,transmission,41.159164,28.290389,İstanbul,Marmara,154,https://www.openstreetmap.org/way/454665970
+w455581697,DM 3.1,Ç.O.S.B.,industrial,41.305074,27.973844,Tekirdağ,Marmara,34,https://www.openstreetmap.org/way/455581697
+w466610916,Altınkaya HES TM,TEİAŞ,,41.364124,35.728796,Samsun,Karadeniz,400,https://www.openstreetmap.org/way/466610916
+w466636579,Vezirköprü TM,TEİAŞ,,41.126014,35.494361,Amasya,Karadeniz,154,https://www.openstreetmap.org/way/466636579
+w468958964,TEİAŞ Lapseki 1 Interface Merkezi,TEİAŞ,transition,40.325579,26.651442,Çanakkale,Marmara,380,https://www.openstreetmap.org/way/468958964
+w468958984,380 KV Gelibolu Transformatör Merkezi,TEİAŞ,transmission,40.46663,26.666442,Çanakkale,Marmara,400,https://www.openstreetmap.org/way/468958984
+w468958985,TEİAŞ Sütlüce 1 Interface Merkezi,TEİAŞ,transition,40.351544,26.618048,Çanakkale,Marmara,380,https://www.openstreetmap.org/way/468958985
+w473868237,Trafo Merkezi,TEİAŞ,,38.680684,35.578589,Kayseri,İç Anadolu,154,https://www.openstreetmap.org/way/473868237
+w475269056,Mardin TM 2,TEİAŞ,,37.367925,40.6466,Mardin,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/475269056
+w475533326,Hasanbeyli RES TM,TEİAŞ,,37.088713,36.595974,Osmaniye,Akdeniz,154,https://www.openstreetmap.org/way/475533326
+w47982509,380 kV Gölbaşı TM,TEİAŞ,transmission,39.80455,32.818636,Ankara,İç Anadolu,400,https://www.openstreetmap.org/way/47982509
+w480990661,Trafo Merkezi,TEİAŞ,,40.843773,37.814643,Ordu,Karadeniz,154,https://www.openstreetmap.org/way/480990661
+w481697733,Kıyıköy RES Beşiktepe Enerji TM,TEİAŞ,transmission,41.513813,28.008949,Kırklareli,Marmara,154,https://www.openstreetmap.org/way/481697733
+w481699893,Airres Elektrik Trao Merkezi,TEİAŞ,transmission,41.605746,27.805487,Kırklareli,Marmara,154,https://www.openstreetmap.org/way/481699893
+w482385150,Uluborlu RES TM,TEİAŞ,,38.015549,30.405503,Isparta,Akdeniz,154,https://www.openstreetmap.org/way/482385150
+w482386949,Trafo Merkezi,TEİAŞ,,38.717904,27.107264,Manisa,Ege,154,https://www.openstreetmap.org/way/482386949
+w483514283,Trafo Merkezi,TEİAŞ,,39.060215,27.367207,Manisa,Ege,154,https://www.openstreetmap.org/way/483514283
+w484142807,Can Enerji Dgkç TM,TEİAŞ,transmission,41.223034,27.71645,Tekirdağ,Marmara,154,https://www.openstreetmap.org/way/484142807
+w484639879,,TREDAŞ,distribution,41.241698,27.694644,Tekirdağ,Marmara,31,https://www.openstreetmap.org/way/484639879
+w486761484,Gercüş Trafo Merkezi,TEİAŞ,,37.581822,41.400054,Batman,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/486761484
+w487542222,Limak Çimento TM,TEİAŞ,industrial,41.636805,27.50487,Kırklareli,Marmara,154,https://www.openstreetmap.org/way/487542222
+w489125787,,TREDAŞ,distribution,41.282948,27.955171,Tekirdağ,Marmara,34,https://www.openstreetmap.org/way/489125787
+w490759295,Trafo Merkezi,TEİAŞ,,37.922122,42.060611,Siirt,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/490759295
+w490815920,Güneysınır 66kV TM,,,37.30619,32.723095,Karaman,İç Anadolu,66,https://www.openstreetmap.org/way/490815920
+w490815922,Güneysınır TM,TEİAŞ,transmission,37.307601,32.724126,Karaman,İç Anadolu,154,https://www.openstreetmap.org/way/490815922
+w490890755,Aslancık HES TM,TEİAŞ,,40.910788,38.846168,Giresun,Karadeniz,154,https://www.openstreetmap.org/way/490890755
+w490917885,Killik RES TM,TEİAŞ,,40.182595,36.555689,Tokat,Karadeniz,154,https://www.openstreetmap.org/way/490917885
+w490934061,Gökçedağ RES TM,TEİAŞ,,37.163727,36.600624,Osmaniye,Akdeniz,154,https://www.openstreetmap.org/way/490934061
+w491604793,Osmancık TM,,,40.971389,34.77162,Çorum,Karadeniz,154,https://www.openstreetmap.org/way/491604793
+w491649453,Garzan HES TM,TEİAŞ,,38.250255,41.551504,Siirt,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/491649453
+w491812835,Narinkale TM,TEİAŞ,,40.157083,43.302486,Kars,Doğu Anadolu,154,https://www.openstreetmap.org/way/491812835
+w492089800,Otluca HES TM,TEİAŞ,,36.244602,32.822195,Karaman,İç Anadolu,154,https://www.openstreetmap.org/way/492089800
+w492117995,Edincik RES TM,TEİAŞ,,40.335565,27.838408,Balıkesir,Marmara,154,https://www.openstreetmap.org/way/492117995
+w492274408,Çerçikaya RES TM,TEİAŞ,,36.423026,36.116194,Hatay,Akdeniz,154,https://www.openstreetmap.org/way/492274408
+w492604039,Dinar OSB TM,TEİAŞ,,38.033336,30.035667,Burdur,Akdeniz,154,https://www.openstreetmap.org/way/492604039
+w495503214,TEİAŞ 154KV Velimeşe Trafo Merkezi,TEİAŞ,transmission,41.231669,27.890241,Tekirdağ,Marmara,154,https://www.openstreetmap.org/way/495503214
+w497155435,Trafo Merkezi,TEİAŞ,,37.737731,40.72396,Batman,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/497155435
+w497728625,,,distribution,41.686773,27.197783,Kırklareli,Marmara,31,https://www.openstreetmap.org/way/497728625
+w499063260,Tufanbeyli TES TM,TEİAŞ,,38.188389,36.271282,Kahramanmaraş,Akdeniz,400,https://www.openstreetmap.org/way/499063260
+w500120856,TEİAŞ Şarköy Trafo Merkezi,TEİAŞ,transmission,40.62955,27.112239,Tekirdağ,Marmara,154,https://www.openstreetmap.org/way/500120856
+w500651518,Trafo Merkezi,TEİAŞ,,40.747372,38.130348,Giresun,Karadeniz,154,https://www.openstreetmap.org/way/500651518
+w502661309,Ardeşen TM,TEİAŞ,,41.175005,40.967801,Rize,Karadeniz,154,https://www.openstreetmap.org/way/502661309
+w510779443,Bodrum 2 TM,TEİAŞ,,37.053418,27.441551,Muğla,Ege,154,https://www.openstreetmap.org/way/510779443
+w510786733,Bodrum TM,TEİAŞ,,37.05776,27.352343,Muğla,Ege,154,https://www.openstreetmap.org/way/510786733
+w512668535,TM,TEİAŞ,,36.863162,31.07783,Antalya,Akdeniz,154,https://www.openstreetmap.org/way/512668535
+w512888045,Kazpınarı TM,TEİAŞ,,41.697783,32.357776,Bartın,Karadeniz,154,https://www.openstreetmap.org/way/512888045
+w514353066,Kanije Res TM,TEİAŞ,transmission,41.134147,26.882675,Tekirdağ,Marmara,154,https://www.openstreetmap.org/way/514353066
+w517330729,Aydın TM,TEİAŞ,,37.850453,27.866497,Aydın,Ege,154,https://www.openstreetmap.org/way/517330729
+w517526975,Trafo Merkezi,TEİAŞ,,37.21094,28.464802,Muğla,Ege,154,https://www.openstreetmap.org/way/517526975
+w518556712,Dora 3 Jes TM,TEİAŞ,,37.871752,28.086692,Aydın,Ege,154,https://www.openstreetmap.org/way/518556712
+w518601777,Süloğlu Res TM,TEİAŞ,transmission,41.957832,26.781665,Edirne,Marmara,154,https://www.openstreetmap.org/way/518601777
+w52613323,Alibeyköy TM,TEİAŞ,,41.096752,28.957636,İstanbul,Marmara,400,https://www.openstreetmap.org/way/52613323
+w530815971,OTOSANSİT TM,TEİAŞ,,40.186987,29.157041,Bursa,Marmara,154,https://www.openstreetmap.org/way/530815971
+w530847165,Bursa TM,TEİAŞ,,40.202091,29.051131,Bursa,Marmara,154,https://www.openstreetmap.org/way/530847165
+w532567102,Kayseri-2,TEİAŞ,,38.780081,35.574038,Kayseri,İç Anadolu,154,https://www.openstreetmap.org/way/532567102
+w545756927,Çanta Res TM,TEİAŞ,transmission,41.124463,28.067036,Tekirdağ,Marmara,154,https://www.openstreetmap.org/way/545756927
+w558287666,Elmalı 154kV TM,TEİAŞ,transmission,36.708908,29.926105,Antalya,Akdeniz,154,https://www.openstreetmap.org/way/558287666
+w560421103,,,distribution,36.369893,30.248955,Antalya,Akdeniz,31,https://www.openstreetmap.org/way/560421103
+w560537709,Dereli Hes TM,TEİAŞ,,40.688299,38.438146,Giresun,Karadeniz,154,https://www.openstreetmap.org/way/560537709
+w564938526,TM,TEİAŞ,,39.700917,27.80259,Balıkesir,Marmara,154,https://www.openstreetmap.org/way/564938526
+w570365684,Kartaldağı RES TM,TEİAŞ,,37.108939,36.957701,Gaziantep,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/570365684
+w570371395,TM,TEİAŞ,,37.183909,36.685336,Osmaniye,Akdeniz,154,https://www.openstreetmap.org/way/570371395
+w571082352,Bağcılar GİS Trafo Merkezi,TEİAŞ,transmission,41.036652,28.844807,İstanbul,Marmara,154,https://www.openstreetmap.org/way/571082352
+w57731431,,TEİAŞ,,41.088393,28.691254,İstanbul,Marmara,380,https://www.openstreetmap.org/way/57731431
+w582608704,Ahlat 154kV Trafo Merkezi,TEİAŞ,transmission,38.750052,42.418986,Bitlis,Doğu Anadolu,154,https://www.openstreetmap.org/way/582608704
+w602866415,Alaşehir Havza TM,TEİAŞ,,38.411281,28.435173,Aydın,Ege,154,https://www.openstreetmap.org/way/602866415
+w621136506,Trafo Merkezi,TEİAŞ,,40.554406,37.349661,Ordu,Karadeniz,154,https://www.openstreetmap.org/way/621136506
+w621300879,Trafo Merezi,TEİAŞ,,40.921044,35.552506,Amasya,Karadeniz,154,https://www.openstreetmap.org/way/621300879
+w621764967,Trafo Merkezi,TEİAŞ,,40.916453,37.856236,Ordu,Karadeniz,400,https://www.openstreetmap.org/way/621764967
+w621781314,Trafo Merkezi,TEİAŞ,yes,40.890433,37.908728,Ordu,Karadeniz,154,https://www.openstreetmap.org/way/621781314
+w624118216,Yukarı Kaleköy Barajı HES TM,TEİAŞ,yes,38.823142,41.028772,Muş,Doğu Anadolu,400,https://www.openstreetmap.org/way/624118216
+w632613696,Fuat RES TM,TEİAŞ,,38.332582,27.505787,Manisa,Ege,154,https://www.openstreetmap.org/way/632613696
+w635732752,Urla-2 TM,TEİAŞ,transmission,38.308581,26.790295,İzmir,Ege,154,https://www.openstreetmap.org/way/635732752
+w636077851,Uşak RES TM,TEİAŞ,transmission,38.804017,29.943306,Uşak,Ege,154,https://www.openstreetmap.org/way/636077851
+w639404861,Akyazı TM,TEİAŞ,yes,40.982171,39.648975,Trabzon,Karadeniz,154,https://www.openstreetmap.org/way/639404861
+w646486885,Artvin Hes TM,TEİAŞ,,40.950443,41.762936,Artvin,Karadeniz,400,https://www.openstreetmap.org/way/646486885
+w655847650,BOTAŞ PS-4 TM,TEİAŞ,,37.30672,41.384263,Mardin,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/655847650
+w656638961,TM,TEİAŞ,transmission,40.852586,29.595934,Kocaeli,Marmara,380,https://www.openstreetmap.org/way/656638961
+w659090994,Ödülalan TM,TEİAŞ,,37.417492,38.506545,Şanlıurfa,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/659090994
+w659163142,TM,TEİAŞ,,37.765443,36.711949,Kahramanmaraş,Akdeniz,154,https://www.openstreetmap.org/way/659163142
+w667027865,Borasco TM,TEİAŞ,transmission,41.143278,37.156623,Ordu,Karadeniz,400,https://www.openstreetmap.org/way/667027865
+w683566632,TM,TEİAŞ,,40.734443,36.928964,Tokat,Karadeniz,154,https://www.openstreetmap.org/way/683566632
+w683566634,TM,TEİAŞ,,40.806485,37.011043,Tokat,Karadeniz,154,https://www.openstreetmap.org/way/683566634
+w687234981,Alibeyhüyüğü TM,TEİAŞ,transmission,37.520432,32.65011,Konya,İç Anadolu,154,https://www.openstreetmap.org/way/687234981
+w687322075,Kandil HES TM,TEİAŞ,,37.974807,37.02554,Kahramanmaraş,Akdeniz,154,https://www.openstreetmap.org/way/687322075
+w687802661,Bağıştaş 380 TM,TEİAŞ,yes,39.45306,38.49119,Erzincan,Doğu Anadolu,400,https://www.openstreetmap.org/way/687802661
+w687909424,Trafo,TEİAŞ,generation,39.44853,38.520071,Erzincan,Doğu Anadolu,154,https://www.openstreetmap.org/way/687909424
+w689389182,Koçlu Hes TM,TEİAŞ,,40.799178,38.650758,Giresun,Karadeniz,154,https://www.openstreetmap.org/way/689389182
+w689655524,Daran Havza TM,TEİAŞ,,36.567593,32.684799,Karaman,İç Anadolu,154,https://www.openstreetmap.org/way/689655524
+w692552146,TM,TEİAŞ,,38.475619,42.168579,Bitlis,Doğu Anadolu,154,https://www.openstreetmap.org/way/692552146
+w693406206,Dodan TM,TEİAŞ,,37.972448,41.950643,Siirt,Güneydoğu Anadolu,400,https://www.openstreetmap.org/way/693406206
+w696654427,Artvin-2 TM,TEİAŞ,,41.207783,41.861751,Artvin,Karadeniz,154,https://www.openstreetmap.org/way/696654427
+w699959083,Yeni Havalimanı GIS TM,TEİAŞ,transmission,41.246846,28.743782,İstanbul,Marmara,154,https://www.openstreetmap.org/way/699959083
+w707545895,TM,TEİAŞ,,36.997109,37.331265,Gaziantep,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/707545895
+w708414203,Tatar Hes TM,TEİAŞ,,38.859576,39.815614,Tunceli,Doğu Anadolu,154,https://www.openstreetmap.org/way/708414203
+w709224922,Tatvan 380kV TM,,,38.516401,42.225253,Bitlis,Doğu Anadolu,380,https://www.openstreetmap.org/way/709224922
+w713121422,,TREDAŞ,distribution,41.282905,27.955217,Tekirdağ,Marmara,34,https://www.openstreetmap.org/way/713121422
+w718802582,Bulanık TM,TEİAŞ,,38.999291,42.065224,Muş,Doğu Anadolu,154,https://www.openstreetmap.org/way/718802582
+w722496958,Doruk Hes TM,TEİAŞ,,40.566668,38.309569,Giresun,Karadeniz,154,https://www.openstreetmap.org/way/722496958
+w724286124,Geçici Ilısu TM,TEİAŞ,,37.531391,41.820955,Siirt,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/724286124
+w726036485,Yamaçtepe-2 Rüzgar Enerji Santrali,TEİAŞ,transmission,41.294506,28.241297,İstanbul,Marmara,154,https://www.openstreetmap.org/way/726036485
+w729413327,Kıyıköy RES Trafo Merkezi,TEİAŞ,transmission,41.669544,28.051439,Kırklareli,Marmara,154,https://www.openstreetmap.org/way/729413327
+w731023456,Eğlence2 Hes TM,TEİAŞ,,37.384528,35.201756,Adana,Akdeniz,154,https://www.openstreetmap.org/way/731023456
+w731023461,Karakuz Hes TM,TEİAŞ,,37.362909,35.123889,Adana,Akdeniz,154,https://www.openstreetmap.org/way/731023461
+w731997887,Uludağ GİS Transformatör Merkezi,TEİAŞ,transmission,40.211689,29.349574,Bursa,Marmara,400,https://www.openstreetmap.org/way/731997887
+w744869500,Göktaş2 Hes TM,TEİAŞ,,37.626154,35.578798,Adana,Akdeniz,154,https://www.openstreetmap.org/way/744869500
+w750023564,Çan Rıdvan Sert Havza Transformatör Merkezi,TEİAŞ,transmission,40.001815,27.051273,Çanakkale,Marmara,400,https://www.openstreetmap.org/way/750023564
+w750426158,Ardahan 2 TM,TEİAŞ,,41.130864,42.70717,Ardahan,Doğu Anadolu,154,https://www.openstreetmap.org/way/750426158
+w752291101,Mardin Çimento TM,TEİAŞ,,37.336702,40.805385,Mardin,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/752291101
+w753263218,Çekerek Havza TM,TEİAŞ,,40.058246,35.501355,Yozgat,İç Anadolu,154,https://www.openstreetmap.org/way/753263218
+w753837958,Rafineri TM,TEİAŞ,transmission,38.77001,26.967266,İzmir,Ege,400,https://www.openstreetmap.org/way/753837958
+w753876140,Habaş TM,TEİAŞ,,38.751209,26.954601,İzmir,Ege,154,https://www.openstreetmap.org/way/753876140
+w753879095,,,,38.740854,26.944638,İzmir,Ege,-1,https://www.openstreetmap.org/way/753879095
+w753902149,Berg RES substation,TEİAŞ,,38.957176,27.221978,Manisa,Ege,154,https://www.openstreetmap.org/way/753902149
+w757646616,Gebze Kimya TM,TEİAŞ,,40.809277,29.559089,Yalova,Marmara,154,https://www.openstreetmap.org/way/757646616
+w757728084,Bartın OSB 380 KV TM,TEİAŞ,,41.577707,32.413687,Bartın,Karadeniz,400,https://www.openstreetmap.org/way/757728084
+w779515543,Yahyalı Bak Res TM,TEİAŞ,,38.09977,35.506044,Kayseri,İç Anadolu,154,https://www.openstreetmap.org/way/779515543
+w779515545,Kurtkayasi RES substation,TEİAŞ,,38.058321,35.483175,Niğde,İç Anadolu,154,https://www.openstreetmap.org/way/779515545
+w779549381,Yahyalı Res TM,TEİAŞ,,38.146107,35.560291,Kayseri,İç Anadolu,154,https://www.openstreetmap.org/way/779549381
+w780915147,Kula TM,TEİAŞ,,38.593403,28.668242,Uşak,Ege,154,https://www.openstreetmap.org/way/780915147
+w781587366,Beyhan Barajı HES TM,TEİAŞ,,38.742797,40.127825,Bingöl,Doğu Anadolu,400,https://www.openstreetmap.org/way/781587366
+w781767391,Teiaş 6. Bölge Müdürlüğü,TEİAŞ,,38.648626,29.062553,Uşak,Ege,380,https://www.openstreetmap.org/way/781767391
+w781794132,Kelkit Havza TM,TEİAŞ,,40.329405,37.560685,Ordu,Karadeniz,154,https://www.openstreetmap.org/way/781794132
+w781895031,Burçak2 Hes TM,TEİAŞ,,40.271693,38.469945,Giresun,Karadeniz,154,https://www.openstreetmap.org/way/781895031
+w782593974,,,,41.339636,35.002599,Sinop,Karadeniz,-1,https://www.openstreetmap.org/way/782593974
+w782622508,,,,37.092749,36.166298,Osmaniye,Akdeniz,154,https://www.openstreetmap.org/way/782622508
+w782630146,Doğançay Hes TM,TEİAŞ,,37.543107,35.520703,Adana,Akdeniz,154,https://www.openstreetmap.org/way/782630146
+w782634817,,,,37.100997,38.660203,Şanlıurfa,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/782634817
+w782681464,Çan 2 Tes TM,TEİAŞ,,40.033485,26.949673,Çanakkale,Marmara,400,https://www.openstreetmap.org/way/782681464
+w782918566,Koru RES TM,TEİAŞ,,40.219082,26.7976,Çanakkale,Marmara,154,https://www.openstreetmap.org/way/782918566
+w782918569,Tümad Lapseki TM,TEİAŞ,,40.297869,26.78042,Çanakkale,Marmara,154,https://www.openstreetmap.org/way/782918569
+w782963223,Yeni DGKÇS TM,TEİAŞ,,40.815682,29.574035,Yalova,Marmara,400,https://www.openstreetmap.org/way/782963223
+w783006365,TM,TEİAŞ,,40.719066,41.417973,Artvin,Karadeniz,400,https://www.openstreetmap.org/way/783006365
+w783028600,Zetes3 TM,TEİAŞ,,41.512708,31.910858,Zonguldak,Karadeniz,400,https://www.openstreetmap.org/way/783028600
+w783393017,TM,TEİAŞ,,40.660419,36.701042,Tokat,Karadeniz,154,https://www.openstreetmap.org/way/783393017
+w783716197,Aşağı Kaleköy HES TM,TEİAŞ,,38.835649,40.720113,Bingöl,Doğu Anadolu,400,https://www.openstreetmap.org/way/783716197
+w784014142,Kepezkaya Hes TM,TEİAŞ,,36.952676,33.009121,Karaman,İç Anadolu,154,https://www.openstreetmap.org/way/784014142
+w784565450,,,,37.856602,27.605107,Aydın,Ege,154,https://www.openstreetmap.org/way/784565450
+w784887094,Amasya RES TM,TEİAŞ,,40.636522,36.10856,Amasya,Karadeniz,154,https://www.openstreetmap.org/way/784887094
+w785196794,Çölovası TM,TEİAŞ,,38.267728,30.544416,Afyonkarahisar,Ege,154,https://www.openstreetmap.org/way/785196794
+w785344481,Eğridere TM,TEİAŞ,distribution,38.508937,27.214137,İzmir,Ege,400,https://www.openstreetmap.org/way/785344481
+w785407671,Akdağ Res TM,TEİAŞ,,37.607838,31.690364,Konya,İç Anadolu,154,https://www.openstreetmap.org/way/785407671
+w785577835,Dilek Res TM,TEİAŞ,,37.541858,36.468474,Kahramanmaraş,Akdeniz,154,https://www.openstreetmap.org/way/785577835
+w785705110,Erzin Dgkç TM,TEİAŞ,,36.927135,36.053436,Osmaniye,Akdeniz,400,https://www.openstreetmap.org/way/785705110
+w785705114,Tosçelik TM,TEİAŞ,,37.023656,36.104523,Osmaniye,Akdeniz,400,https://www.openstreetmap.org/way/785705114
+w785705115,Tosyalı Metalurji TM,TEİAŞ,,37.01841,36.091135,Osmaniye,Akdeniz,400,https://www.openstreetmap.org/way/785705115
+w787273618,TM,TEİAŞ,,38.661815,39.780341,Elazığ,Doğu Anadolu,154,https://www.openstreetmap.org/way/787273618
+w787680631,Köse TM,TEİAŞ,,40.181996,39.655368,Gümüşhane,Karadeniz,400,https://www.openstreetmap.org/way/787680631
+w787686599,İspir TM,TEİAŞ,,40.498982,41.020843,Erzurum,Doğu Anadolu,400,https://www.openstreetmap.org/way/787686599
+w787686600,TM,,,40.501029,41.024031,Erzurum,Doğu Anadolu,154,https://www.openstreetmap.org/way/787686600
+w787954537,Hayrat Havza TM,TEİAŞ,,40.78673,40.429869,Rize,Karadeniz,154,https://www.openstreetmap.org/way/787954537
+w788280038,Çetin Barajı TM,TEİAŞ,,37.972856,42.355465,Siirt,Güneydoğu Anadolu,400,https://www.openstreetmap.org/way/788280038
+w788480691,Belen RES TM,TEİAŞ,,36.478267,36.212581,Hatay,Akdeniz,154,https://www.openstreetmap.org/way/788480691
+w788480693,Atik Belen TM,TEİAŞ,,36.506844,36.216237,Hatay,Akdeniz,154,https://www.openstreetmap.org/way/788480693
+w789080616,TM,TEİAŞ,,40.482779,41.499413,Erzurum,Doğu Anadolu,154,https://www.openstreetmap.org/way/789080616
+w789816011,Antalya Serbest Bölge TM,TEİAŞ,,36.849559,30.59128,Antalya,Akdeniz,400,https://www.openstreetmap.org/way/789816011
+w790159752,Karaburun Havza TM,TEİAŞ,,38.443649,26.505452,İzmir,Ege,400,https://www.openstreetmap.org/way/790159752
+w793914880,TM,TEİAŞ,,40.754412,41.834752,Artvin,Karadeniz,154,https://www.openstreetmap.org/way/793914880
+w796192927,TM,TEİAŞ,,39.725217,36.939026,Sivas,İç Anadolu,154,https://www.openstreetmap.org/way/796192927
+w796192931,TM,TEİAŞ,,39.759648,36.96714,Sivas,İç Anadolu,154,https://www.openstreetmap.org/way/796192931
+w796247972,Çamseki RES Trafo Merkezi,TEİAŞ,,39.88688,26.178521,Çanakkale,Marmara,154,https://www.openstreetmap.org/way/796247972
+w796269923,TM,TEİAŞ,,37.361147,37.192358,Kahramanmaraş,Akdeniz,154,https://www.openstreetmap.org/way/796269923
+w796303197,Çimsa Trafo Merkezi,TEİAŞ,,39.834862,30.309387,Eskişehir,İç Anadolu,154,https://www.openstreetmap.org/way/796303197
+w796854567,Çine TM,TEİAŞ,,37.646122,27.972331,Aydın,Ege,154,https://www.openstreetmap.org/way/796854567
+w807759192,Kozluk Trafo Merkezi,TEİAŞ,,38.154639,41.518277,Siirt,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/807759192
+w810318487,Trafo Merkezi,TEİAŞ,,37.463065,37.019807,Kahramanmaraş,Akdeniz,400,https://www.openstreetmap.org/way/810318487
+w813482589,TCDD Tavşanlı TM,Türkiye Cumhuriyeti Devlet Demiryolları,traction,39.533046,29.510565,Kütahya,Ege,154,https://www.openstreetmap.org/way/813482589
+w815866527,DDY Günyazı TM,Türkiye Cumhuriyeti Devlet Demiryolları,traction,37.057775,35.96017,Osmaniye,Akdeniz,154,https://www.openstreetmap.org/way/815866527
+w815866533,Osmaniye OSB TM,TEİAŞ,,37.024068,36.114886,Osmaniye,Akdeniz,154,https://www.openstreetmap.org/way/815866533
+w81614412,Manavgat HES TM,TEİAŞ,,36.834975,31.516348,Antalya,Akdeniz,154,https://www.openstreetmap.org/way/81614412
+w81614443,19. Bölge Müdürlüğü Antalya Manavgat Trafo Merkezi,TEİAŞ,,36.804789,31.451132,Antalya,Akdeniz,154,https://www.openstreetmap.org/way/81614443
+w81614444,Oymapınar HES TM,TEİAŞ,,36.889043,31.524408,Antalya,Akdeniz,400,https://www.openstreetmap.org/way/81614444
+w816387100,380/154 kV İhsan Öztürk Taşoluk GİS Trafo Merkezi,TEİAŞ,transmission,41.214158,28.709449,İstanbul,Marmara,380,https://www.openstreetmap.org/way/816387100
+w818020240,TM,TEİAŞ,,40.936744,35.887321,Amasya,Karadeniz,154,https://www.openstreetmap.org/way/818020240
+w819809031,Akyurt TM,TEİAŞ,,40.161678,33.085957,Ankara,İç Anadolu,154,https://www.openstreetmap.org/way/819809031
+w819816556,Kazan Dgkç TM,TEİAŞ,,40.10628,32.5002,Ankara,İç Anadolu,154,https://www.openstreetmap.org/way/819816556
+w823254276,Kayseri Kapasitör TM,TEİAŞ,,38.859379,35.669104,Kayseri,İç Anadolu,400,https://www.openstreetmap.org/way/823254276
+w823254277,Kayseri Kapasitör TM,TEİAŞ,,38.858836,35.66665,Kayseri,İç Anadolu,154,https://www.openstreetmap.org/way/823254277
+w824780454,Kubilay Jes TM,TEİAŞ,,37.827188,27.542227,Aydın,Ege,154,https://www.openstreetmap.org/way/824780454
+w824780468,Sağlık Trafo Merkezi,TEİAŞ,distribution,38.054537,27.428318,Aydın,Ege,154,https://www.openstreetmap.org/way/824780468
+w824934491,Bandırma DGKÇS 2 TM,TEİAŞ,,40.298792,27.765908,Balıkesir,Marmara,400,https://www.openstreetmap.org/way/824934491
+w824934495,Soma Kolin TES Trafo Merkezi,TEİAŞ,,39.316993,27.745824,Balıkesir,Marmara,400,https://www.openstreetmap.org/way/824934495
+w825164509,Ilısu Barajı 154 KW TM,TEİAŞ,,37.53231,41.825212,Siirt,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/825164509
+w833091200,Asyaport Liman TM,TEİAŞ,industrial,40.899208,27.466154,Tekirdağ,Marmara,154,https://www.openstreetmap.org/way/833091200
+w834177101,Orhaneli TM,TEİAŞ,,39.951974,28.874861,Bursa,Marmara,154,https://www.openstreetmap.org/way/834177101
+w834180859,Pazaryeri OSB TM,TEİAŞ,,40.003166,29.921455,Bilecik,Marmara,154,https://www.openstreetmap.org/way/834180859
+w837553399,Cerit Res TM,TEİAŞ,,37.720488,37.327759,Kahramanmaraş,Akdeniz,154,https://www.openstreetmap.org/way/837553399
+w840711657,TEİAŞ Hayrabolu 154 KV Trafo Merkezi,TEİAŞ,transmission,41.219474,27.080117,Tekirdağ,Marmara,154,https://www.openstreetmap.org/way/840711657
+w841326410,Eti Bakır Adıyaman TM,TEİAŞ,,37.936375,38.232472,Adıyaman,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/841326410
+w842302126,Serap HES TM,TEİAŞ,,40.149121,43.081086,Ağrı,Doğu Anadolu,154,https://www.openstreetmap.org/way/842302126
+w846762604,TM,TEİAŞ,,41.163255,42.957422,Ardahan,Doğu Anadolu,154,https://www.openstreetmap.org/way/846762604
+w846762607,Kotanlı 2 HES TM,,,41.160622,43.02446,Ardahan,Doğu Anadolu,154,https://www.openstreetmap.org/way/846762607
+w849185072,Kuşaklı Hes TM,TEİAŞ,,37.710239,35.702277,Osmaniye,Akdeniz,154,https://www.openstreetmap.org/way/849185072
+w849185075,Kıy Hes TM,TEİAŞ,,37.715008,35.703067,Osmaniye,Akdeniz,154,https://www.openstreetmap.org/way/849185075
+w849498996,Kozan Havza TM,TEİAŞ,,37.471651,35.663004,Adana,Akdeniz,154,https://www.openstreetmap.org/way/849498996
+w850602377,TM,TEİAŞ,transmission,40.852927,29.593256,Kocaeli,Marmara,154,https://www.openstreetmap.org/way/850602377
+w853504082,Türkerler Alaşehir3 Jes TM,TEİAŞ,,38.374868,28.509123,Aydın,Ege,154,https://www.openstreetmap.org/way/853504082
+w854202599,Mersin380 TM,TEİAŞ,,36.912816,34.700431,Mersin,Akdeniz,154,https://www.openstreetmap.org/way/854202599
+w854344588,,UEDAŞ,distribution,40.459547,26.691679,Çanakkale,Marmara,34,https://www.openstreetmap.org/way/854344588
+w854447157,TM,TEİAŞ,,36.296175,33.471991,Karaman,İç Anadolu,154,https://www.openstreetmap.org/way/854447157
+w854447160,,,,36.324032,33.417113,Karaman,İç Anadolu,154,https://www.openstreetmap.org/way/854447160
+w854989469,Siirt380 TM,TEİAŞ,,37.971255,41.952574,Siirt,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/854989469
+w854994731,Tortum TM,TEİAŞ,,40.688313,41.687655,Artvin,Karadeniz,400,https://www.openstreetmap.org/way/854994731
+w854994732,Tortum TM,TEİAŞ,,40.687697,41.683253,Artvin,Karadeniz,154,https://www.openstreetmap.org/way/854994732
+w855386419,Kızıldere2 Jes TM,TEİAŞ,,37.949846,28.834667,Denizli,Ege,154,https://www.openstreetmap.org/way/855386419
+w856318768,TEİAŞ Ataşehir GİS Trafo Merkezi,TEİAŞ,transmission,40.993211,29.161391,İstanbul,Marmara,154,https://www.openstreetmap.org/way/856318768
+w860391085,Acar TM,TEİAŞ,,37.178988,37.346021,Gaziantep,Güneydoğu Anadolu,400,https://www.openstreetmap.org/way/860391085
+w860396051,Çağlayan HES TM,,,37.819047,36.661684,Kahramanmaraş,Akdeniz,154,https://www.openstreetmap.org/way/860396051
+w862461346,TM,TEİAŞ,,38.422506,28.389234,Aydın,Ege,154,https://www.openstreetmap.org/way/862461346
+w862461357,TM,TEİAŞ,,38.400172,28.431212,Aydın,Ege,154,https://www.openstreetmap.org/way/862461357
+w862461364,Özmen 1 Jes TM,TEİAŞ,,38.359522,28.409101,Aydın,Ege,154,https://www.openstreetmap.org/way/862461364
+w862461369,TM,TEİAŞ,,38.387522,28.40856,Aydın,Ege,154,https://www.openstreetmap.org/way/862461369
+w862461381,TM,TEİAŞ,,38.435098,28.425142,Aydın,Ege,154,https://www.openstreetmap.org/way/862461381
+w863020855,Bağlum TM,TEİAŞ,,40.048299,32.813473,Ankara,İç Anadolu,154,https://www.openstreetmap.org/way/863020855
+w870803309,154Kv Abana Havza Trafo Merkezi,TEİAŞ,transmission,41.94431,34.0421,Kastamonu,Karadeniz,154,https://www.openstreetmap.org/way/870803309
+w87340251,ÇİNKUR TM,TEİAŞ,,38.717348,35.268125,Kayseri,İç Anadolu,154,https://www.openstreetmap.org/way/87340251
+w875508150,TM,TEİAŞ,,39.869554,30.167135,Eskişehir,İç Anadolu,154,https://www.openstreetmap.org/way/875508150
+w880284927,,,,38.483051,27.129904,İzmir,Ege,-1,https://www.openstreetmap.org/way/880284927
+w882819383,Işıklar TM,TEİAŞ,distribution,38.418619,27.239412,İzmir,Ege,154,https://www.openstreetmap.org/way/882819383
+w883906822,Üçpınar RES TM,TEİAŞ,,40.14414,26.683161,Çanakkale,Marmara,154,https://www.openstreetmap.org/way/883906822
+w883909074,Çanakkale Havza 1 TM,TEİAŞ,,40.138455,26.757216,Çanakkale,Marmara,154,https://www.openstreetmap.org/way/883909074
+w884461646,Kışladağ Trafo Merkezi,TEİAŞ,transmission,38.486673,29.163606,Uşak,Ege,154,https://www.openstreetmap.org/way/884461646
+w887908052,Aslanlar TM,TEİAŞ,,38.168923,27.42425,İzmir,Ege,154,https://www.openstreetmap.org/way/887908052
+w888726754,Tayakadın Rüzgar Enerji Santrali Şalt Sahası,TEİAŞ,transmission,41.358407,28.143116,Tekirdağ,Marmara,154,https://www.openstreetmap.org/way/888726754
+w893192811,Deliklikaya GİS Trafo Merkezi,TEİAŞ,transmission,41.123951,28.665852,İstanbul,Marmara,400,https://www.openstreetmap.org/way/893192811
+w893192820,Ömerli RES Trafo Merkezi,TEİAŞ,transmission,41.184664,28.214864,Tekirdağ,Marmara,154,https://www.openstreetmap.org/way/893192820
+w893192822,Seymen Çöp Gaz Trafo Merkezi,TEİAŞ,transmission,41.21645,28.156601,Tekirdağ,Marmara,154,https://www.openstreetmap.org/way/893192822
+w893192839,Gaziosmanpaşa Res TM,TEİAŞ,transmission,41.282795,28.176657,Tekirdağ,Marmara,154,https://www.openstreetmap.org/way/893192839
+w901082178,Sarayköy Mobil Tm-2 TM,TEİAŞ,,37.913723,28.905867,Denizli,Ege,154,https://www.openstreetmap.org/way/901082178
+w901713860,Armutlu TM,TEİAŞ,transmission,40.523016,28.916861,Yalova,Marmara,154,https://www.openstreetmap.org/way/901713860
+w901718628,Kürekdağı Res TM,TEİAŞ,,40.559148,29.031652,Yalova,Marmara,154,https://www.openstreetmap.org/way/901718628
+w902150874,Polat Tes TM,TEİAŞ,,39.617542,29.443371,Kütahya,Ege,154,https://www.openstreetmap.org/way/902150874
+w902309893,Bulancak TM,TEİAŞ,,40.93918,38.168814,Giresun,Karadeniz,154,https://www.openstreetmap.org/way/902309893
+w902590150,Kangal RES TM,TEİAŞ,,39.027076,37.270971,Sivas,İç Anadolu,154,https://www.openstreetmap.org/way/902590150
+w902642769,İzmir Havza TM,TEİAŞ,,38.94063,27.219755,Manisa,Ege,154,https://www.openstreetmap.org/way/902642769
+w902642770,İzmir Havza TM,TEİAŞ,,38.942818,27.220744,Manisa,Ege,400,https://www.openstreetmap.org/way/902642770
+w902712807,Tatlıpınar Res TM,TEİAŞ,transmission,39.792199,27.773265,Balıkesir,Marmara,154,https://www.openstreetmap.org/way/902712807
+w904059760,,,,39.971079,28.012945,Balıkesir,Marmara,-1,https://www.openstreetmap.org/way/904059760
+w904788594,Karova Res TM,TEİAŞ,,37.05798,27.6511,Muğla,Ege,154,https://www.openstreetmap.org/way/904788594
+w904795827,,,,36.761764,27.655417,Muğla,Ege,-1,https://www.openstreetmap.org/way/904795827
+w904810541,Dağpazarı Res TM,TEİAŞ,,36.76725,33.422966,Karaman,İç Anadolu,154,https://www.openstreetmap.org/way/904810541
+w905329347,,,,38.516362,42.228628,Bitlis,Doğu Anadolu,154,https://www.openstreetmap.org/way/905329347
+w906233622,Kangal Tes TM,TEİAŞ,,39.078981,37.297246,Sivas,İç Anadolu,154,https://www.openstreetmap.org/way/906233622
+w906891053,154 Kv TM,TEİAŞ,transmission,37.853475,41.148175,Batman,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/906891053
+w911588532,Vize Havza TM,TEİAŞ,transmission,41.516349,27.759396,Kırklareli,Marmara,400,https://www.openstreetmap.org/way/911588532
+w91252428,Aslantaş HES TM,TEİAŞ,,37.27118,36.274277,Osmaniye,Akdeniz,154,https://www.openstreetmap.org/way/91252428
+w91594794,PS-4B TM,TEİAŞ,,37.444452,37.957312,Adıyaman,Güneydoğu Anadolu,154,https://www.openstreetmap.org/way/91594794
+w91680343,Gaziantep-2,TEİAŞ,,37.166855,37.286362,Gaziantep,Güneydoğu Anadolu,400,https://www.openstreetmap.org/way/91680343
+w919774836,Alpaslan-2 HES TM,TEİAŞ,,39.032773,41.518921,Muş,Doğu Anadolu,400,https://www.openstreetmap.org/way/919774836
+w92135333,Birecik HES TM,TEİAŞ,,37.050547,37.890355,Gaziantep,Güneydoğu Anadolu,400,https://www.openstreetmap.org/way/92135333
+w921994859,,,yes,41.347212,36.232279,Samsun,Karadeniz,-1,https://www.openstreetmap.org/way/921994859
+w92996837,Seyrantepe HES TM,TEİAŞ,generation,39.019655,39.893037,Tunceli,Doğu Anadolu,154,https://www.openstreetmap.org/way/92996837
+w938644044,,TREDAŞ,distribution,41.288134,27.554492,Tekirdağ,Marmara,34,https://www.openstreetmap.org/way/938644044
+w95171610,Varsak TM,TEİAŞ,transmission,36.958277,30.707523,Antalya,Akdeniz,400,https://www.openstreetmap.org/way/95171610
+w956244762,DDY Boğazköprü TM,Türkiye Cumhuriyeti Devlet Demiryolları,traction,38.719723,35.273784,Kayseri,İç Anadolu,154,https://www.openstreetmap.org/way/956244762
+w958254591,Banaz TM,TEİAŞ,distribution,38.721203,29.713549,Uşak,Ege,154,https://www.openstreetmap.org/way/958254591
+w959072396,TM,TEİAŞ,,40.867476,30.970001,Düzce,Karadeniz,154,https://www.openstreetmap.org/way/959072396
+w96283820,,,,38.366605,38.182673,Malatya,Doğu Anadolu,-1,https://www.openstreetmap.org/way/96283820
+w96290236,Kaş TM,TEİAŞ,,36.199437,29.667285,Antalya,Akdeniz,154,https://www.openstreetmap.org/way/96290236
+w96580455,Borçka HES TM,TEİAŞ,,41.350942,41.683205,Artvin,Karadeniz,400,https://www.openstreetmap.org/way/96580455
+w966899329,Kocaeli TM,TEİAŞ,transmission,40.785704,30.034582,Kocaeli,Marmara,154,https://www.openstreetmap.org/way/966899329
+w966899330,Kocaeli TM,TEİAŞ,transmission,40.78744,30.031905,Kocaeli,Marmara,400,https://www.openstreetmap.org/way/966899330
+w966899334,TEİAŞ Kocaeli 380 Trafo Merkezi,TEİAŞ,,40.786861,30.032606,Kocaeli,Marmara,380,https://www.openstreetmap.org/way/966899334
+w966899426,Aktaş 4701 TM,,industrial,41.014561,29.272293,İstanbul,Marmara,34,https://www.openstreetmap.org/way/966899426
+w972260897,Güriş Zeliha RES Trafo Merkezi,TEİAŞ,,41.775423,27.45777,Kırklareli,Marmara,154,https://www.openstreetmap.org/way/972260897
+w972262466,Karahallı TM,TEİAŞ,,38.43768,29.502094,Uşak,Ege,154,https://www.openstreetmap.org/way/972262466
+w974531667,TM,TEİAŞ,,39.014241,40.729595,Bingöl,Doğu Anadolu,154,https://www.openstreetmap.org/way/974531667
+w980534806,Bağarası Res TM,TEİAŞ,,37.712068,27.674774,Aydın,Ege,154,https://www.openstreetmap.org/way/980534806
+w981592394,Afyon-3 TM,TEİAŞ,transmission,38.785357,30.396879,Afyonkarahisar,Ege,154,https://www.openstreetmap.org/way/981592394
+w982030430,Şadıllı Rüzgâr Enerjisi Santrali Trafo Merkezi,TEİAŞ,transmission,40.750998,26.911627,Tekirdağ,Marmara,154,https://www.openstreetmap.org/way/982030430
+w983296977,Yozgat 380kV TM,TEİAŞ,,39.918679,34.94113,Yozgat,İç Anadolu,400,https://www.openstreetmap.org/way/983296977
+w988351678,Resadiye TM,TEİAŞ,,40.403203,37.282091,Tokat,Karadeniz,400,https://www.openstreetmap.org/way/988351678
+w991537460,TM,TEİAŞ,,40.57769,30.890611,Düzce,Karadeniz,154,https://www.openstreetmap.org/way/991537460
+w995318804,Yakınkent TM,TEİAŞ,,40.379687,33.515208,Çankırı,İç Anadolu,154,https://www.openstreetmap.org/way/995318804
+w996210255,TEİAŞ Lapseki 2 Interface Merkezi,TEİAŞ,transition,40.317682,26.642306,Çanakkale,Marmara,380,https://www.openstreetmap.org/way/996210255
+w996215461,Salihli3 Jes TM,TEİAŞ,,38.491472,28.086173,Manisa,Ege,154,https://www.openstreetmap.org/way/996215461
+w996233820,Kasımlar Hes TM,TEİAŞ,,37.386854,31.218316,Antalya,Akdeniz,154,https://www.openstreetmap.org/way/996233820
+w996250899,Altınordu TM,TEİAŞ,,40.914737,37.85531,Ordu,Karadeniz,154,https://www.openstreetmap.org/way/996250899
+w998310720,Bandırma 3 Res TM,TEİAŞ,,40.272813,27.847451,Balıkesir,Marmara,154,https://www.openstreetmap.org/way/998310720

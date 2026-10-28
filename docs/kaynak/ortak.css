@@ -1,0 +1,25 @@
+/* Rapor, poster ve sunum için ortak basılı tasarım belirteçleri.
+   Etkileşimli sayfadaki renklerle aynı: 380 kV kırmızısı vurgu, mavi-gri nötrler. */
+:root {
+  --metin: #18212b;
+  --soluk: #5b6875;
+  --cizgi: #cfd6de;
+  --zemin: #eef1f4;
+  --vurgu: #d0342c;
+  --kv154: #e08a1e;
+  --mor: #7b5cc4;
+  --mavi: #3b6fd8;
+  --f-baslik: "TeX Gyre Heros Cn", "Liberation Sans Narrow", "Arial Narrow", sans-serif;
+  --f-govde: "TeX Gyre Pagella", "Palatino Linotype", Georgia, serif;
+  --f-arayuz: "TeX Gyre Heros", "Liberation Sans", Arial, sans-serif;
+  --f-veri: "DejaVu Sans Mono", ui-monospace, monospace;
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; color: var(--metin); background: #fff; }
+img { max-width: 100%; display: block; }
+.num { font-variant-numeric: tabular-nums; }
+table { border-collapse: collapse; width: 100%; font-family: var(--f-arayuz); }
+th { text-align: left; font-weight: 700; color: var(--soluk); border-bottom: 1.2px solid var(--metin); }
+td, th { padding: 3px 6px; vertical-align: top; }
+td { border-bottom: 0.5px solid var(--cizgi); }
+td.s, th.s { text-align: right; font-variant-numeric: tabular-nums; }

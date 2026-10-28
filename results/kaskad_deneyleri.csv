@@ -1,0 +1,153 @@
+baslangic,alfa,dalga_sayisi,dusen_toplam,G,ad,il,grup
+w1205344727,0.1,0,1,0.9990671641791045,w1205344727,Çankırı,rastgele
+w1205344727,0.25,0,1,0.9990671641791045,w1205344727,Çankırı,rastgele
+w1205344727,0.5,0,1,0.9990671641791045,w1205344727,Çankırı,rastgele
+w1205344727,1.0,0,1,0.9990671641791045,w1205344727,Çankırı,rastgele
+w1206783204,0.1,1,2,0.9981343283582089,TM,Elazığ,rastgele
+w1206783204,0.25,0,1,0.9990671641791045,TM,Elazığ,rastgele
+w1206783204,0.5,0,1,0.9990671641791045,TM,Elazığ,rastgele
+w1206783204,1.0,0,1,0.9990671641791045,TM,Elazığ,rastgele
+w1228284010,0.1,0,1,0.9990671641791045,w1228284010,Van,rastgele
+w1228284010,0.25,0,1,0.9990671641791045,w1228284010,Van,rastgele
+w1228284010,0.5,0,1,0.9990671641791045,w1228284010,Van,rastgele
+w1228284010,1.0,0,1,0.9990671641791045,w1228284010,Van,rastgele
+w127886746,0.1,3,146,0.1791044776119403,Yatağan TES TM,Muğla,en_kritik_eklem
+w127886746,0.25,4,161,0.37593283582089554,Yatağan TES TM,Muğla,en_kritik_eklem
+w127886746,0.5,5,173,0.35261194029850745,Yatağan TES TM,Muğla,en_kritik_eklem
+w127886746,1.0,6,78,0.691231343283582,Yatağan TES TM,Muğla,en_kritik_eklem
+w127936765,0.1,3,110,0.4673507462686567,DEÇEKO TM,Sivas,en_yuksek_betweenness
+w127936765,0.25,4,118,0.40578358208955223,DEÇEKO TM,Sivas,en_yuksek_betweenness
+w127936765,0.5,4,130,0.43097014925373134,DEÇEKO TM,Sivas,en_yuksek_betweenness
+w127936765,1.0,5,113,0.4319029850746269,DEÇEKO TM,Sivas,en_yuksek_betweenness
+w127986151,0.1,4,176,0.34888059701492535,Soma-B TES TM,Balıkesir,en_yuksek_betweenness
+w127986151,0.25,4,201,0.23600746268656717,Soma-B TES TM,Balıkesir,en_yuksek_betweenness
+w127986151,0.5,4,189,0.24347014925373134,Soma-B TES TM,Balıkesir,en_yuksek_betweenness
+w127986151,1.0,7,136,0.4916044776119403,Soma-B TES TM,Balıkesir,en_yuksek_betweenness
+w128186930,0.1,5,68,0.8460820895522388,Gaziantep-1 TM,Gaziantep,rastgele
+w128186930,0.25,1,9,0.9869402985074627,Gaziantep-1 TM,Gaziantep,rastgele
+w128186930,0.5,1,6,0.9897388059701493,Gaziantep-1 TM,Gaziantep,rastgele
+w128186930,1.0,1,3,0.996268656716418,Gaziantep-1 TM,Gaziantep,rastgele
+w130576633,0.1,5,199,0.25652985074626866,Aliağa-2 TM,İzmir,en_kritik_eklem+rastgele
+w130576633,0.25,4,41,0.898320895522388,Aliağa-2 TM,İzmir,en_kritik_eklem+rastgele
+w130576633,0.5,4,38,0.8973880597014925,Aliağa-2 TM,İzmir,en_kritik_eklem+rastgele
+w130576633,1.0,2,14,0.9514925373134329,Aliağa-2 TM,İzmir,en_kritik_eklem+rastgele
+w132022308,0.1,0,1,0.9888059701492538,Bursa DGKÇ TM,Bursa,en_kritik_eklem
+w132022308,0.25,0,1,0.9888059701492538,Bursa DGKÇ TM,Bursa,en_kritik_eklem
+w132022308,0.5,0,1,0.9888059701492538,Bursa DGKÇ TM,Bursa,en_kritik_eklem
+w132022308,1.0,0,1,0.9888059701492538,Bursa DGKÇ TM,Bursa,en_kritik_eklem
+w132128807,0.1,2,90,0.33675373134328357,Adapazarı-2 TM,Sakarya,en_yuksek_betweenness
+w132128807,0.25,5,146,0.2667910447761194,Adapazarı-2 TM,Sakarya,en_yuksek_betweenness
+w132128807,0.5,6,103,0.3675373134328358,Adapazarı-2 TM,Sakarya,en_yuksek_betweenness
+w132128807,1.0,4,76,0.49720149253731344,Adapazarı-2 TM,Sakarya,en_yuksek_betweenness
+w169679398,0.1,2,164,0.24720149253731344,Kayabaşı 380kV TM,Amasya,en_yuksek_betweenness
+w169679398,0.25,3,103,0.40111940298507465,Kayabaşı 380kV TM,Amasya,en_yuksek_betweenness
+w169679398,0.5,3,135,0.32276119402985076,Kayabaşı 380kV TM,Amasya,en_yuksek_betweenness
+w169679398,1.0,4,114,0.4141791044776119,Kayabaşı 380kV TM,Amasya,en_yuksek_betweenness
+w170655124,0.1,3,109,0.46828358208955223,Kangal TES TM,Sivas,en_yuksek_betweenness
+w170655124,0.25,4,125,0.39738805970149255,Kangal TES TM,Sivas,en_yuksek_betweenness
+w170655124,0.5,4,130,0.43283582089552236,Kangal TES TM,Sivas,en_yuksek_betweenness
+w170655124,1.0,6,112,0.43283582089552236,Kangal TES TM,Sivas,en_yuksek_betweenness
+w173325168,0.1,1,2,0.9878731343283582,Silivri TM,Tekirdağ,en_kritik_eklem
+w173325168,0.25,0,1,0.9888059701492538,Silivri TM,Tekirdağ,en_kritik_eklem
+w173325168,0.5,0,1,0.9888059701492538,Silivri TM,Tekirdağ,en_kritik_eklem
+w173325168,1.0,0,1,0.9888059701492538,Silivri TM,Tekirdağ,en_kritik_eklem
+w174078394,0.1,2,136,0.28544776119402987,Osmanca TM,Düzce,en_yuksek_betweenness+en_kritik_eklem
+w174078394,0.25,5,102,0.3376865671641791,Osmanca TM,Düzce,en_yuksek_betweenness+en_kritik_eklem
+w174078394,0.5,2,74,0.416044776119403,Osmanca TM,Düzce,en_yuksek_betweenness+en_kritik_eklem
+w174078394,1.0,4,65,0.39552238805970147,Osmanca TM,Düzce,en_yuksek_betweenness+en_kritik_eklem
+w175488707,0.1,0,1,0.9850746268656716,Kozan TM,Osmaniye,en_kritik_eklem
+w175488707,0.25,0,1,0.9850746268656716,Kozan TM,Osmaniye,en_kritik_eklem
+w175488707,0.5,0,1,0.9850746268656716,Kozan TM,Osmaniye,en_kritik_eklem
+w175488707,1.0,0,1,0.9850746268656716,Kozan TM,Osmaniye,en_kritik_eklem
+w177818606,0.1,3,120,0.21735074626865672,Erzin TM,Osmaniye,en_yuksek_betweenness
+w177818606,0.25,4,147,0.4039179104477612,Erzin TM,Osmaniye,en_yuksek_betweenness
+w177818606,0.5,4,65,0.6026119402985075,Erzin TM,Osmaniye,en_yuksek_betweenness
+w177818606,1.0,2,24,0.9197761194029851,Erzin TM,Osmaniye,en_yuksek_betweenness
+w180392261,0.1,4,170,0.35261194029850745,Biga TM,Çanakkale,rastgele
+w180392261,0.25,2,20,0.9626865671641791,Biga TM,Çanakkale,rastgele
+w180392261,0.5,1,10,0.9822761194029851,Biga TM,Çanakkale,rastgele
+w180392261,1.0,1,9,0.9832089552238806,Biga TM,Çanakkale,rastgele
+w180552569,0.1,4,57,0.8180970149253731,Balıkesir-2 TM,Balıkesir,en_kritik_eklem
+w180552569,0.25,5,53,0.8498134328358209,Balıkesir-2 TM,Balıkesir,en_kritik_eklem
+w180552569,0.5,2,25,0.9169776119402985,Balıkesir-2 TM,Balıkesir,en_kritik_eklem
+w180552569,1.0,2,19,0.9197761194029851,Balıkesir-2 TM,Balıkesir,en_kritik_eklem
+w180673011,0.1,1,2,0.9981343283582089,TCDD Velimeşe TM,Tekirdağ,rastgele
+w180673011,0.25,0,1,0.9990671641791045,TCDD Velimeşe TM,Tekirdağ,rastgele
+w180673011,0.5,0,1,0.9990671641791045,TCDD Velimeşe TM,Tekirdağ,rastgele
+w180673011,1.0,0,1,0.9990671641791045,TCDD Velimeşe TM,Tekirdağ,rastgele
+w182836220,0.1,0,1,0.9990671641791045,Bergama Düzova RES TM,Manisa,rastgele
+w182836220,0.25,0,1,0.9990671641791045,Bergama Düzova RES TM,Manisa,rastgele
+w182836220,0.5,0,1,0.9990671641791045,Bergama Düzova RES TM,Manisa,rastgele
+w182836220,1.0,0,1,0.9990671641791045,Bergama Düzova RES TM,Manisa,rastgele
+w187664513,0.1,6,50,0.894589552238806,Pancar TM,İzmir,rastgele
+w187664513,0.25,3,27,0.9365671641791045,Pancar TM,İzmir,rastgele
+w187664513,0.5,1,12,0.9794776119402985,Pancar TM,İzmir,rastgele
+w187664513,1.0,1,9,0.9822761194029851,Pancar TM,İzmir,rastgele
+w188115805,0.1,0,1,0.9990671641791045,Kışlaköy TM,Kahramanmaraş,rastgele
+w188115805,0.25,0,1,0.9990671641791045,Kışlaköy TM,Kahramanmaraş,rastgele
+w188115805,0.5,0,1,0.9990671641791045,Kışlaköy TM,Kahramanmaraş,rastgele
+w188115805,1.0,0,1,0.9990671641791045,Kışlaköy TM,Kahramanmaraş,rastgele
+w188443258,0.1,5,46,0.9020522388059702,Küre TM,Kastamonu,en_kritik_eklem
+w188443258,0.25,2,15,0.9645522388059702,Küre TM,Kastamonu,en_kritik_eklem
+w188443258,0.5,1,8,0.9748134328358209,Küre TM,Kastamonu,en_kritik_eklem
+w188443258,1.0,1,5,0.980410447761194,Küre TM,Kastamonu,en_kritik_eklem
+w189674627,0.1,0,1,0.9897388059701493,Orhangazi TM,Yalova,en_kritik_eklem
+w189674627,0.25,0,1,0.9897388059701493,Orhangazi TM,Yalova,en_kritik_eklem
+w189674627,0.5,0,1,0.9897388059701493,Orhangazi TM,Yalova,en_kritik_eklem
+w189674627,1.0,0,1,0.9897388059701493,Orhangazi TM,Yalova,en_kritik_eklem
+w212324457,0.1,0,1,0.9990671641791045,Soma RES 380kV TM,Balıkesir,rastgele
+w212324457,0.25,0,1,0.9990671641791045,Soma RES 380kV TM,Balıkesir,rastgele
+w212324457,0.5,0,1,0.9990671641791045,Soma RES 380kV TM,Balıkesir,rastgele
+w212324457,1.0,0,1,0.9990671641791045,Soma RES 380kV TM,Balıkesir,rastgele
+w232160028,0.1,2,163,0.19309701492537312,Kurşunlu TM,Çankırı,en_yuksek_betweenness
+w232160028,0.25,3,148,0.23973880597014927,Kurşunlu TM,Çankırı,en_yuksek_betweenness
+w232160028,0.5,3,124,0.2789179104477612,Kurşunlu TM,Çankırı,en_yuksek_betweenness
+w232160028,1.0,3,92,0.3787313432835821,Kurşunlu TM,Çankırı,en_yuksek_betweenness
+w234853103,0.1,3,6,0.9785447761194029,Balcı HES TM,Artvin,rastgele
+w234853103,0.25,1,2,0.9944029850746269,Balcı HES TM,Artvin,rastgele
+w234853103,0.5,1,2,0.9944029850746269,Balcı HES TM,Artvin,rastgele
+w234853103,1.0,0,1,0.9990671641791045,Balcı HES TM,Artvin,rastgele
+w275174504,0.1,3,7,0.9860074626865671,ÇİMKO TM,Kahramanmaraş,rastgele
+w275174504,0.25,1,2,0.9981343283582089,ÇİMKO TM,Kahramanmaraş,rastgele
+w275174504,0.5,0,1,0.9990671641791045,ÇİMKO TM,Kahramanmaraş,rastgele
+w275174504,1.0,0,1,0.9990671641791045,ÇİMKO TM,Kahramanmaraş,rastgele
+w304956393,0.1,0,1,0.9990671641791045,Arslanbey OSB TM,Kocaeli,rastgele
+w304956393,0.25,0,1,0.9990671641791045,Arslanbey OSB TM,Kocaeli,rastgele
+w304956393,0.5,0,1,0.9990671641791045,Arslanbey OSB TM,Kocaeli,rastgele
+w304956393,1.0,0,1,0.9990671641791045,Arslanbey OSB TM,Kocaeli,rastgele
+w385475389,0.1,0,1,0.9990671641791045,Sincik Havza TM,Malatya,rastgele
+w385475389,0.25,0,1,0.9990671641791045,Sincik Havza TM,Malatya,rastgele
+w385475389,0.5,0,1,0.9990671641791045,Sincik Havza TM,Malatya,rastgele
+w385475389,1.0,0,1,0.9990671641791045,Sincik Havza TM,Malatya,rastgele
+w397420970,0.1,3,39,0.9085820895522388,TM,Tokat,rastgele
+w397420970,0.25,3,38,0.9188432835820896,TM,Tokat,rastgele
+w397420970,0.5,3,26,0.9375,TM,Tokat,rastgele
+w397420970,1.0,2,8,0.9757462686567164,TM,Tokat,rastgele
+w482385150,0.1,0,1,0.9990671641791045,Uluborlu RES TM,Isparta,rastgele
+w482385150,0.25,0,1,0.9990671641791045,Uluborlu RES TM,Isparta,rastgele
+w482385150,0.5,0,1,0.9990671641791045,Uluborlu RES TM,Isparta,rastgele
+w482385150,1.0,0,1,0.9990671641791045,Uluborlu RES TM,Isparta,rastgele
+w687802661,0.1,4,182,0.21641791044776118,Bağıştaş 380 TM,Erzincan,rastgele
+w687802661,0.25,5,95,0.7826492537313433,Bağıştaş 380 TM,Erzincan,rastgele
+w687802661,0.5,4,43,0.9029850746268657,Bağıştaş 380 TM,Erzincan,rastgele
+w687802661,1.0,4,19,0.9673507462686567,Bağıştaş 380 TM,Erzincan,rastgele
+w709224922,0.1,6,60,0.8619402985074627,Tatvan 380kV TM,Bitlis,rastgele
+w709224922,0.25,6,48,0.8805970149253731,Tatvan 380kV TM,Bitlis,rastgele
+w709224922,0.5,2,6,0.9925373134328358,Tatvan 380kV TM,Bitlis,rastgele
+w709224922,1.0,1,3,0.996268656716418,Tatvan 380kV TM,Bitlis,rastgele
+w731997887,0.1,4,137,0.38619402985074625,Uludağ GİS Transformatör Merkezi,Bursa,en_yuksek_betweenness
+w731997887,0.25,4,170,0.28638059701492535,Uludağ GİS Transformatör Merkezi,Bursa,en_yuksek_betweenness
+w731997887,0.5,6,140,0.36100746268656714,Uludağ GİS Transformatör Merkezi,Bursa,en_yuksek_betweenness
+w731997887,1.0,6,102,0.439365671641791,Uludağ GİS Transformatör Merkezi,Bursa,en_yuksek_betweenness
+w849498996,0.1,0,1,0.9860074626865671,Kozan Havza TM,Adana,en_kritik_eklem
+w849498996,0.25,0,1,0.9860074626865671,Kozan Havza TM,Adana,en_kritik_eklem
+w849498996,0.5,0,1,0.9860074626865671,Kozan Havza TM,Adana,en_kritik_eklem
+w849498996,1.0,0,1,0.9860074626865671,Kozan Havza TM,Adana,en_kritik_eklem
+w906233622,0.1,7,193,0.2593283582089552,Kangal Tes TM,Sivas,rastgele
+w906233622,0.25,2,13,0.9729477611940298,Kangal Tes TM,Sivas,rastgele
+w906233622,0.5,2,9,0.9813432835820896,Kangal Tes TM,Sivas,rastgele
+w906233622,1.0,2,9,0.9813432835820896,Kangal Tes TM,Sivas,rastgele
+w966899426,0.1,4,150,0.25466417910447764,Aktaş 4701 TM,İstanbul,en_yuksek_betweenness
+w966899426,0.25,5,154,0.2658582089552239,Aktaş 4701 TM,İstanbul,en_yuksek_betweenness
+w966899426,0.5,3,22,0.8507462686567164,Aktaş 4701 TM,İstanbul,en_yuksek_betweenness
+w966899426,1.0,1,13,0.8507462686567164,Aktaş 4701 TM,İstanbul,en_yuksek_betweenness

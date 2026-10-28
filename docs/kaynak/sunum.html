@@ -1,0 +1,181 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<title>Türkiye İletim Şebekesi — Sunum</title>
+<link rel="stylesheet" href="ortak.css">
+<link rel="stylesheet" href="sunum.css">
+</head>
+<body>
+
+<!-- 1 -->
+<section class="slayt kapak">
+  <div class="ust"><span>Sosyal Ağ Analizi · Dönem ödevi</span><span class="no">1/10</span></div>
+  <h1>Türkiye şebekesi radyal uçlarda bölünür, Marmara–Anadolu koridorundan çöker</h1>
+  <p class="alt">Türkiye elektrik iletim altyapısında tek hata noktaları ve zincirleme arıza simülasyonu</p>
+  <div class="imza">Said Özen · 2516016014<br>MCBÜ Manisa Teknik Bilimler MYO · Büyük Veri Analistliği<br>Öğr. Gör. Osman Can Çetlenbik · 30 Ekim 2026</div>
+  <div class="serit"></div>
+</section>
+
+<!-- 2 -->
+<section class="slayt">
+  <div class="ust"><span>Soru</span><span class="no">2/10</span></div>
+  <h1>Bir trafo merkezinin kaybı iki farklı yolla büyük kesintiye dönüşebilir</h1>
+  <div class="govde iki-esit">
+    <div class="not">
+      <p><b>1. Bölünme (yapısal).</b> Merkez bir bölgeyi şebekeye bağlayan tek yolsa, o merkez düşünce bölge karanlıkta kalır.</p>
+      <p><b>2. Zincirleme arıza (dinamik).</b> Düşen merkezin yükü komşulara biner; onlar da kapasitesini aşarsa arıza dalga dalga yayılır. 31 Mart 2015 Türkiye geneli kesintisi bu türdendi.</p>
+      <p style="margin-top:10px"><b>Sorular:</b> Hangi trafo merkezleri tek hata noktası? Basit bir zincirleme arıza nasıl yayılır?</p>
+    </div>
+    <div class="not">
+      <div class="akis">
+        <span>Soru</span><span>Veri ve ağ</span><span>Temel yapı</span><span>Topluluklar</span>
+        <span class="aktif">Eklem noktaları</span><span class="aktif">Kaskad simülasyonu</span><span>Cevap ve sınırlar</span>
+      </div>
+      <p style="color:var(--soluk);font-size:17px">Düğüm: trafo merkezi · Kenar: iletim hattı · Kaynak: OpenStreetMap</p>
+    </div>
+  </div>
+</section>
+
+<!-- 3 -->
+<section class="slayt">
+  <div class="ust"><span>Veri ve ağ</span><span class="no">3/10</span></div>
+  <h1>OpenStreetMap'teki 4.698 iletim hattından 1.193 trafo merkezli bir ağ kuruldu</h1>
+  <div class="govde iki">
+    <img src="../../figures/harita_gerilim.png" alt="Ağ haritası">
+    <div class="not" style="font-size:17px">
+      <p><b>Toplama:</b> Overpass API, script ile; hatlar 12 karoda (tek sorgu zaman aşımına uğradı).</p>
+      <p><b>Düğüm:</b> trafo merkezi (küçük dağıtım köşkleri hariç).</p>
+      <p><b>Kenar:</b> ≥ 66 kV ya da gerilimi etiketsiz hat. Hat ucu, trafo alanına ya da 300 m yakınına düşüyorsa o merkeze bağlandı.</p>
+      <p><b>Yönsüz</b> (AC'de güç iki yöne akar), <b>ağırlıksız</b> (OSM'de hat kapasitesi yok).</p>
+      <p><b>Sonuç:</b> 1.193 düğüm, 1.543 kenar; ana parça 1.072 merkez (%90).</p>
+    </div>
+  </div>
+</section>
+
+<!-- 4 -->
+<section class="slayt">
+  <div class="ust"><span>Temel yapı</span><span class="no">4/10</span></div>
+  <h1>Şebeke seyrek ve uzun yollu: iki merkez arasında ortalama 12,7 hat var</h1>
+  <div class="govde iki-esit" style="align-items:start">
+    <table class="kucuk">
+      <tr><th>Ölçü</th><th class="s">Ağ</th><th class="s">Rastgele*</th><th>Anlamı</th></tr>
+      <tr><td>Ortalama derece</td><td class="s">2,6</td><td class="s">2,7</td><td>Her merkez 2–3 hatla bağlı; %29'u tek hatlı uç</td></tr>
+      <tr><td>Ort. en kısa yol</td><td class="s">12,7</td><td class="s">6,9</td><td>Coğrafya kısıtlıyor; küçük dünya değil (z = 91)</td></tr>
+      <tr><td>Çap</td><td class="s">35</td><td class="s">—</td><td>En uzak iki merkez 35 hat uzakta</td></tr>
+      <tr><td>Kümelenme</td><td class="s">0,204</td><td class="s">0,002</td><td>Halkalar enerjiye alternatif yol açar (z = 142)</td></tr>
+      <tr><td>Derece benzeşimi</td><td class="s">−0,03</td><td class="s">0,00</td><td>Büyükler büyüklerle bağlanmıyor (z = −0,9)</td></tr>
+    </table>
+    <div>
+      <img src="../../figures/derece_dagilimi.png" alt="Derece dağılımı">
+      <p class="etiket">Derece dağılımı üstel: kuvvet yasası üstel ve log-normale karşı üstün değil (R &lt; 0, p = 0,72 ve 0,08). Şebeke birkaç dev merkeze değil, uzun hat zincirlerine dayanıyor.<br>* 100 configuration model ağının ortalaması</p>
+    </div>
+  </div>
+</section>
+
+<!-- 5 -->
+<section class="slayt">
+  <div class="ust"><span>Merkeziyet</span><span class="no">5/10</span></div>
+  <h1>Tüm en kısa yolların %44'ü Düzce'deki Osmanca trafo merkezinden geçiyor</h1>
+  <div class="govde iki-esit" style="align-items:start">
+    <table class="kucuk">
+      <tr><th>#</th><th>Betweenness</th><th class="s">Değer</th><th>Derece</th></tr>
+      <tr><td>1</td><td>Osmanca (Düzce)</td><td class="s">0,44</td><td>Aliağa-2 (15)</td></tr>
+      <tr><td>2</td><td>Kurşunlu (Çankırı)</td><td class="s">0,37</td><td>Adapazarı-2 (14)</td></tr>
+      <tr><td>3</td><td>Kayabaşı (Amasya)</td><td class="s">0,35</td><td>Seydişehir (13)</td></tr>
+      <tr><td>4</td><td>Adapazarı-2</td><td class="s">0,33</td><td>Afşin-Elbistan A (12)</td></tr>
+      <tr><td>5</td><td>Uludağ GİS (Bursa)</td><td class="s">0,26</td><td>Osmanca (12)</td></tr>
+    </table>
+    <div class="not">
+      <p>İlk üç merkez <b>aynı 380 kV koridorunda</b>: Marmara'yı Orta Karadeniz ve Doğu Anadolu'ya bağlıyor. Batı–doğu yollarının çoğu buradan akıyor.</p>
+      <p><b>Derece</b> başka şey söylüyor: en çok hatlı merkezler santral ve sanayi bölgeleri (Aliağa, Seydişehir, Afşin-Elbistan).</p>
+      <p><b>Spearman:</b> derece–PageRank 0,96, derece–betweenness 0,84; closeness–eigenvector 0,93 ama closeness–derece yalnızca 0,31. Çok hatlı olmak, şebekenin ortasında olmak demek değil.</p>
+    </div>
+  </div>
+</section>
+
+<!-- 6 -->
+<section class="slayt">
+  <div class="ust"><span>Topluluklar</span><span class="no">6/10</span></div>
+  <h1>Şebeke 25 bölgesel topluluğa ayrılıyor; hatların %94'ü bölge içinde kalıyor</h1>
+  <div class="govde iki">
+    <img src="../../figures/topluluklar.png" alt="Topluluk haritası">
+    <div class="not" style="font-size:17px">
+      <p><b>Louvain</b> ve <b>Leiden</b>: 25 topluluk, Q = 0,890. İki yöntem uyumlu: NMI = 0,92.</p>
+      <p><b>Kararlılık:</b> 10 tohumla NMI = 0,90 ± 0,02, ARI = 0,78.</p>
+      <p><b>Adlar:</b> Trakya–İstanbul, Doğu Marmara, Konya–Antalya, Orta Anadolu–Karadeniz (Kurşunlu–Kayabaşı koridoru), Afşin-Elbistan–Keban…</p>
+      <p><b>Null model:</b> aynı derecelerle rastgele ağ bile Q = 0,72 alıyor; bizimki 0,89 → z = 45. Yani modülerlik rastlantı değil.</p>
+    </div>
+  </div>
+</section>
+
+<!-- 7 -->
+<section class="slayt">
+  <div class="ust"><span>İleri yöntem</span><span class="no">7/10</span></div>
+  <h1>Eklem noktası ağı böler; kaskad ise yükü taşıyan merkezden başlar</h1>
+  <div class="govde" style="grid-template-rows: auto auto">
+    <img src="../../figures/yontem_ornek.png" alt="Yöntem örneği" style="max-height:330px">
+    <div class="not" style="grid-template-columns:1fr 1fr;display:grid;gap:30px;font-size:17px">
+      <p><b>Eklem noktası / köprü:</b> kaldırınca ağı parçalayan düğüm / kenar. Her birini tek tek kaldırıp ana şebekeden kopan merkezleri saydım.</p>
+      <p><b>Motter–Lai kaskadı:</b> yük L = geçen en kısa yol sayısı; kapasite = (1+α)·L. Bir merkez düşer, yük yeniden hesaplanır, aşanlar düşer, aşan kalmayınca durur. Ölçü G = ayakta kalan en büyük parça.</p>
+    </div>
+  </div>
+</section>
+
+<!-- 8 -->
+<section class="slayt">
+  <div class="ust"><span>Cevap 1 · Tek hata noktaları</span><span class="no">8/10</span></div>
+  <h1>326 merkez tek hata noktası, ama yalnızca 14'ü 10'dan fazla merkezi koparıyor</h1>
+  <div class="govde iki">
+    <img src="../../figures/tek_hata_noktalari.png" alt="Tek hata noktaları">
+    <div class="not" style="font-size:17px">
+      <div><div class="sayi">%30 <small>eklem noktası</small></div><div class="etiket">367 köprü hat (%25)</div></div>
+      <p>En kritikleri: <b>Kozan</b> (15), <b>Balıkesir-2</b> (12), <b>Silivri</b>, <b>Küre</b>, <b>Bursa DGKÇ</b> (11).</p>
+      <p>Neden bu kadar çok? Merkezlerin yalnızca %68'i bir halka üzerinde; gerisi ağaç gibi dallanan radyal uçlar.</p>
+      <p>Bunlar bir <b>bölgeyi</b> karanlıkta bırakır, ülke şebekesini bozmaz.</p>
+    </div>
+  </div>
+</section>
+
+<!-- 9 -->
+<section class="slayt">
+  <div class="ust"><span>Cevap 2 · Zincirleme arıza</span><span class="no">9/10</span></div>
+  <h1>Osmanca düşerse yük güneye kayıyor ve 102 merkez zincirleme devre dışı kalıyor</h1>
+  <div class="govde iki">
+    <img src="../../figures/kaskad_dalgalar.png" alt="Osmanca kaskadı">
+    <div class="not" style="font-size:17px">
+      <p><b>1. dalga 67, 2. dalga 31 merkez</b>: Erzin, Varsak, Yatağan, Seydişehir… güney koridoru taşıyamıyor.</p>
+      <p>Düşen %10 ama ayakta kalan en büyük parça <b>%34</b>: şebeke bölgesel adalara bölünüyor.</p>
+      <table class="kucuk" style="font-size:15px">
+        <tr><th>Başlangıç (α = 0,25)</th><th class="s">G</th></tr>
+        <tr><td>En yüklü 10 merkez</td><td class="s">0,32</td></tr>
+        <tr><td>En kritik 10 eklem noktası</td><td class="s">0,84</td></tr>
+        <tr><td>Rastgele 20 merkez</td><td class="s">0,97</td></tr>
+      </table>
+      <p class="etiket">Canlı gösterim: etkileşimli ağda Osmanca → "Arızayı başlat"</p>
+    </div>
+  </div>
+</section>
+
+<!-- 10 -->
+<section class="slayt">
+  <div class="ust"><span>Cevap ve sınırlar</span><span class="no">10/10</span></div>
+  <h1>Bölgeyi karartan merkez ile ülkeyi çökerten merkez farklı, ama OSM eksik ve model basit</h1>
+  <div class="govde iki-esit" style="align-items:start">
+    <div class="not">
+      <p><b>Cevap.</b> Tek hata noktaları radyal kolların başında (Kozan, Balıkesir-2, Silivri, Küre). Zincirleme arıza ise Osmanca–Kurşunlu–Kayabaşı koridorundan başlıyor.</p>
+      <p><b>Ne yapılabilir?</b> Radyal kollara ikinci hat → eklem noktası azalır. Batı–doğu arasına paralel güzergâh → kaskad riski azalır.</p>
+    </div>
+    <div class="not" style="font-size:17px">
+      <p><b>Sınırlar</b></p>
+      <p>• OSM gönüllü verisi: hatların %26'sı gerilimsiz, 438 hat kümesi hiçbir trafoya değmiyor, 38 kopuk parça. Eksik hat, halkayı ağaç gibi gösterir → eklem sayısı abartılmış olabilir.</p>
+      <p>• Motter–Lai, gerçek AC güç akışı değil; koruma sistemleri yok. Merkezleri sıralamak için kullanılmalı.</p>
+      <p>• Ağırlıksız; il ataması en yakın il merkezine göre.</p>
+      <p>• Bulgular topolojik; nedensellik iddiası yok.</p>
+    </div>
+  </div>
+  <div class="kaynakca">© OpenStreetMap katkıcıları (ODbL) · Motter &amp; Lai (2002) · Blondel vd. (2008) · Traag vd. (2019) · Albert vd. (2004) · Kod ve veri: GitHub · Yapay zekâ desteği README'de beyan edildi.</div>
+</section>
+
+</body>
+</html>

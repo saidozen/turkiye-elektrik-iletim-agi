@@ -1,0 +1,196 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<title>Türkiye Elektrik İletim Altyapısı — Ağ Analizi Raporu</title>
+<link rel="stylesheet" href="ortak.css">
+<style>
+@page { size: A4; margin: 17mm 17mm 18mm;
+  @bottom-right { content: counter(page); font: 9pt "TeX Gyre Heros"; color: #5b6875; } }
+body { font: 10.4pt/1.42 var(--f-govde); hyphens: auto; }
+h1 { font: 700 23pt/1.05 var(--f-baslik); margin: 0 0 4pt; text-wrap: balance; }
+h2 { font: 700 14pt/1.15 var(--f-baslik); margin: 13pt 0 4pt; text-transform: uppercase; letter-spacing: .02em; break-after: avoid; }
+h2 .no { color: var(--vurgu); margin-right: 6pt; }
+h3 { font: 700 11.2pt/1.2 var(--f-arayuz); margin: 9pt 0 2pt; break-after: avoid; }
+p { margin: 0 0 5pt; }
+.kunye { font: 9.5pt/1.45 var(--f-arayuz); color: var(--soluk); border-top: 1.5pt solid var(--metin); border-bottom: .5pt solid var(--cizgi); padding: 5pt 0; margin: 6pt 0 10pt; display: grid; grid-template-columns: 1fr 1fr; gap: 0 18pt; }
+.kunye b { color: var(--metin); }
+.ozet { background: var(--zemin); padding: 8pt 11pt; border-left: 3pt solid var(--vurgu); margin: 0 0 8pt; }
+.ozet p { margin: 0 0 3pt; }
+figure { margin: 6pt 0 8pt; break-inside: avoid; }
+figcaption { font: 8.6pt/1.35 var(--f-arayuz); color: var(--soluk); margin-top: 3pt; }
+figcaption b { color: var(--metin); }
+table { font-size: 8.6pt; margin: 4pt 0 8pt; break-inside: avoid; }
+.yorum td:last-child { font-family: var(--f-govde); font-size: 9.2pt; color: var(--metin); }
+ul, ol { margin: 0 0 5pt; padding-left: 15pt; }
+li { margin-bottom: 2pt; }
+.kaynakca { font-size: 8.8pt; line-height: 1.35; }
+.kaynakca li { margin-bottom: 3pt; }
+.yan { display: grid; grid-template-columns: 1fr 1fr; gap: 10pt; align-items: start; }
+.vurgu { color: var(--vurgu); font-weight: 700; }
+code { font: 8.6pt var(--f-veri); }
+.sayfa-kir { break-before: page; }
+</style>
+</head>
+<body>
+
+<h1>Türkiye Elektrik İletim Altyapısında Tek Hata Noktaları ve Zincirleme Arıza</h1>
+<div class="kunye">
+  <div><b>Said Özen</b> · 2516016014<br>Büyük Veri Analistliği, 2. sınıf<br>Manisa Celal Bayar Üniversitesi, Manisa Teknik Bilimler MYO</div>
+  <div><b>Sosyal Ağ Analizi</b> dönem ödevi<br>Öğr. Gör. Osman Can Çetlenbik<br>2026–2027 Güz · Teslim: 30 Ekim 2026</div>
+</div>
+
+<div class="ozet">
+  <p><b>Soru.</b> Türkiye iletim şebekesinde hangi trafo merkezleri tek hata noktasıdır ve basit bir zincirleme arıza nasıl yayılır?</p>
+  <p><b>Veri.</b> OpenStreetMap'ten 4.243 trafo merkezi ve 4.698 iletim hattı indirildi; bunlardan 1.193 trafo merkezli, 1.543 bağlantılı bir ağ kuruldu (en büyük bağlı parça 1.072 merkez).</p>
+  <p><b>Cevap.</b> Merkezlerin %30'u (326) eklem noktasıdır ama yalnızca 14'ü 10 veya daha fazla merkezi koparır; bunlar Çukurova, Trakya, Batı Karadeniz ve Antalya'daki radyal uçları besleyen merkezlerdir. Zincirleme arıza ise başka merkezlerden başlar: Marmara'yı Anadolu'ya bağlayan Osmanca–Kurşunlu–Kayabaşı 380 kV koridorundaki merkezlerden biri düştüğünde, yük yeniden dağıtım modelinde (%25 yedek kapasite) şebekenin ayakta kalan en büyük parçası ortalama %32'ye iner; rastgele bir merkezin kaybında bu oran %97'dir.</p>
+</div>
+
+<h2><span class="no">1</span>Giriş ve araştırma sorusu</h2>
+<p>Elektrik iletim şebekesi, santrallerde üretilen enerjiyi 154 ve 380 kV gerilimle trafo merkezleri arasında taşır. Şebekenin bir bölümünün kaybı iki farklı yolla büyük kesintiye dönüşebilir. Birincisi <i>yapısal</i>dır: bir merkez ya da hat, bir bölgeyi şebekeye bağlayan tek yol ise o noktanın kaybı bölgeyi doğrudan karanlıkta bırakır. İkincisi <i>dinamik</i>tir: düşen bir merkezin taşıdığı yük komşu merkezlere biner, onlar da kapasitelerini aşarsa arıza dalga dalga yayılır. 2015'teki Türkiye geneli kesinti, ikinci türün ülke ölçeğinde nasıl büyüyebileceğini göstermiştir.</p>
+<p>Bu çalışma iki soruyu ağ analiziyle cevaplar: <b>(1)</b> Hangi trafo merkezleri tek hata noktasıdır, yani düştüğünde ağı parçalara ayırır? <b>(2)</b> Basit bir yük yeniden dağıtım modelinde tek bir merkezin kaybı şebekeye nasıl yayılır? Ayrıca ağın genel yapısı (derece dağılımı, merkeziyet, topluluklar) incelenir ve bulguların rastlantı olup olmadığı null modellerle sınanır.</p>
+
+<h2><span class="no">2</span>Veri ve ağ kurma</h2>
+<p><b>Kaynak.</b> Veri, OpenStreetMap (OSM) Overpass API'den <code>src/veri_topla.py</code> ve <code>src/hatlari_parcali_indir.py</code> betikleriyle 28 Ekim 2026'da indirildi (lisans: ODbL 1.0). Trafo merkezleri (<code>power=substation</code>) tek sorguyla alındı. Hatlar (<code>power=line</code>) tek sorguda sunucu zaman aşımına uğradığı için Türkiye 3×4 = 12 karoya bölünerek indirildi ve tekrar eden nesneler ayıklandı. Ham veriden ağa giden her adım <code>src/ag_kur.py</code> içindedir ve tekrar çalıştırılabilir.</p>
+<p><b>Düğüm ve kenar.</b> Düğüm bir trafo merkezidir; küçük dağıtım köşkleri (<code>minor_distribution</code>) çıkarıldı. Kenar, iki merkezi birleştiren iletim hattıdır. Yalnızca 66 kV ve üzeri ya da gerilim etiketi olmayan hatlar alındı; Türkiye'de 34,5 kV ve altı dağıtım seviyesidir. Etiketsiz hatlar (%26) dışarıda bırakılsaydı ağ yapay olarak parçalanacaktı. Ağ <b>yönsüz</b> kuruldu çünkü AC şebekede güç iki yönde de akabilir. Hat kapasitesi OSM'de bulunmadığı için analizler <b>ağırlıksızdır</b>; hat uzunluğu ve gerilim bilgi olarak saklandı.</p>
+<p><b>Eşleme.</b> OSM'de hatlar trafo alanının içinde biter ama çoğu zaman trafo nesnesiyle ortak nokta paylaşmaz. Bu yüzden her hat ucu, sınır kutusunun içindeyse (50 m pay) ya da merkezine 300 m'den yakınsa o trafo merkezine eşlendi. Parçalı çizilmiş hatlar ve T-branşmanlar ortak direklerde birleştirildi; bir branşman dörtten fazla merkeze değiyorsa, sahte kenar üretmemek için bu merkezler hat uzunluğuna göre en küçük kapsayan ağaçla bağlandı. Aynı iki merkez arasındaki paralel hatlar tek kenarda toplandı.</p>
+<table>
+  <tr><th>Adım</th><th class="s">Sayı</th><th>Not</th></tr>
+  <tr><td>OSM trafo merkezi (minor_distribution hariç)</td><td class="s">4.243</td><td>Çoğu dağıtım trafosu; hatla bağlanmayanlar ağa girmez</td></tr>
+  <tr><td>OSM iletim hattı (way)</td><td class="s">4.698</td><td>1.221'inde gerilim etiketi yok; 28'i 66 kV altı, elendi</td></tr>
+  <tr><td>Bir trafo merkezine eşlenen hat ucu</td><td class="s">3.986 / 7.168</td><td>Kalanlar başka hatla birleşen ara noktalar ya da boşta uçlar</td></tr>
+  <tr><td>Hiçbir trafoya değmeyen hat kümesi</td><td class="s">438</td><td>OSM eksikliğinin göstergesi</td></tr>
+  <tr><td><b>Ağ: düğüm / kenar</b></td><td class="s"><b>1.193 / 1.543</b></td><td>Kenar listesi <code>data/processed/edges.csv</code>, GraphML</td></tr>
+  <tr><td><b>En büyük bağlı bileşen</b></td><td class="s"><b>1.072 / 1.449</b></td><td>Merkeziyet, topluluk, null model ve kaskad bunun üzerinde</td></tr>
+</table>
+<p>Düğümlerin 1.046'sının işletmecisi TEİAŞ'tır; kenarların 1.172'si 154 kV, 294'ü 380/400 kV'tur. Her düğüme en yakın il merkezi atandı ("yakın il"); il sınırı verisi kullanılmadığı için sınıra yakın merkezler komşu ile etiketlenebilir. Tüm sütunların anlamı <code>docs/veri_sozlugu.md</code> dosyasındadır. Ağ 500 düğüm eşiğinin üzerinde olduğu için örnekleme yapılmadı; tüm ölçüler tam hesaplandı.</p>
+
+<figure>
+  <img src="../../figures/harita_gerilim.png" alt="Türkiye iletim ağı haritası">
+  <figcaption><b>Şekil 1.</b> Kurulan ağ. Düğümler trafo merkezlerinin coğrafi konumunda; kırmızı 380/400 kV, turuncu 154 kV hatlar. Düğüm boyu bağlantı sayısıyla orantılı.</figcaption>
+</figure>
+
+<h2><span class="no">3</span>Yöntem</h2>
+<p><b>Temel ölçüler</b> NetworkX 3.7 ile hesaplandı. Derece dağılımına <code>powerlaw</code> paketiyle (Alstott vd., 2014) kuvvet yasası uyduruldu ve üstel ile log-normal dağılımla olabilirlik oranı testiyle karşılaştırıldı. Merkeziyet için derece, betweenness, closeness, eigenvector ve PageRank hesaplandı; ölçüler arası ilişki Spearman sıra korelasyonuyla ölçüldü. <b>Topluluklar</b> Louvain (Blondel vd., 2008) ve Leiden (Traag vd., 2019) ile bulundu; kararlılık için her algoritma 10 farklı rastgele tohumla çalıştırılıp bölümlemeler arası NMI ve ARI hesaplandı. <b>Null model</b> olarak aynı derece dizisine sahip 100 configuration model ağı ve aynı düğüm/kenar sayısına sahip 100 Erdős–Rényi ağı üretildi; z = (gözlem − null ortalama) / null standart sapma.</p>
+<p><b>İleri yöntem 1: eklem noktaları ve köprüler.</b> Eklem noktası, kaldırıldığında bağlı bir ağı birden fazla parçaya ayıran düğümdür; köprü aynı özelliğe sahip kenardır (Hopcroft ve Tarjan, 1973). Her eklem noktası tek tek kaldırılıp ana şebekeden kopan merkez sayısı ölçüldü; bu sayı "o noktanın kaybı kaç merkezi karanlıkta bırakır?" sorusunun topolojik cevabıdır.</p>
+<p><b>İleri yöntem 2: yük yeniden dağıtımıyla kaskad.</b> Motter ve Lai (2002) modelinde enerjinin en kısa yollardan aktığı varsayılır. Bir merkezin yükü L<sub>i</sub>, ondan geçen en kısa yol sayısıdır (normalize edilmemiş betweenness). Kapasite başlangıç yükünün belirli bir payı fazlasıdır: C<sub>i</sub> = (1 + α) · L<sub>i</sub>(0). Bir merkez düşürülür, yükler kalan ağda yeniden hesaplanır, kapasitesini aşan merkezler de düşer ("dalga") ve bu, aşan kalmayana kadar sürer. Sonuç, kaskad sonrası en büyük bağlı parçanın başlangıç ağına oranı G ile ölçülür. Model, α ∈ {0,10; 0,25; 0,50; 1,00} için en yüklü 10 merkezden, en kritik 10 eklem noktasından ve rastgele seçilen 20 merkezden başlatıldı (160 simülasyon). Tüm betweenness değerleri örneklemesiz hesaplandığından sonuçlar deterministiktir; rastgele seçimler tohum 42 ile sabittir. Şekil 2 yöntemi 10 düğümlük bir örnekle gösterir.</p>
+<figure>
+  <img src="../../figures/yontem_ornek.png" alt="Yöntem örneği">
+  <figcaption><b>Şekil 2.</b> Küçük örnek. (1) D ve G eklem noktası, D–G ve G–H köprüdür. (2) Her düğümün yükü. (3) C düşünce A'dan doğuya giden yollar B–I–J–E üzerinden dolaşır; B, I, J ve E kapasitelerini aşar ve ikinci dalgada düşer. C bir eklem noktası olmadığı hâlde kaybı zincirleme arızayı başlatır.</figcaption>
+</figure>
+
+<h2><span class="no">4</span>Bulgular</h2>
+<h3>4.1 Temel yapı</h3>
+<table class="yorum">
+  <tr><th>Ölçü</th><th class="s">Değer</th><th>Bu ağda ne anlama geliyor?</th></tr>
+  <tr><td>Yoğunluk</td><td class="s">0,0022</td><td>Olası merkez çiftlerinin binde 2'si doğrudan bağlı. Hat yapmak pahalı olduğu için her merkez yalnızca yakınındaki birkaç merkeze bağlanır.</td></tr>
+  <tr><td>Ortalama derece</td><td class="s">2,59</td><td>Bir trafo merkezi ortalama 2–3 hatla şebekeye bağlı; merkezlerin %29'u tek hatla bağlı uç (radyal) merkezdir.</td></tr>
+  <tr><td>Bileşen sayısı</td><td class="s">39</td><td>Ana parça merkezlerin %90'ını içerir. Kalan 38 küçük parça (2–13 merkez) gerçekte büyük olasılıkla bağlıdır; OSM'de bağlantı hattı çizilmemiştir.</td></tr>
+  <tr><td>Ortalama en kısa yol / çap</td><td class="s">12,7 / 35</td><td>İki merkez arasında ortalama 12,7 hat atlanır; en uzak iki merkez 35 adım uzaktadır. Aynı derece dizisine sahip rastgele ağda bu 6,9'dur: şebeke coğrafyaya bağlı olduğu için "küçük dünya" değildir.</td></tr>
+  <tr><td>Kümelenme katsayısı</td><td class="s">0,204</td><td>Bir merkezin iki komşusu %20 olasılıkla birbirine de bağlıdır. Bu üçgenler, bir hat kesildiğinde enerjinin dolaşabileceği halkalardır (rastgele ağda %0,2).</td></tr>
+  <tr><td>Derece benzeşimi</td><td class="s">−0,027</td><td>Büyük merkezler ne birbirine ne küçük merkezlere eğilimli; z = −0,9 ile rastgele ağdan farksız.</td></tr>
+</table>
+<p>Derece dağılımı (Şekil 3) sağa çarpık ama ağır kuyruklu değildir: en yüksek derece 15'tir (Aliağa-2). Kuvvet yasası k ≥ 4 için α = 3,80 verse de üstel dağılıma (R = −0,35, p = 0,72) ve log-normal dağılıma (R = −1,77, p = 0,08) karşı üstün değildir; R'nin negatif işareti iki alternatifin de en az kuvvet yasası kadar iyi uyduğunu gösterir. Bu, Avrupa ve Kuzey Amerika şebekeleri için bulunan üstel derece dağılımıyla uyumludur (Albert vd., 2004; Solé vd., 2008): iletim şebekesi birkaç dev merkeze (hub) dayanmaz, yükü uzun hat zincirleri boyunca taşır.</p>
+<figure>
+  <img src="../../figures/derece_dagilimi.png" alt="Derece dağılımı">
+  <figcaption><b>Şekil 3.</b> Derece dağılımı ve log-log tamamlayıcı dağılım (CCDF). Kesikli çizgi kuvvet yasası uyumu, noktalı çizgi üstel alternatif.</figcaption>
+</figure>
+
+<h3>4.2 Merkeziyet</h3>
+<table>
+  <tr><th>#</th><th>Derece</th><th>Betweenness</th><th>Closeness</th><th>Eigenvector</th></tr>
+  <tr><td>1</td><td>Aliağa-2 (15)</td><td>Osmanca, Düzce (0,44)</td><td>Osmanca</td><td>Adapazarı-2</td></tr>
+  <tr><td>2</td><td>Adapazarı-2 (14)</td><td>Kurşunlu, Çankırı (0,37)</td><td>Kurşunlu</td><td>Osmanca</td></tr>
+  <tr><td>3</td><td>Seydişehir (13)</td><td>Kayabaşı, Amasya (0,35)</td><td>Kayabaşı 380 kV</td><td>Tepeören</td></tr>
+  <tr><td>4</td><td>Afşin-Elbistan A (12)</td><td>Adapazarı-2 (0,33)</td><td>Adapazarı-2</td><td>Uludağ GİS</td></tr>
+  <tr><td>5</td><td>Osmanca (12)</td><td>Uludağ GİS, Bursa (0,26)</td><td>DEÇEKO, Sivas</td><td>Kocaeli TM</td></tr>
+  <tr><td>6</td><td>Diyarbakır-3 (12)</td><td>Soma-B TES (0,22)</td><td>Reşadiye</td><td>Kocaeli 380 TM</td></tr>
+  <tr><td>7</td><td>Balıkesir-2 (12)</td><td>Aktaş 4701, İstanbul (0,21)</td><td>Uludağ GİS</td><td>Afşin-Elbistan A</td></tr>
+  <tr><td>8</td><td>Kayabaşı 380 kV (11)</td><td>Erzin, Osmaniye (0,20)</td><td>Kangal TES</td><td>Adapazarı-1 DGKÇ</td></tr>
+  <tr><td>9</td><td>Tepeören (11)</td><td>Kangal TES (0,19)</td><td>Bağlum, Ankara</td><td>(adsız), Kocaeli</td></tr>
+  <tr><td>10</td><td>Atatürk HES (10)</td><td>DEÇEKO, Sivas (0,19)</td><td>Keban HES</td><td>Bursa DGKÇS</td></tr>
+</table>
+<p><b>Derece</b> büyük santral ve sanayi bölgelerinin (Aliağa, Seydişehir alüminyum, Afşin-Elbistan) çok hatla bağlandığını gösterir. <b>Betweenness</b> daha keskin bir tablo çizer: tüm merkez çiftleri arasındaki en kısa yolların %44'ü Osmanca'dan, %37'si Kurşunlu'dan, %35'i Kayabaşı'ndan geçer. Bu üç merkez, Marmara'yı Orta Karadeniz ve Doğu Anadolu'ya bağlayan 380 kV koridorunun üzerindedir; batı ile doğu arasındaki yolların çoğu bu koridordan akar. <b>Closeness</b> en yüksek değerleri yine bu koridora ve İç Anadolu'ya verir; bu merkezler şebekenin "ortasında" olduğu için her yere en az adımla ulaşır. <b>Eigenvector</b> ise yoğun bağlı Kocaeli–Sakarya–Bursa sanayi çekirdeğini öne çıkarır, çünkü iyi bağlı merkezlere bağlı olmayı ödüllendirir. Spearman korelasyonları iki aile ortaya koyar: derece, PageRank ve betweenness birbirine yakındır (ρ = 0,84–0,96); closeness ve eigenvector ise birbirine yakın (ρ = 0,93) ama dereceden uzaktır (ρ ≈ 0,31). Yani çok hatlı bir merkez şebekenin ortasında olmak zorunda değildir.</p>
+
+<h3>4.3 Topluluklar</h3>
+<div class="yan">
+<div>
+<p>Louvain ve Leiden 25'er topluluk ve modülerlik Q = 0,890 buldu. İki bölümleme büyük ölçüde örtüşür (NMI = 0,92, ARI = 0,82). 10 farklı tohumla çalıştırıldığında Louvain sonuçları ortalama NMI = 0,90 ± 0,02, ARI = 0,78 ± 0,07; Leiden sonuçları NMI = 0,90 ± 0,02, ARI = 0,78 ± 0,04 benzerlik gösterdi. Büyük toplulukların sınırı kararlıdır; değişen kısım, iki topluluk arasında kalan birkaç uç merkezdir.</p>
+<p>Hatların %94'ü aynı topluluk içindeki merkezleri bağlar. Topluluklar coğrafi bölgelerle örtüşür ve içerikleri adlandırmaya izin verir: <b>Trakya–İstanbul</b> (118 merkez; Hamitabat, Malkara, Çorlu), <b>Doğu Marmara</b> (76; Adapazarı, Osmanca, Tepeören, Köseköy), <b>Konya–Antalya</b> (64; Seydişehir, Oymapınar HES, Varsak), <b>Orta Anadolu–Karadeniz</b> (63; Kayabaşı, Kurşunlu, Çankırı, Çorum), <b>Afşin-Elbistan–Keban</b> (60; termik ve hidroelektrik üretim havzası), Diyarbakır–Mardin, İzmir–Manisa ve Gaziantep–Şanlıurfa. Betweenness'ı en yüksek üç merkezden Osmanca Doğu Marmara'nın, Kurşunlu ve Kayabaşı ise Orta Anadolu–Karadeniz topluluğunun içindedir; yani koridor iki topluluğu birbirine bağlayan sınır hattıdır.</p>
+</div>
+<figure style="margin:0">
+  <img src="../../figures/topluluklar.png" alt="Topluluk haritası">
+  <figcaption><b>Şekil 4.</b> Louvain toplulukları; en büyük 8 topluluk renkli.</figcaption>
+</figure>
+</div>
+
+<h3>4.4 Null model</h3>
+<figure>
+  <img src="../../figures/null_model.png" alt="Null model">
+  <figcaption><b>Şekil 5.</b> 100 configuration model (mavi) ve 100 Erdős–Rényi (gri) ağındaki dağılımlar; kırmızı çizgi gözlenen değer.</figcaption>
+</figure>
+<p>Kümelenme (0,204 karşısında rastgele 0,002; z = 142), ortalama en kısa yol (12,7 karşısında 6,9; z = 91) ve modülerlik (0,890 karşısında 0,716; z = 45) rastlantıyla açıklanamaz. Modülerlik sonucu ayrıca öğreticidir: aynı derece dizisine sahip rastgele ağlar bile 0,72 modülerliğe ulaşır, çünkü bu kadar seyrek ağlarda topluluk algoritmaları her zaman bir bölümleme bulur. Null model olmasaydı "0,89 çok yüksek" demek yanıltıcı olurdu; doğru ifade, gözlenen yapının rastgele seyrek ağdan 45 standart sapma daha modüler olduğudur. Derece benzeşimi ise rastgele ağdan ayırt edilemez (z = −0,9). Erdős–Rényi karşılaştırması aynı sonuçları verir.</p>
+
+<h3>4.5 Tek hata noktaları</h3>
+<p>Ana parçadaki 1.072 merkezin <b>326'sı (%30) eklem noktası</b>, 1.449 kenarın <b>367'si (%25) köprüdür</b>. Bu yüksek oran, merkezlerin yalnızca %68'inin bir halka üzerinde (2-çekirdek) olmasından kaynaklanır; geri kalanlar ağaç biçiminde dallanan radyal uçlardır. Eklem noktalarının 162'si yalnızca tek bir merkezi koparır; bunlar bir uç merkezi besleyen son durak gibidir. Kritik olanlar 10 veya daha fazla merkezi koparan <b>14 eklem noktası</b> ve 6 köprü hattır (Şekil 6). En kritik iki nokta Kozan TM ve Kozan Havza TM'dir: Kozan bölgesindeki hidroelektrik santralleri ana şebekeye tek bir 154 kV yolla bağlanır ve bu yol kesilirse 14–15 merkez kopar. Balıkesir-2 (12 merkez, Çanakkale yönü), Silivri (11, Trakya'nın bir kolu), Küre ve Cide (11, Batı Karadeniz kıyısı), Bursa DGKÇ (11, Orhangazi–Yalova yönü) ve Kars (10, Ardahan–Artvin yönü) diğer belirgin tek hata noktalarıdır.</p>
+<figure>
+  <img src="../../figures/tek_hata_noktalari.png" alt="Tek hata noktaları">
+  <figcaption><b>Şekil 6.</b> Eklem noktaları (boy = kopardığı merkez sayısı; kırmızı 10+) ve 5'ten fazla merkezi koparan köprü hatlar (mor).</figcaption>
+</figure>
+<p>Hedefli sökme deneyi (Şekil 7) ağın bu yapısını özetler: merkezler rastgele kaldırıldığında ana parça ancak %21'i gidince yarıya iner, en yüksek betweenness'tan başlayarak kaldırıldığında ise yalnızca 20 merkez (%1,9) yeterlidir. Dayanıklılık eğrisinin altındaki alan rastgele sökmede 0,209, hedefli sökmede 0,056'dır.</p>
+
+<h3>4.6 Zincirleme arıza</h3>
+<div class="yan">
+<figure style="margin:0">
+  <img src="../../figures/kaskad_alfa.png" alt="Kaskad sonuçları">
+  <figcaption><b>Şekil 8.</b> Kaskad sonrası en büyük parça G; çizgi ortalama, gölge en kötü durum.</figcaption>
+</figure>
+<figure style="margin:0">
+  <img src="../../figures/dayaniklilik.png" alt="Dayanıklılık">
+  <figcaption><b>Şekil 7.</b> Rastgele ve hedefli sökmede en büyük parçanın küçülmesi.</figcaption>
+</figure>
+</div>
+<table>
+  <tr><th>Başlangıç merkezi grubu</th><th class="s">α = 0,10</th><th class="s">α = 0,25</th><th class="s">α = 0,50</th><th class="s">α = 1,00</th></tr>
+  <tr><td>En yüksek yüklü 10 merkez</td><td class="s">0,32</td><td class="s">0,32</td><td class="s">0,43</td><td class="s">0,53</td></tr>
+  <tr><td>En kritik 10 eklem noktası</td><td class="s">0,74</td><td class="s">0,84</td><td class="s">0,85</td><td class="s">0,89</td></tr>
+  <tr><td>Rastgele 20 merkez</td><td class="s">0,83</td><td class="s">0,97</td><td class="s">0,98</td><td class="s">0,99</td></tr>
+</table>
+<p>Tablo, kaskad sonrası ayakta kalan en büyük parçanın (G) ortalamasıdır. Rastgele bir merkezin kaybı %25 yedek kapasiteyle şebekenin ortalama %97'sini ayakta bırakır. Yüksek yüklü bir merkezin kaybında ise G ortalama 0,32'ye iner; kapasite iki katına çıkarılsa bile (α = 1) yarıya yakın kayıp sürer. En kritik eklem noktalarından başlayan kaskadlar daha sınırlıdır (G = 0,84), çünkü bu noktalar yük taşıyan omurgada değil, omurganın ucundaki radyal kollardadır.</p>
+<figure>
+  <img src="../../figures/kaskad_dalgalar.png" alt="Osmanca kaskadı">
+  <figcaption><b>Şekil 9.</b> Osmanca TM düştüğünde (α = 0,25) dalga dalga devre dışı kalan merkezler.</figcaption>
+</figure>
+<p>Şekil 9 en yüklü merkez olan Osmanca'nın kaybını izler. Osmanca kendisi bir eklem noktası olarak yalnızca 10 merkezi koparır. Ancak düştüğünde batı–doğu yolları güneye kayar ve birinci dalgada 67 merkez kapasite aşımıyla düşer; bunların en yüklüleri güney koridorundadır (Erzin, Varsak, Yatağan, Işıklar, Seydişehir, Adana). İkinci dalgada 31 merkez daha düşer, ardından üç küçük dalgayla zincir durur. Toplam 102 merkez (%10) devre dışıdır ama ayakta kalan en büyük parça şebekenin yalnızca %34'üdür; çünkü düşen merkezler bölgeleri birbirine bağlayan merkezlerdir ve şebeke bölgesel adalara ayrılır. Modelde en büyük hasar Soma-B TES'ten başlayan kaskadda görülür: dört dalgada 201 merkez düşer ve G = 0,24 olur.</p>
+
+<h2><span class="no">5</span>Tartışma</h2>
+<p><b>Hangi merkezler tek hata noktası?</b> Yapısal anlamda 326 merkez, ama pratik önemi olan 14 tanesidir ve bunlar radyal kolların başındaki merkezlerdir: Kozan, Balıkesir-2, Silivri, Küre–Cide, Bursa DGKÇ, Kars, Yatağan, Varsak. Bu merkezlerin kaybı belirli bir bölgeyi (Kozan havzası, Çanakkale yönü, Batı Karadeniz kıyısı) şebekeden ayırır, ama ülke geneli şebekeyi bozmaz.</p>
+<p><b>Zincirleme arıza nasıl yayılır?</b> Kaskad, eklem noktalarından değil yük taşıyan omurgadan başlar. Şebekenin en kırılgan yeri tek bir trafo merkezi değil, Marmara'yı Anadolu'ya bağlayan Osmanca–Kurşunlu–Kayabaşı koridorudur. Bu koridorda bir kopma olduğunda yük alternatif güney koridoruna biner, o koridor da taşıyamaz ve şebeke Marmara, Ege, Akdeniz ve Doğu Anadolu adalarına bölünür. Bu sonuç, iki farklı soruya iki farklı merkez kümesinin cevap verdiğini gösterir: eklem noktası analizi "hangi bölge karanlıkta kalır?" sorusunu, kaskad analizi "hangi arıza ülke geneline yayılır?" sorusunu cevaplar. Yatırım açısından bakıldığında radyal kollar ikinci bir hatla halka hâline getirilirse eklem noktası sayısı düşer; koridor riski ise batı ile doğu arasına paralel güzergâh eklenerek azalır.</p>
+<p><b>Nedensellik uyarısı.</b> Bulgular ağın topolojisinden çıkarılmıştır ve "bu merkez düşerse şu kadar kesinti olur" biçiminde gerçek bir tahmin değildir. Gerçek kesintiyi santral üretimi, tüketim, hat kapasiteleri ve koruma sistemleri belirler.</p>
+
+<h2><span class="no">6</span>Sınırlar</h2>
+<ul>
+  <li><b>OSM eksikliği.</b> OSM gönüllülerce çizilir ve tam değildir. Hatların %26'sında gerilim etiketi yoktur; 438 hat kümesi hiçbir trafo merkezine değmez; 1.719 hat ucu boşta kalır; 38 küçük parça büyük olasılıkla ana şebekeye bağlıdır ama bağlantı çizilmemiştir. Eksik bir hat, gerçekte halka olan bir yapıyı ağaç gibi gösterir; bu yüzden eklem noktası sayısı gerçek şebekedekinden fazla tahmin ediliyor olabilir. Tersine, OSM'de var olup artık kullanılmayan ya da yanlış bağlanmış hatlar da olabilir.</li>
+  <li><b>Ağ kurma kararları.</b> 300 m eşleme eşiği ve branşmanların en küçük kapsayan ağaçla bağlanması bazı gerçek bağlantıları kaçırabilir ya da sahte bağlantı üretebilir. Yalnızca gerilimi bilinen hatlarla kurulan "sıkı ağ" (1.084 düğüm, ana parça 988) daha da parçalıdır; ana sonuçların yönü değişmez ama sayılar değişir.</li>
+  <li><b>Kaskad modeli.</b> Motter–Lai modeli enerjinin en kısa yoldan aktığını ve her merkezin aynı oranda yedek kapasitesi olduğunu varsayar. Gerçek şebekede akış Kirchhoff yasalarına göre dağılır (AC güç akışı), santraller ve tüketim noktaları farklıdır ve koruma röleleri arızayı yalıtmaya çalışır. Model bu yüzden kaskadın büyüklüğünü abartabilir; kullanımı, merkezleri birbirine göre sıralamak içindir.</li>
+  <li><b>Ağırlıksızlık ve il ataması.</b> Hat kapasitesi ve uzunluğu analize girmemiştir. İl ataması en yakın il merkezine göredir (ör. Kozan, Adana'ya bağlı olduğu hâlde Osmaniye merkezine daha yakındır).</li>
+</ul>
+
+<h2><span class="no">7</span>Kaynakça</h2>
+<ol class="kaynakca">
+  <li>Albert, R., Albert, I., &amp; Nakarado, G. L. (2004). Structural vulnerability of the North American power grid. <i>Physical Review E, 69</i>, 025103.</li>
+  <li>Alstott, J., Bullmore, E., &amp; Plenz, D. (2014). powerlaw: A Python package for analysis of heavy-tailed distributions. <i>PLoS ONE, 9</i>(1), e85777.</li>
+  <li>Blondel, V. D., Guillaume, J.-L., Lambiotte, R., &amp; Lefebvre, E. (2008). Fast unfolding of communities in large networks. <i>Journal of Statistical Mechanics</i>, P10008.</li>
+  <li>Brandes, U. (2001). A faster algorithm for betweenness centrality. <i>Journal of Mathematical Sociology, 25</i>(2), 163–177.</li>
+  <li>Clauset, A., Shalizi, C. R., &amp; Newman, M. E. J. (2009). Power-law distributions in empirical data. <i>SIAM Review, 51</i>(4), 661–703.</li>
+  <li>Hagberg, A., Schult, D., &amp; Swart, P. (2008). Exploring network structure, dynamics, and function using NetworkX. <i>Proceedings of SciPy 2008</i>, 11–15.</li>
+  <li>Hopcroft, J., &amp; Tarjan, R. (1973). Algorithm 447: Efficient algorithms for graph manipulation. <i>Communications of the ACM, 16</i>(6), 372–378.</li>
+  <li>Motter, A. E., &amp; Lai, Y.-C. (2002). Cascade-based attacks on complex networks. <i>Physical Review E, 66</i>, 065102.</li>
+  <li>Newman, M. E. J. (2006). Modularity and community structure in networks. <i>PNAS, 103</i>(23), 8577–8582.</li>
+  <li>OpenStreetMap katkıcıları (2026). OpenStreetMap verisi, Overpass API ile 28.10.2026'da alındı. ODbL 1.0. https://www.openstreetmap.org</li>
+  <li>Solé, R. V., Rosas-Casals, M., Corominas-Murtra, B., &amp; Valverde, S. (2008). Robustness of the European power grids under intentional attack. <i>Physical Review E, 77</i>, 026102.</li>
+  <li>Traag, V. A., Waltman, L., &amp; van Eck, N. J. (2019). From Louvain to Leiden: guaranteeing well-connected communities. <i>Scientific Reports, 9</i>, 5233.</li>
+</ol>
+<p style="font: 8.6pt/1.4 var(--f-arayuz); color: var(--soluk); margin-top: 8pt"><b>Yapay zekâ kullanım beyanı.</b> Kodun yazımında, şekillerin hazırlanmasında ve metnin düzenlenmesinde yapay zekâ asistanı (Claude) kullanılmıştır. Veri toplama, analiz kararları ve sonuçlar tarafımca kontrol edilmiş; ayrıntılar depo README dosyasındadır. Kod ve veri: GitHub deposu; etkileşimli ağ: portfolyo.</p>
+</body>
+</html>

@@ -1,0 +1,2048 @@
+{
+ "en_yuksek_yuk": {
+  "baslangic": "w174078394",
+  "alfa": 0.25,
+  "dalgalar": [
+   [
+    "w174078394"
+   ],
+   [
+    "n2791747791",
+    "w1088872940",
+    "w117562956",
+    "w1179676174",
+    "w1182175650",
+    "w1206783204",
+    "w127790110",
+    "w127886746",
+    "w128186930",
+    "w128605941",
+    "w128631297",
+    "w129310313",
+    "w129319599",
+    "w1301292094",
+    "w130548551",
+    "w130569382",
+    "w130663470",
+    "w132139318",
+    "w132139320",
+    "w139418679",
+    "w1413986381",
+    "w1456941201",
+    "w1536182950",
+    "w1569830824",
+    "w165974346",
+    "w169932529",
+    "w171823579",
+    "w172277775",
+    "w172934516",
+    "w173298048",
+    "w177511801",
+    "w177818606",
+    "w180444897",
+    "w184450507",
+    "w184758229",
+    "w184758230",
+    "w184758233",
+    "w187921537",
+    "w191118467",
+    "w191271368",
+    "w191392798",
+    "w192994331",
+    "w202173293",
+    "w204556009",
+    "w208957626",
+    "w210360366",
+    "w216425171",
+    "w216496632",
+    "w275166192",
+    "w275174504",
+    "w31431196",
+    "w346404078",
+    "w400981737",
+    "w624118216",
+    "w687802661",
+    "w693406206",
+    "w709224922",
+    "w780915147",
+    "w782681464",
+    "w782963223",
+    "w785705114",
+    "w796303197",
+    "w815866527",
+    "w860391085",
+    "w91680343",
+    "w95171610",
+    "w966899330"
+   ],
+   [
+    "n2791747782",
+    "w1003843015",
+    "w1192455611",
+    "w1281442200",
+    "w129366484",
+    "w129406297",
+    "w129870380",
+    "w131978207",
+    "w134555086",
+    "w1465059656",
+    "w1476988958",
+    "w169361002",
+    "w172662466",
+    "w176517634",
+    "w176751230",
+    "w176767352",
+    "w176767354",
+    "w178129913",
+    "w187043599",
+    "w187177705",
+    "w190266588",
+    "w190452052",
+    "w191550546",
+    "w191955175",
+    "w229709993",
+    "w242718907",
+    "w275003099",
+    "w492117995",
+    "w602866415",
+    "w781587366",
+    "w853504082"
+   ],
+   [
+    "w807759192"
+   ],
+   [
+    "w183041551"
+   ],
+   [
+    "w174169795"
+   ]
+  ],
+  "dalga_sayisi": 5,
+  "dusen_toplam": 102,
+  "G": 0.3376865671641791,
+  "ad": "Osmanca TM",
+  "il": "Düzce",
+  "dalga_detay": [
+   [
+    {
+     "id": "w174078394",
+     "ad": "Osmanca TM",
+     "il": "Düzce"
+    }
+   ],
+   [
+    {
+     "id": "n2791747791",
+     "ad": "n2791747791",
+     "il": "Denizli"
+    },
+    {
+     "id": "w1088872940",
+     "ad": "Kavacık TM",
+     "il": "İstanbul"
+    },
+    {
+     "id": "w117562956",
+     "ad": "Yeniköy TES TM",
+     "il": "Muğla"
+    },
+    {
+     "id": "w1179676174",
+     "ad": "Hasanoba Res TM",
+     "il": "Çanakkale"
+    },
+    {
+     "id": "w1182175650",
+     "ad": "Sultanhisar Jes TM",
+     "il": "Aydın"
+    },
+    {
+     "id": "w1206783204",
+     "ad": "TM",
+     "il": "Elazığ"
+    },
+    {
+     "id": "w127790110",
+     "ad": "Sugözü TES TM",
+     "il": "Osmaniye"
+    },
+    {
+     "id": "w127886746",
+     "ad": "Yatağan TES TM",
+     "il": "Muğla"
+    },
+    {
+     "id": "w128186930",
+     "ad": "Gaziantep-1 TM",
+     "il": "Gaziantep"
+    },
+    {
+     "id": "w128605941",
+     "ad": "Misis TM",
+     "il": "Adana"
+    },
+    {
+     "id": "w128631297",
+     "ad": "Ümraniye TM",
+     "il": "İstanbul"
+    },
+    {
+     "id": "w129310313",
+     "ad": "Hasançelebi TM",
+     "il": "Malatya"
+    },
+    {
+     "id": "w129319599",
+     "ad": "Şanlıurfa-2 TM",
+     "il": "Şanlıurfa"
+    },
+    {
+     "id": "w1301292094",
+     "ad": "TM",
+     "il": "Gaziantep"
+    },
+    {
+     "id": "w130548551",
+     "ad": "Kurtköy TM",
+     "il": "Yalova"
+    },
+    {
+     "id": "w130569382",
+     "ad": "Işıklar TM",
+     "il": "İzmir"
+    },
+    {
+     "id": "w130663470",
+     "ad": "Germencik 380kV TM",
+     "il": "Aydın"
+    },
+    {
+     "id": "w132139318",
+     "ad": "Adapazarı-1 DGKÇ",
+     "il": "Sakarya"
+    },
+    {
+     "id": "w132139320",
+     "ad": "Adapazarı-2 DGKÇ",
+     "il": "Sakarya"
+    },
+    {
+     "id": "w139418679",
+     "ad": "Manisa OSB TM",
+     "il": "Manisa"
+    },
+    {
+     "id": "w1413986381",
+     "ad": "Sibel Res TM",
+     "il": "Manisa"
+    },
+    {
+     "id": "w1456941201",
+     "ad": "w1456941201",
+     "il": "Karabük"
+    },
+    {
+     "id": "w1536182950",
+     "ad": "w1536182950",
+     "il": "Sakarya"
+    },
+    {
+     "id": "w1569830824",
+     "ad": "w1569830824",
+     "il": "Kocaeli"
+    },
+    {
+     "id": "w165974346",
+     "ad": "Tepeören TM",
+     "il": "Yalova"
+    },
+    {
+     "id": "w169932529",
+     "ad": "İsmetpaşa TM",
+     "il": "Karabük"
+    },
+    {
+     "id": "w171823579",
+     "ad": "Darende TM",
+     "il": "Malatya"
+    },
+    {
+     "id": "w172277775",
+     "ad": "Kızıltepe 380kV TM",
+     "il": "Mardin"
+    },
+    {
+     "id": "w172934516",
+     "ad": "Seydişehir TM",
+     "il": "Konya"
+    },
+    {
+     "id": "w173298048",
+     "ad": "Çayırhan TES TM",
+     "il": "Bolu"
+    },
+    {
+     "id": "w177511801",
+     "ad": "AKSA DKÇS 380kV TM",
+     "il": "Antalya"
+    },
+    {
+     "id": "w177818606",
+     "ad": "Erzin TM",
+     "il": "Osmaniye"
+    },
+    {
+     "id": "w180444897",
+     "ad": "Gönen TM",
+     "il": "Balıkesir"
+    },
+    {
+     "id": "w184450507",
+     "ad": "Adana TM",
+     "il": "Adana"
+    },
+    {
+     "id": "w184758229",
+     "ad": "TEİAŞ Bolu- 1 Trafo Merkezi",
+     "il": "Bolu"
+    },
+    {
+     "id": "w184758230",
+     "ad": "Bolu ÇİM TM",
+     "il": "Bolu"
+    },
+    {
+     "id": "w184758233",
+     "ad": "Gerkonsan TM",
+     "il": "Bolu"
+    },
+    {
+     "id": "w187921537",
+     "ad": "Ceyhan-I TM",
+     "il": "Osmaniye"
+    },
+    {
+     "id": "w191118467",
+     "ad": "Hendek TM",
+     "il": "Sakarya"
+    },
+    {
+     "id": "w191271368",
+     "ad": "TEİAŞ Karasu Trafo Merkezi",
+     "il": "Sakarya"
+    },
+    {
+     "id": "w191392798",
+     "ad": "Bolu-2 TM",
+     "il": "Bolu"
+    },
+    {
+     "id": "w192994331",
+     "ad": "Akçalar TM",
+     "il": "Bursa"
+    },
+    {
+     "id": "w202173293",
+     "ad": "Telhamut TM",
+     "il": "Mardin"
+    },
+    {
+     "id": "w204556009",
+     "ad": "Yedigöze HES TM",
+     "il": "Adana"
+    },
+    {
+     "id": "w208957626",
+     "ad": "Ceyhan HES TM",
+     "il": "Kahramanmaraş"
+    },
+    {
+     "id": "w210360366",
+     "ad": "Sarıyar HES TM",
+     "il": "Bolu"
+    },
+    {
+     "id": "w216425171",
+     "ad": "Kaynarca TM",
+     "il": "Sakarya"
+    },
+    {
+     "id": "w216496632",
+     "ad": "Bekirli TES TM",
+     "il": "Çanakkale"
+    },
+    {
+     "id": "w275166192",
+     "ad": "Pompa 3 TM",
+     "il": "Gaziantep"
+    },
+    {
+     "id": "w275174504",
+     "ad": "ÇİMKO TM",
+     "il": "Kahramanmaraş"
+    },
+    {
+     "id": "w31431196",
+     "ad": "Paşaköy TM",
+     "il": "İstanbul"
+    },
+    {
+     "id": "w346404078",
+     "ad": "TEİAŞ Eskişehir 3 Trafo Merkezi",
+     "il": "Eskişehir"
+    },
+    {
+     "id": "w400981737",
+     "ad": "Trafo",
+     "il": "Şanlıurfa"
+    },
+    {
+     "id": "w624118216",
+     "ad": "Yukarı Kaleköy Barajı HES TM",
+     "il": "Muş"
+    },
+    {
+     "id": "w687802661",
+     "ad": "Bağıştaş 380 TM",
+     "il": "Erzincan"
+    },
+    {
+     "id": "w693406206",
+     "ad": "Dodan TM",
+     "il": "Siirt"
+    },
+    {
+     "id": "w709224922",
+     "ad": "Tatvan 380kV TM",
+     "il": "Bitlis"
+    },
+    {
+     "id": "w780915147",
+     "ad": "Kula TM",
+     "il": "Uşak"
+    },
+    {
+     "id": "w782681464",
+     "ad": "Çan 2 Tes TM",
+     "il": "Çanakkale"
+    },
+    {
+     "id": "w782963223",
+     "ad": "Yeni DGKÇS TM",
+     "il": "Yalova"
+    },
+    {
+     "id": "w785705114",
+     "ad": "Tosçelik TM",
+     "il": "Osmaniye"
+    },
+    {
+     "id": "w796303197",
+     "ad": "Çimsa Trafo Merkezi",
+     "il": "Eskişehir"
+    },
+    {
+     "id": "w815866527",
+     "ad": "DDY Günyazı TM",
+     "il": "Osmaniye"
+    },
+    {
+     "id": "w860391085",
+     "ad": "Acar TM",
+     "il": "Gaziantep"
+    },
+    {
+     "id": "w91680343",
+     "ad": "Gaziantep-2",
+     "il": "Gaziantep"
+    },
+    {
+     "id": "w95171610",
+     "ad": "Varsak TM",
+     "il": "Antalya"
+    },
+    {
+     "id": "w966899330",
+     "ad": "Kocaeli TM",
+     "il": "Kocaeli"
+    }
+   ],
+   [
+    {
+     "id": "n2791747782",
+     "ad": "Denizli4 TM",
+     "il": "Denizli"
+    },
+    {
+     "id": "w1003843015",
+     "ad": "Alakova TM",
+     "il": "Konya"
+    },
+    {
+     "id": "w1192455611",
+     "ad": "Tayseb TM",
+     "il": "Osmaniye"
+    },
+    {
+     "id": "w1281442200",
+     "ad": "TM",
+     "il": "Tunceli"
+    },
+    {
+     "id": "w129366484",
+     "ad": "Suruç TM",
+     "il": "Şanlıurfa"
+    },
+    {
+     "id": "w129406297",
+     "ad": "Şanlıurfa ÇİM TM",
+     "il": "Şanlıurfa"
+    },
+    {
+     "id": "w129870380",
+     "ad": "Çağ Çağ TM",
+     "il": "Mardin"
+    },
+    {
+     "id": "w131978207",
+     "ad": "Bandırma-3 TM",
+     "il": "Balıkesir"
+    },
+    {
+     "id": "w134555086",
+     "ad": "PS-5 TM",
+     "il": "Gaziantep"
+    },
+    {
+     "id": "w1465059656",
+     "ad": "TM",
+     "il": "Sivas"
+    },
+    {
+     "id": "w1476988958",
+     "ad": "TEİAŞ Tarsus Organize Sanayi Bölgesi Transformatör Merkezi",
+     "il": "Mersin"
+    },
+    {
+     "id": "w169361002",
+     "ad": "TCDD Çetinkaya",
+     "il": "Sivas"
+    },
+    {
+     "id": "w172662466",
+     "ad": "Muratlı Arma Hes TM",
+     "il": "Giresun"
+    },
+    {
+     "id": "w176517634",
+     "ad": "Alaşehir TM",
+     "il": "Denizli"
+    },
+    {
+     "id": "w176751230",
+     "ad": "Salihli TM",
+     "il": "Manisa"
+    },
+    {
+     "id": "w176767352",
+     "ad": "Demirköprü HES TM",
+     "il": "Manisa"
+    },
+    {
+     "id": "w176767354",
+     "ad": "Derbent TM",
+     "il": "Manisa"
+    },
+    {
+     "id": "w178129913",
+     "ad": "Tarsus TM",
+     "il": "Mersin"
+    },
+    {
+     "id": "w187043599",
+     "ad": "Sarayköy TM",
+     "il": "Denizli"
+    },
+    {
+     "id": "w187177705",
+     "ad": "Kızıldere JTS TM",
+     "il": "Denizli"
+    },
+    {
+     "id": "w190266588",
+     "ad": "Adıyaman TM",
+     "il": "Adıyaman"
+    },
+    {
+     "id": "w190452052",
+     "ad": "Güney Adana TM",
+     "il": "Adana"
+    },
+    {
+     "id": "w191550546",
+     "ad": "Engil TM",
+     "il": "Van"
+    },
+    {
+     "id": "w191955175",
+     "ad": "Vitra Karo 154 kV TM",
+     "il": "Bilecik"
+    },
+    {
+     "id": "w229709993",
+     "ad": "TCDD Yazıhan TM",
+     "il": "Malatya"
+    },
+    {
+     "id": "w242718907",
+     "ad": "Tahtalı TM",
+     "il": "İzmir"
+    },
+    {
+     "id": "w275003099",
+     "ad": "Akçakale TM",
+     "il": "Şanlıurfa"
+    },
+    {
+     "id": "w492117995",
+     "ad": "Edincik RES TM",
+     "il": "Balıkesir"
+    },
+    {
+     "id": "w602866415",
+     "ad": "Alaşehir Havza TM",
+     "il": "Aydın"
+    },
+    {
+     "id": "w781587366",
+     "ad": "Beyhan Barajı HES TM",
+     "il": "Bingöl"
+    },
+    {
+     "id": "w853504082",
+     "ad": "Türkerler Alaşehir3 Jes TM",
+     "il": "Aydın"
+    }
+   ],
+   [
+    {
+     "id": "w807759192",
+     "ad": "Kozluk Trafo Merkezi",
+     "il": "Siirt"
+    }
+   ],
+   [
+    {
+     "id": "w183041551",
+     "ad": "Muş TM",
+     "il": "Muş"
+    }
+   ],
+   [
+    {
+     "id": "w174169795",
+     "ad": "Tunceli TM",
+     "il": "Tunceli"
+    }
+   ]
+  ],
+  "dalga_iller": [
+   [
+    "Düzce"
+   ],
+   [
+    "Adana",
+    "Antalya",
+    "Aydın",
+    "Balıkesir",
+    "Bitlis",
+    "Bolu",
+    "Bursa",
+    "Denizli",
+    "Elazığ",
+    "Erzincan",
+    "Eskişehir",
+    "Gaziantep",
+    "Kahramanmaraş",
+    "Karabük",
+    "Kocaeli",
+    "Konya",
+    "Malatya",
+    "Manisa",
+    "Mardin",
+    "Muğla",
+    "Muş",
+    "Osmaniye",
+    "Sakarya",
+    "Siirt",
+    "Uşak",
+    "Yalova",
+    "Çanakkale",
+    "İstanbul",
+    "İzmir",
+    "Şanlıurfa"
+   ],
+   [
+    "Adana",
+    "Adıyaman",
+    "Aydın",
+    "Balıkesir",
+    "Bilecik",
+    "Bingöl",
+    "Denizli",
+    "Gaziantep",
+    "Giresun",
+    "Konya",
+    "Malatya",
+    "Manisa",
+    "Mardin",
+    "Mersin",
+    "Osmaniye",
+    "Sivas",
+    "Tunceli",
+    "Van",
+    "İzmir",
+    "Şanlıurfa"
+   ],
+   [
+    "Siirt"
+   ],
+   [
+    "Muş"
+   ],
+   [
+    "Tunceli"
+   ]
+  ]
+ },
+ "en_hasarli": {
+  "baslangic": "w127986151",
+  "alfa": 0.25,
+  "dalgalar": [
+   [
+    "w127986151"
+   ],
+   [
+    "n2791810534",
+    "w1007297249",
+    "w1179676174",
+    "w1196806004",
+    "w127986149",
+    "w127992955",
+    "w130663470",
+    "w131978207",
+    "w1426573027",
+    "w149996303",
+    "w175080552",
+    "w175080669",
+    "w175096848",
+    "w176441329",
+    "w176517634",
+    "w176751230",
+    "w176767352",
+    "w176767354",
+    "w180431765",
+    "w182731034",
+    "w182886094",
+    "w187177705",
+    "w189372840",
+    "w189387144",
+    "w189667571",
+    "w190897007",
+    "w191171801",
+    "w242718907",
+    "w348777404",
+    "w348777405",
+    "w530815971",
+    "w602866415",
+    "w753837958",
+    "w780915147",
+    "w781767391",
+    "w785344481",
+    "w824934491",
+    "w853504082",
+    "w902150874"
+   ],
+   [
+    "w1148182457",
+    "w117562956",
+    "w1182175650",
+    "w127790110",
+    "w127936765",
+    "w128190663",
+    "w128190689",
+    "w128531803",
+    "w130444135",
+    "w130513966",
+    "w132139320",
+    "w139418770",
+    "w150665477",
+    "w170655124",
+    "w172934516",
+    "w173780938",
+    "w175867656",
+    "w177818606",
+    "w179583011",
+    "w179583012",
+    "w179758261",
+    "w184450507",
+    "w184758230",
+    "w184758233",
+    "w186797389",
+    "w187212772",
+    "w190555262",
+    "w191271368",
+    "w191955190",
+    "w229811495",
+    "w785705114",
+    "w959072396"
+   ],
+   [
+    "w1003843015",
+    "w1192455611",
+    "w1206783204",
+    "w1280872891",
+    "w1281442200",
+    "w128605938",
+    "w128629081",
+    "w128629186",
+    "w129305272",
+    "w129323779",
+    "w129323780",
+    "w130304282",
+    "w134555084",
+    "w1465059656",
+    "w1476988958",
+    "w152202929",
+    "w169361002",
+    "w174169795",
+    "w178129913",
+    "w178198475",
+    "w181385259",
+    "w181724474",
+    "w183451807",
+    "w190452052",
+    "w190478553",
+    "w191791229",
+    "w191955175",
+    "w194508537",
+    "w208086859",
+    "w208957626",
+    "w229709993",
+    "w229782457",
+    "w258940063",
+    "w275166192",
+    "w275174504",
+    "w375389532",
+    "w570365684",
+    "w687322075",
+    "w687802661",
+    "w781587366",
+    "w782622508",
+    "w787680631",
+    "w815866527",
+    "w91680343",
+    "w988351678"
+   ],
+   [
+    "w1005161417",
+    "w1034865288",
+    "w1169929828",
+    "w1205045831",
+    "w128190664",
+    "w128497236",
+    "w128998325",
+    "w128998328",
+    "w129021712",
+    "w129310313",
+    "w129366484",
+    "w129366486",
+    "w129366487",
+    "w129406297",
+    "w129693131",
+    "w129870380",
+    "w1301292094",
+    "w130134452",
+    "w131238799",
+    "w133432874",
+    "w134555085",
+    "w135701415",
+    "w137028604",
+    "w1446915162",
+    "w1450354822",
+    "w169414306",
+    "w171078718",
+    "w171823579",
+    "w172277775",
+    "w172277777",
+    "w172320373",
+    "w172662466",
+    "w172824820",
+    "w175453225",
+    "w175488858",
+    "w179170027",
+    "w180485592",
+    "w181485081",
+    "w183041551",
+    "w183428190",
+    "w184165482",
+    "w186285255",
+    "w186329940",
+    "w186460022",
+    "w186482628",
+    "w188646193",
+    "w189082303",
+    "w189174023",
+    "w189248643",
+    "w190266588",
+    "w191420141",
+    "w191530942",
+    "w194082258",
+    "w195275155",
+    "w202173293",
+    "w213128258",
+    "w213202970",
+    "w213841337",
+    "w222378519",
+    "w229912028",
+    "w230013591",
+    "w230118789",
+    "w230118808",
+    "w233127593",
+    "w235476443",
+    "w273716858",
+    "w274295758",
+    "w275003099",
+    "w276981294",
+    "w400981737",
+    "w426785758",
+    "w532567102",
+    "w624118216",
+    "w655847650",
+    "w667027865",
+    "w693406206",
+    "w709224922",
+    "w781794132",
+    "w807759192",
+    "w823254277",
+    "w854994731",
+    "w905329347",
+    "w96580455",
+    "w996250899"
+   ]
+  ],
+  "dalga_sayisi": 4,
+  "dusen_toplam": 201,
+  "G": 0.23600746268656717,
+  "ad": "Soma-B TES TM",
+  "il": "Balıkesir",
+  "dalga_detay": [
+   [
+    {
+     "id": "w127986151",
+     "ad": "Soma-B TES TM",
+     "il": "Balıkesir"
+    }
+   ],
+   [
+    {
+     "id": "n2791810534",
+     "ad": "n2791810534",
+     "il": "Bursa"
+    },
+    {
+     "id": "w1007297249",
+     "ad": "Ayvalık TM",
+     "il": "Çanakkale"
+    },
+    {
+     "id": "w1179676174",
+     "ad": "Hasanoba Res TM",
+     "il": "Çanakkale"
+    },
+    {
+     "id": "w1196806004",
+     "ad": "Gök Res 2 TM",
+     "il": "Manisa"
+    },
+    {
+     "id": "w127986149",
+     "ad": "Soma-B TES 154 kV TM",
+     "il": "Balıkesir"
+    },
+    {
+     "id": "w127992955",
+     "ad": "Bergama Trafo Merkezi",
+     "il": "Manisa"
+    },
+    {
+     "id": "w130663470",
+     "ad": "Germencik 380kV TM",
+     "il": "Aydın"
+    },
+    {
+     "id": "w131978207",
+     "ad": "Bandırma-3 TM",
+     "il": "Balıkesir"
+    },
+    {
+     "id": "w1426573027",
+     "ad": "TM",
+     "il": "Çanakkale"
+    },
+    {
+     "id": "w149996303",
+     "ad": "Seyitömer TES TM",
+     "il": "Kütahya"
+    },
+    {
+     "id": "w175080552",
+     "ad": "SEKA TM",
+     "il": "Balıkesir"
+    },
+    {
+     "id": "w175080669",
+     "ad": "Soma-A TES TM",
+     "il": "Balıkesir"
+    },
+    {
+     "id": "w175096848",
+     "ad": "İÇDAŞ TES TM",
+     "il": "Tekirdağ"
+    },
+    {
+     "id": "w176441329",
+     "ad": "Gürağaç TM",
+     "il": "Kütahya"
+    },
+    {
+     "id": "w176517634",
+     "ad": "Alaşehir TM",
+     "il": "Denizli"
+    },
+    {
+     "id": "w176751230",
+     "ad": "Salihli TM",
+     "il": "Manisa"
+    },
+    {
+     "id": "w176767352",
+     "ad": "Demirköprü HES TM",
+     "il": "Manisa"
+    },
+    {
+     "id": "w176767354",
+     "ad": "Derbent TM",
+     "il": "Manisa"
+    },
+    {
+     "id": "w180431765",
+     "ad": "Bandırma DGKÇS TM",
+     "il": "Balıkesir"
+    },
+    {
+     "id": "w182731034",
+     "ad": "İntepe RES TM",
+     "il": "Çanakkale"
+    },
+    {
+     "id": "w182886094",
+     "ad": "ALOSBİ TM",
+     "il": "Manisa"
+    },
+    {
+     "id": "w187177705",
+     "ad": "Kızıldere JTS TM",
+     "il": "Denizli"
+    },
+    {
+     "id": "w189372840",
+     "ad": "Bigadiç TM",
+     "il": "Balıkesir"
+    },
+    {
+     "id": "w189387144",
+     "ad": "Dursunbey TM",
+     "il": "Balıkesir"
+    },
+    {
+     "id": "w189667571",
+     "ad": "Kestel TM",
+     "il": "Bursa"
+    },
+    {
+     "id": "w190897007",
+     "ad": "TEİAŞ 154 KV Akçay Trafo Merkezi",
+     "il": "Çanakkale"
+    },
+    {
+     "id": "w191171801",
+     "ad": "Demirtaş Trafo Merkezi",
+     "il": "Bursa"
+    },
+    {
+     "id": "w242718907",
+     "ad": "Tahtalı TM",
+     "il": "İzmir"
+    },
+    {
+     "id": "w348777404",
+     "ad": "Bursa DGKÇS TM",
+     "il": "Bursa"
+    },
+    {
+     "id": "w348777405",
+     "ad": "w348777405",
+     "il": "Bursa"
+    },
+    {
+     "id": "w530815971",
+     "ad": "OTOSANSİT TM",
+     "il": "Bursa"
+    },
+    {
+     "id": "w602866415",
+     "ad": "Alaşehir Havza TM",
+     "il": "Aydın"
+    },
+    {
+     "id": "w753837958",
+     "ad": "Rafineri TM",
+     "il": "İzmir"
+    },
+    {
+     "id": "w780915147",
+     "ad": "Kula TM",
+     "il": "Uşak"
+    },
+    {
+     "id": "w781767391",
+     "ad": "Teiaş 6. Bölge Müdürlüğü",
+     "il": "Uşak"
+    },
+    {
+     "id": "w785344481",
+     "ad": "Eğridere TM",
+     "il": "İzmir"
+    },
+    {
+     "id": "w824934491",
+     "ad": "Bandırma DGKÇS 2 TM",
+     "il": "Balıkesir"
+    },
+    {
+     "id": "w853504082",
+     "ad": "Türkerler Alaşehir3 Jes TM",
+     "il": "Aydın"
+    },
+    {
+     "id": "w902150874",
+     "ad": "Polat Tes TM",
+     "il": "Kütahya"
+    }
+   ],
+   [
+    {
+     "id": "w1148182457",
+     "ad": "w1148182457",
+     "il": "Elazığ"
+    },
+    {
+     "id": "w117562956",
+     "ad": "Yeniköy TES TM",
+     "il": "Muğla"
+    },
+    {
+     "id": "w1182175650",
+     "ad": "Sultanhisar Jes TM",
+     "il": "Aydın"
+    },
+    {
+     "id": "w127790110",
+     "ad": "Sugözü TES TM",
+     "il": "Osmaniye"
+    },
+    {
+     "id": "w127936765",
+     "ad": "DEÇEKO TM",
+     "il": "Sivas"
+    },
+    {
+     "id": "w128190663",
+     "ad": "Afşin-Elbistan A TES TM",
+     "il": "Kahramanmaraş"
+    },
+    {
+     "id": "w128190689",
+     "ad": "Afşin-Elbistan B TES 380kV TM",
+     "il": "Kahramanmaraş"
+    },
+    {
+     "id": "w128531803",
+     "ad": "Andırın TM",
+     "il": "Kahramanmaraş"
+    },
+    {
+     "id": "w130444135",
+     "ad": "Sincan TM",
+     "il": "Ankara"
+    },
+    {
+     "id": "w130513966",
+     "ad": "Bağlum TM",
+     "il": "Ankara"
+    },
+    {
+     "id": "w132139320",
+     "ad": "Adapazarı-2 DGKÇ",
+     "il": "Sakarya"
+    },
+    {
+     "id": "w139418770",
+     "ad": "MORSAN TM",
+     "il": "Manisa"
+    },
+    {
+     "id": "w150665477",
+     "ad": "Yenişehir-2 TM",
+     "il": "Bilecik"
+    },
+    {
+     "id": "w170655124",
+     "ad": "Kangal TES TM",
+     "il": "Sivas"
+    },
+    {
+     "id": "w172934516",
+     "ad": "Seydişehir TM",
+     "il": "Konya"
+    },
+    {
+     "id": "w173780938",
+     "ad": "Gündoğdu TM",
+     "il": "Antalya"
+    },
+    {
+     "id": "w175867656",
+     "ad": "Karaman OSB TM",
+     "il": "Karaman"
+    },
+    {
+     "id": "w177818606",
+     "ad": "Erzin TM",
+     "il": "Osmaniye"
+    },
+    {
+     "id": "w179583011",
+     "ad": "Paşalar TM",
+     "il": "Bilecik"
+    },
+    {
+     "id": "w179583012",
+     "ad": "Söğüt TM",
+     "il": "Bilecik"
+    },
+    {
+     "id": "w179758261",
+     "ad": "Acıpayam TM",
+     "il": "Denizli"
+    },
+    {
+     "id": "w184450507",
+     "ad": "Adana TM",
+     "il": "Adana"
+    },
+    {
+     "id": "w184758230",
+     "ad": "Bolu ÇİM TM",
+     "il": "Bolu"
+    },
+    {
+     "id": "w184758233",
+     "ad": "Gerkonsan TM",
+     "il": "Bolu"
+    },
+    {
+     "id": "w186797389",
+     "ad": "Korkuteli TM",
+     "il": "Antalya"
+    },
+    {
+     "id": "w187212772",
+     "ad": "Nazilli TM",
+     "il": "Aydın"
+    },
+    {
+     "id": "w190555262",
+     "ad": "Mersin 380kV TM",
+     "il": "Mersin"
+    },
+    {
+     "id": "w191271368",
+     "ad": "TEİAŞ Karasu Trafo Merkezi",
+     "il": "Sakarya"
+    },
+    {
+     "id": "w191955190",
+     "ad": "Yenişehir-1 TM",
+     "il": "Bilecik"
+    },
+    {
+     "id": "w229811495",
+     "ad": "Tefenni TM",
+     "il": "Burdur"
+    },
+    {
+     "id": "w785705114",
+     "ad": "Tosçelik TM",
+     "il": "Osmaniye"
+    },
+    {
+     "id": "w959072396",
+     "ad": "TM",
+     "il": "Düzce"
+    }
+   ],
+   [
+    {
+     "id": "w1003843015",
+     "ad": "Alakova TM",
+     "il": "Konya"
+    },
+    {
+     "id": "w1192455611",
+     "ad": "Tayseb TM",
+     "il": "Osmaniye"
+    },
+    {
+     "id": "w1206783204",
+     "ad": "TM",
+     "il": "Elazığ"
+    },
+    {
+     "id": "w1280872891",
+     "ad": "Karatay Trafo Merkezi",
+     "il": "Konya"
+    },
+    {
+     "id": "w1281442200",
+     "ad": "TM",
+     "il": "Tunceli"
+    },
+    {
+     "id": "w128605938",
+     "ad": "Ceyhan-II TM",
+     "il": "Osmaniye"
+    },
+    {
+     "id": "w128629081",
+     "ad": "Karahan TM",
+     "il": "Adana"
+    },
+    {
+     "id": "w128629186",
+     "ad": "Seyhan HES 154kV TM",
+     "il": "Adana"
+    },
+    {
+     "id": "w129305272",
+     "ad": "Demirdağ TM",
+     "il": "Sivas"
+    },
+    {
+     "id": "w129323779",
+     "ad": "Bahçe TM",
+     "il": "Osmaniye"
+    },
+    {
+     "id": "w129323780",
+     "ad": "Fevzipaşa TM",
+     "il": "Osmaniye"
+    },
+    {
+     "id": "w130304282",
+     "ad": "Malorsa TM",
+     "il": "Malatya"
+    },
+    {
+     "id": "w134555084",
+     "ad": "Gaziantep-3 TM",
+     "il": "Gaziantep"
+    },
+    {
+     "id": "w1465059656",
+     "ad": "TM",
+     "il": "Sivas"
+    },
+    {
+     "id": "w1476988958",
+     "ad": "TEİAŞ Tarsus Organize Sanayi Bölgesi Transformatör Merkezi",
+     "il": "Mersin"
+    },
+    {
+     "id": "w152202929",
+     "ad": "Karapınar TM",
+     "il": "Karaman"
+    },
+    {
+     "id": "w169361002",
+     "ad": "TCDD Çetinkaya",
+     "il": "Sivas"
+    },
+    {
+     "id": "w174169795",
+     "ad": "Tunceli TM",
+     "il": "Tunceli"
+    },
+    {
+     "id": "w178129913",
+     "ad": "Tarsus TM",
+     "il": "Mersin"
+    },
+    {
+     "id": "w178198475",
+     "ad": "Berke HES TM",
+     "il": "Osmaniye"
+    },
+    {
+     "id": "w181385259",
+     "ad": "TCDD Cürek TM",
+     "il": "Sivas"
+    },
+    {
+     "id": "w181724474",
+     "ad": "Hilvan TM",
+     "il": "Şanlıurfa"
+    },
+    {
+     "id": "w183451807",
+     "ad": "Malatya-1 TM",
+     "il": "Malatya"
+    },
+    {
+     "id": "w190452052",
+     "ad": "Güney Adana TM",
+     "il": "Adana"
+    },
+    {
+     "id": "w190478553",
+     "ad": "Zeytinli TM",
+     "il": "Adana"
+    },
+    {
+     "id": "w191791229",
+     "ad": "Turhal TM",
+     "il": "Amasya"
+    },
+    {
+     "id": "w191955175",
+     "ad": "Vitra Karo 154 kV TM",
+     "il": "Bilecik"
+    },
+    {
+     "id": "w194508537",
+     "ad": "Karakaya HES 380kV TM",
+     "il": "Elazığ"
+    },
+    {
+     "id": "w208086859",
+     "ad": "Bor TM",
+     "il": "Niğde"
+    },
+    {
+     "id": "w208957626",
+     "ad": "Ceyhan HES TM",
+     "il": "Kahramanmaraş"
+    },
+    {
+     "id": "w229709993",
+     "ad": "TCDD Yazıhan TM",
+     "il": "Malatya"
+    },
+    {
+     "id": "w229782457",
+     "ad": "Atatürk HES TM",
+     "il": "Adıyaman"
+    },
+    {
+     "id": "w258940063",
+     "ad": "Kadıncık-1 HES TM",
+     "il": "Mersin"
+    },
+    {
+     "id": "w275166192",
+     "ad": "Pompa 3 TM",
+     "il": "Gaziantep"
+    },
+    {
+     "id": "w275174504",
+     "ad": "ÇİMKO TM",
+     "il": "Kahramanmaraş"
+    },
+    {
+     "id": "w375389532",
+     "ad": "Kadıncık-2 HES TM",
+     "il": "Mersin"
+    },
+    {
+     "id": "w570365684",
+     "ad": "Kartaldağı RES TM",
+     "il": "Gaziantep"
+    },
+    {
+     "id": "w687322075",
+     "ad": "Kandil HES TM",
+     "il": "Kahramanmaraş"
+    },
+    {
+     "id": "w687802661",
+     "ad": "Bağıştaş 380 TM",
+     "il": "Erzincan"
+    },
+    {
+     "id": "w781587366",
+     "ad": "Beyhan Barajı HES TM",
+     "il": "Bingöl"
+    },
+    {
+     "id": "w782622508",
+     "ad": "w782622508",
+     "il": "Osmaniye"
+    },
+    {
+     "id": "w787680631",
+     "ad": "Köse TM",
+     "il": "Gümüşhane"
+    },
+    {
+     "id": "w815866527",
+     "ad": "DDY Günyazı TM",
+     "il": "Osmaniye"
+    },
+    {
+     "id": "w91680343",
+     "ad": "Gaziantep-2",
+     "il": "Gaziantep"
+    },
+    {
+     "id": "w988351678",
+     "ad": "Resadiye TM",
+     "il": "Tokat"
+    }
+   ],
+   [
+    {
+     "id": "w1005161417",
+     "ad": "TM",
+     "il": "Samsun"
+    },
+    {
+     "id": "w1034865288",
+     "ad": "Zeugma TM",
+     "il": "Gaziantep"
+    },
+    {
+     "id": "w1169929828",
+     "ad": "Havza RES TM",
+     "il": "Amasya"
+    },
+    {
+     "id": "w1205045831",
+     "ad": "Eleşkirt TM",
+     "il": "Ağrı"
+    },
+    {
+     "id": "w128190664",
+     "ad": "Afşin-Elbistan B TES 154kV TM",
+     "il": "Kahramanmaraş"
+    },
+    {
+     "id": "w128497236",
+     "ad": "Birecik TM",
+     "il": "Gaziantep"
+    },
+    {
+     "id": "w128998325",
+     "ad": "Akdağmadeni TM",
+     "il": "Tokat"
+    },
+    {
+     "id": "w128998328",
+     "ad": "Sızır TM",
+     "il": "Kayseri"
+    },
+    {
+     "id": "w129021712",
+     "ad": "Sivas TM",
+     "il": "Sivas"
+    },
+    {
+     "id": "w129310313",
+     "ad": "Hasançelebi TM",
+     "il": "Malatya"
+    },
+    {
+     "id": "w129366484",
+     "ad": "Suruç TM",
+     "il": "Şanlıurfa"
+    },
+    {
+     "id": "w129366486",
+     "ad": "Şanlıurfa OSB TM",
+     "il": "Şanlıurfa"
+    },
+    {
+     "id": "w129366487",
+     "ad": "Şanlıurfa-1 TM",
+     "il": "Şanlıurfa"
+    },
+    {
+     "id": "w129406297",
+     "ad": "Şanlıurfa ÇİM TM",
+     "il": "Şanlıurfa"
+    },
+    {
+     "id": "w129693131",
+     "ad": "Batman-2 TM",
+     "il": "Batman"
+    },
+    {
+     "id": "w129870380",
+     "ad": "Çağ Çağ TM",
+     "il": "Mardin"
+    },
+    {
+     "id": "w1301292094",
+     "ad": "TM",
+     "il": "Gaziantep"
+    },
+    {
+     "id": "w130134452",
+     "ad": "Suşehri TM",
+     "il": "Giresun"
+    },
+    {
+     "id": "w131238799",
+     "ad": "Bayburt TM",
+     "il": "Bayburt"
+    },
+    {
+     "id": "w133432874",
+     "ad": "Belkis TM",
+     "il": "Gaziantep"
+    },
+    {
+     "id": "w134555085",
+     "ad": "Gaziantep-4 TM",
+     "il": "Gaziantep"
+    },
+    {
+     "id": "w135701415",
+     "ad": "Sinop TM",
+     "il": "Sinop"
+    },
+    {
+     "id": "w137028604",
+     "ad": "Erciş TM",
+     "il": "Van"
+    },
+    {
+     "id": "w1446915162",
+     "ad": "Kırlık TM",
+     "il": "Şanlıurfa"
+    },
+    {
+     "id": "w1450354822",
+     "ad": "Merzifon TM",
+     "il": "Amasya"
+    },
+    {
+     "id": "w169414306",
+     "ad": "Artova ÇİM TM",
+     "il": "Tokat"
+    },
+    {
+     "id": "w171078718",
+     "ad": "Doğanköy TM",
+     "il": "Kahramanmaraş"
+    },
+    {
+     "id": "w171823579",
+     "ad": "Darende TM",
+     "il": "Malatya"
+    },
+    {
+     "id": "w172277775",
+     "ad": "Kızıltepe 380kV TM",
+     "il": "Mardin"
+    },
+    {
+     "id": "w172277777",
+     "ad": "Kızıltepe TM",
+     "il": "Mardin"
+    },
+    {
+     "id": "w172320373",
+     "ad": "Tatvan TM",
+     "il": "Bitlis"
+    },
+    {
+     "id": "w172662466",
+     "ad": "Muratlı Arma Hes TM",
+     "il": "Giresun"
+    },
+    {
+     "id": "w172824820",
+     "ad": "Kürtün HES TM",
+     "il": "Gümüşhane"
+    },
+    {
+     "id": "w175453225",
+     "ad": "Van OSB TM",
+     "il": "Van"
+    },
+    {
+     "id": "w175488858",
+     "ad": "Çorum-1 TM",
+     "il": "Çorum"
+    },
+    {
+     "id": "w179170027",
+     "ad": "Zara TM",
+     "il": "Sivas"
+    },
+    {
+     "id": "w180485592",
+     "ad": "Fatsa TM",
+     "il": "Ordu"
+    },
+    {
+     "id": "w181485081",
+     "ad": "Yardımcı TM",
+     "il": "Şanlıurfa"
+    },
+    {
+     "id": "w183041551",
+     "ad": "Muş TM",
+     "il": "Muş"
+    },
+    {
+     "id": "w183428190",
+     "ad": "Samsun-2 TM",
+     "il": "Samsun"
+    },
+    {
+     "id": "w184165482",
+     "ad": "Ağrı TM",
+     "il": "Ağrı"
+    },
+    {
+     "id": "w186285255",
+     "ad": "Tokat OSB TM",
+     "il": "Tokat"
+    },
+    {
+     "id": "w186329940",
+     "ad": "Reşadiye-2 HES TM",
+     "il": "Sivas"
+    },
+    {
+     "id": "w186460022",
+     "ad": "Şükrüpaşa İTM",
+     "il": "Erzurum"
+    },
+    {
+     "id": "w186482628",
+     "ad": "Akköy-II HES TM",
+     "il": "Gümüşhane"
+    },
+    {
+     "id": "w188646193",
+     "ad": "Boyabat TM",
+     "il": "Sinop"
+    },
+    {
+     "id": "w189082303",
+     "ad": "Samsun-1 TM",
+     "il": "Samsun"
+    },
+    {
+     "id": "w189174023",
+     "ad": "Ordu TM",
+     "il": "Ordu"
+    },
+    {
+     "id": "w189248643",
+     "ad": "Tirebolu 380kV TM",
+     "il": "Giresun"
+    },
+    {
+     "id": "w190266588",
+     "ad": "Adıyaman TM",
+     "il": "Adıyaman"
+    },
+    {
+     "id": "w191420141",
+     "ad": "Ünye TM",
+     "il": "Ordu"
+    },
+    {
+     "id": "w191530942",
+     "ad": "Ağrı II TM",
+     "il": "Ağrı"
+    },
+    {
+     "id": "w194082258",
+     "ad": "Erzurum 3 TM",
+     "il": "Erzurum"
+    },
+    {
+     "id": "w195275155",
+     "ad": "Maden-2 TM",
+     "il": "Elazığ"
+    },
+    {
+     "id": "w202173293",
+     "ad": "Telhamut TM",
+     "il": "Mardin"
+    },
+    {
+     "id": "w213128258",
+     "ad": "Çarşamba 154kV TM",
+     "il": "Samsun"
+    },
+    {
+     "id": "w213202970",
+     "ad": "Tirebolu 154kV TM",
+     "il": "Giresun"
+    },
+    {
+     "id": "w213841337",
+     "ad": "Koyulhisar HES TM",
+     "il": "Ordu"
+    },
+    {
+     "id": "w222378519",
+     "ad": "Erzincan OSB TM",
+     "il": "Erzincan"
+    },
+    {
+     "id": "w229912028",
+     "ad": "Kargı TM",
+     "il": "Kastamonu"
+    },
+    {
+     "id": "w230013591",
+     "ad": "Pekmezli TM",
+     "il": "Şanlıurfa"
+    },
+    {
+     "id": "w230118789",
+     "ad": "Torul HES TM",
+     "il": "Gümüşhane"
+    },
+    {
+     "id": "w230118808",
+     "ad": "TM",
+     "il": "Gümüşhane"
+    },
+    {
+     "id": "w233127593",
+     "ad": "TEİAŞ 154 KV Samsun 3 Trafo Merkezi",
+     "il": "Samsun"
+    },
+    {
+     "id": "w235476443",
+     "ad": "Refahiye TM",
+     "il": "Erzincan"
+    },
+    {
+     "id": "w273716858",
+     "ad": "Horasan TM",
+     "il": "Erzurum"
+    },
+    {
+     "id": "w274295758",
+     "ad": "Batman HES TM",
+     "il": "Batman"
+    },
+    {
+     "id": "w275003099",
+     "ad": "Akçakale TM",
+     "il": "Şanlıurfa"
+    },
+    {
+     "id": "w276981294",
+     "ad": "Ayancık TM",
+     "il": "Sinop"
+    },
+    {
+     "id": "w400981737",
+     "ad": "Trafo",
+     "il": "Şanlıurfa"
+    },
+    {
+     "id": "w426785758",
+     "ad": "Ilısu Barajı 380 KW Trafo Merkezi",
+     "il": "Siirt"
+    },
+    {
+     "id": "w532567102",
+     "ad": "Kayseri-2",
+     "il": "Kayseri"
+    },
+    {
+     "id": "w624118216",
+     "ad": "Yukarı Kaleköy Barajı HES TM",
+     "il": "Muş"
+    },
+    {
+     "id": "w655847650",
+     "ad": "BOTAŞ PS-4 TM",
+     "il": "Mardin"
+    },
+    {
+     "id": "w667027865",
+     "ad": "Borasco TM",
+     "il": "Ordu"
+    },
+    {
+     "id": "w693406206",
+     "ad": "Dodan TM",
+     "il": "Siirt"
+    },
+    {
+     "id": "w709224922",
+     "ad": "Tatvan 380kV TM",
+     "il": "Bitlis"
+    },
+    {
+     "id": "w781794132",
+     "ad": "Kelkit Havza TM",
+     "il": "Ordu"
+    },
+    {
+     "id": "w807759192",
+     "ad": "Kozluk Trafo Merkezi",
+     "il": "Siirt"
+    },
+    {
+     "id": "w823254277",
+     "ad": "Kayseri Kapasitör TM",
+     "il": "Kayseri"
+    },
+    {
+     "id": "w854994731",
+     "ad": "Tortum TM",
+     "il": "Artvin"
+    },
+    {
+     "id": "w905329347",
+     "ad": "w905329347",
+     "il": "Bitlis"
+    },
+    {
+     "id": "w96580455",
+     "ad": "Borçka HES TM",
+     "il": "Artvin"
+    },
+    {
+     "id": "w996250899",
+     "ad": "Altınordu TM",
+     "il": "Ordu"
+    }
+   ]
+  ],
+  "dalga_iller": [
+   [
+    "Balıkesir"
+   ],
+   [
+    "Aydın",
+    "Balıkesir",
+    "Bursa",
+    "Denizli",
+    "Kütahya",
+    "Manisa",
+    "Tekirdağ",
+    "Uşak",
+    "Çanakkale",
+    "İzmir"
+   ],
+   [
+    "Adana",
+    "Ankara",
+    "Antalya",
+    "Aydın",
+    "Bilecik",
+    "Bolu",
+    "Burdur",
+    "Denizli",
+    "Düzce",
+    "Elazığ",
+    "Kahramanmaraş",
+    "Karaman",
+    "Konya",
+    "Manisa",
+    "Mersin",
+    "Muğla",
+    "Osmaniye",
+    "Sakarya",
+    "Sivas"
+   ],
+   [
+    "Adana",
+    "Adıyaman",
+    "Amasya",
+    "Bilecik",
+    "Bingöl",
+    "Elazığ",
+    "Erzincan",
+    "Gaziantep",
+    "Gümüşhane",
+    "Kahramanmaraş",
+    "Karaman",
+    "Konya",
+    "Malatya",
+    "Mersin",
+    "Niğde",
+    "Osmaniye",
+    "Sivas",
+    "Tokat",
+    "Tunceli",
+    "Şanlıurfa"
+   ],
+   [
+    "Adıyaman",
+    "Amasya",
+    "Artvin",
+    "Ağrı",
+    "Batman",
+    "Bayburt",
+    "Bitlis",
+    "Elazığ",
+    "Erzincan",
+    "Erzurum",
+    "Gaziantep",
+    "Giresun",
+    "Gümüşhane",
+    "Kahramanmaraş",
+    "Kastamonu",
+    "Kayseri",
+    "Malatya",
+    "Mardin",
+    "Muş",
+    "Ordu",
+    "Samsun",
+    "Siirt",
+    "Sinop",
+    "Sivas",
+    "Tokat",
+    "Van",
+    "Çorum",
+    "Şanlıurfa"
+   ]
+  ]
+ }
+}
